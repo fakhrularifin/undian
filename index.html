@@ -72,12 +72,12 @@
             var start = $('#btnStart');
             var detail = $('#detail_anggota');
 
-            var random = (function (){
+            function random(){
               var index = Math.floor(Math.random() * (objData.length - 1));
               $('#nama_anggota').html(objData[index].NAMA);
               $('#detail_anggota').html('No Anggota : ' + objData[index].NO_ANG + '<br>' + objData[index].PERS);
               $("#nama_anggota").attr("data-value", index);
-            });
+            }
 
             window.sessionStorage.removeItem('list_pemenang');
             var obj = (function () {
@@ -111,9 +111,11 @@
             stop.click(function(){
               let id = $("#nama_anggota").attr("data-value");
 
-              if(winner.indexOf(id) > -1){ // Jika pemenang sudah pernah menang
-                random();
-                
+              if(winner.includes(id)){ // Jika pemenang sudah pernah menang
+                var index = Math.floor(Math.random() * (objData.length - 1));
+                $('#nama_anggota').html(objData[index].NAMA);
+                $('#detail_anggota').html('No Anggota : ' + objData[index].NO_ANG + '<br>' + objData[index].PERS);
+                $("#nama_anggota").attr("data-value", index);
                 winner.push(index);
               }else{
                 winner.push(id);
