@@ -5,7 +5,8 @@
     "NO_ANG": 72012083501,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2107,
@@ -13,7 +14,8 @@
     "NO_ANG": 71995062107,
     "DIV": "LUAR BIASA",
     "BAG": "LB/INTI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2743,
@@ -21,7 +23,8 @@
     "NO_ANG": 12003062743,
     "DIV": "CORPORATE FINANCE",
     "BAG": "PAJAK & VERIFIKASI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3879,
@@ -29,7 +32,8 @@
     "NO_ANG": 42017023879,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3318,
@@ -37,7 +41,8 @@
     "NO_ANG": 12009103318,
     "DIV": "PRODUKSI",
     "BAG": "PRODUKSI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1114,
@@ -45,7 +50,8 @@
     "NO_ANG": 11986101114,
     "DIV": "MPP",
     "BAG": "MPP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3296,
@@ -53,7 +59,8 @@
     "NO_ANG": 12009033296,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3749,
@@ -61,7 +68,8 @@
     "NO_ANG": 12015063749,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "ENGINEERING DDS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1756,
@@ -69,7 +77,8 @@
     "NO_ANG": 11993071756,
     "DIV": "SBU BROADBAND",
     "BAG": "SERVICE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3682,
@@ -77,7 +86,8 @@
     "NO_ANG": 42014063682,
     "DIV": "PT WBI",
     "BAG": "WBI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2512,
@@ -85,7 +95,8 @@
     "NO_ANG": 11999082512,
     "DIV": "MPP",
     "BAG": "MPP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2745,
@@ -93,7 +104,8 @@
     "NO_ANG": 42003062745,
     "DIV": "PT IKE",
     "BAG": "PT IKE",
-    "PERS": "PT. IKE"
+    "PERS": "PT. IKE",
+    "STATUS": 0
   },
   {
     "NO_ID": 3794,
@@ -101,7 +113,8 @@
     "NO_ANG": 42016073794,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 775,
@@ -109,7 +122,8 @@
     "NO_ANG": 11984120775,
     "DIV": "MPP",
     "BAG": "MPP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3737,
@@ -117,7 +131,8 @@
     "NO_ANG": 42015023737,
     "DIV": "PENGEMUDI",
     "BAG": "IBP",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3419,
@@ -125,7 +140,8 @@
     "NO_ANG": 42011073419,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1162,
@@ -133,7 +149,8 @@
     "NO_ANG": 11987091162,
     "DIV": "MPP",
     "BAG": "BANG&NIKIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3795,
@@ -141,7 +158,8 @@
     "NO_ANG": 42016073795,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 913,
@@ -149,7 +167,8 @@
     "NO_ANG": 11985060913,
     "DIV": "LUAR BIASA",
     "BAG": "CLTP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1692,
@@ -157,7 +176,8 @@
     "NO_ANG": 11993021692,
     "DIV": "HCM & QUALITY",
     "BAG": "HCM &QUALITY",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3654,
@@ -165,7 +185,8 @@
     "NO_ANG": 42014023654,
     "DIV": "DANA PENSIUN",
     "BAG": "DAPEN",
-    "PERS": "DP"
+    "PERS": "DP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1730,
@@ -173,7 +194,8 @@
     "NO_ANG": 81993051730,
     "DIV": "LUAR BIASA",
     "BAG": 0,
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 742,
@@ -181,7 +203,8 @@
     "NO_ANG": 11984110742,
     "DIV": "MPP",
     "BAG": "TAN UM DAN TAN ASET",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1264,
@@ -189,7 +212,8 @@
     "NO_ANG": 11988061264,
     "DIV": "SPI",
     "BAG": "RENDAL AUDIT",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1782,
@@ -197,7 +221,8 @@
     "NO_ANG": 11993091782,
     "DIV": "DIR. BISNIS",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3634,
@@ -205,7 +230,8 @@
     "NO_ANG": 12014013634,
     "DIV": "LB",
     "BAG": "PENDANAAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1843,
@@ -213,7 +239,8 @@
     "NO_ANG": 41994021843,
     "DIV": "PT WBI",
     "BAG": "APOTIK",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3186,
@@ -221,7 +248,8 @@
     "NO_ANG": 12008043186,
     "DIV": "MPP",
     "BAG": "MPP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 849,
@@ -229,7 +257,8 @@
     "NO_ANG": 11985030849,
     "DIV": "MPP",
     "BAG": "MPP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3566,
@@ -237,7 +266,8 @@
     "NO_ANG": 42013033566,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3018,
@@ -245,7 +275,8 @@
     "NO_ANG": 12006073018,
     "DIV": "CORPORATE FINANCE",
     "BAG": "PAJAK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3797,
@@ -253,7 +284,8 @@
     "NO_ANG": 42016073797,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1438,
@@ -261,7 +293,8 @@
     "NO_ANG": 11991021438,
     "DIV": "SBU BROADBAND",
     "BAG": "PROYEK BROADBAND",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3441,
@@ -269,7 +302,8 @@
     "NO_ANG": 12011113441,
     "DIV": "LUAR BIASA",
     "BAG": "SDM",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1099,
@@ -277,7 +311,8 @@
     "NO_ANG": 11986101099,
     "DIV": "HCM & QUALITY",
     "BAG": "MPP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3796,
@@ -285,7 +320,8 @@
     "NO_ANG": 42016073796,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2800,
@@ -293,7 +329,8 @@
     "NO_ANG": 12004032800,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "PUBLIC RELATION",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2605,
@@ -301,7 +338,8 @@
     "NO_ANG": 12000082605,
     "DIV": "SBU BROADBAND",
     "BAG": "BANG&NIKIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3143,
@@ -309,7 +347,8 @@
     "NO_ANG": 62007073143,
     "DIV": "LUAR BIASA",
     "BAG": "PT IBP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1141,
@@ -317,7 +356,8 @@
     "NO_ANG": 11987041141,
     "DIV": "PRODUKSI",
     "BAG": "RENDAL KUAL PRODUKSI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 730,
@@ -325,7 +365,8 @@
     "NO_ANG": 11984110730,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KELOMPOK AHLI ACCOUNT DDS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2457,
@@ -333,7 +374,8 @@
     "NO_ANG": 51998102457,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1266,
@@ -341,7 +383,8 @@
     "NO_ANG": 11988061266,
     "DIV": "PRODUKSI",
     "BAG": "RENDAL KUAL PRODUKSI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3355,
@@ -349,7 +392,8 @@
     "NO_ANG": 42010063355,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2006,
@@ -357,7 +401,8 @@
     "NO_ANG": 11994082006,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "CSR/PKBL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 744,
@@ -365,7 +410,8 @@
     "NO_ANG": 11984110744,
     "DIV": "SBU BROADBAND",
     "BAG": "PROYEK BROADBAND",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2632,
@@ -373,7 +419,8 @@
     "NO_ANG": 12000092632,
     "DIV": "SBU BROADBAND",
     "BAG": "ENGINEERING BROADBAND",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 42,
@@ -381,7 +428,8 @@
     "NO_ANG": 11979020042,
     "DIV": "LUAR BIASA",
     "BAG": "MPP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3584,
@@ -389,7 +437,8 @@
     "NO_ANG": 42013053584,
     "DIV": "PENGEMUDI",
     "BAG": "IBP",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3892,
@@ -397,7 +446,8 @@
     "NO_ANG": 12017083892,
     "DIV": "SBU BROADBAND",
     "BAG": "PROYEK BROADBAND",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2576,
@@ -405,7 +455,8 @@
     "NO_ANG": 12000032576,
     "DIV": "SBU BROADBAND",
     "BAG": "ENGINEERING BROADBAND",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2454,
@@ -413,7 +464,8 @@
     "NO_ANG": 41998102454,
     "DIV": "PENGEMUDI",
     "BAG": "PENGEMUDI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3463,
@@ -421,7 +473,8 @@
     "NO_ANG": 42012013463,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3141,
@@ -429,7 +482,8 @@
     "NO_ANG": 12007073141,
     "DIV": "HCM & QUALITY",
     "BAG": "HCM & QUALITY",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3798,
@@ -437,7 +491,8 @@
     "NO_ANG": 42016073798,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1437,
@@ -445,7 +500,8 @@
     "NO_ANG": 11991021437,
     "DIV": "SBU BROADBAND",
     "BAG": "PROYEK BROADBAND",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1153,
@@ -453,7 +509,8 @@
     "NO_ANG": 11987081153,
     "DIV": "CORPORATE SERVICES",
     "BAG": "HUMAS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2680,
@@ -461,7 +518,8 @@
     "NO_ANG": 12001052680,
     "DIV": "SBU BROADBAND",
     "BAG": "PROYEK BROADBAND",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1023,
@@ -469,7 +527,8 @@
     "NO_ANG": 11986011023,
     "DIV": "LUAR BIASA",
     "BAG": "PRODUKSI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3389,
@@ -477,7 +536,8 @@
     "NO_ANG": 52011033389,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2779,
@@ -485,7 +545,8 @@
     "NO_ANG": 12004012779,
     "DIV": "SBU BROADBAND",
     "BAG": "PROYEK BROADBAND",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1198,
@@ -493,7 +554,8 @@
     "NO_ANG": 11988011198,
     "DIV": "SBU BROADBAND",
     "BAG": "PROYEK BROADBAND",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3799,
@@ -501,7 +563,8 @@
     "NO_ANG": 42016073799,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3845,
@@ -509,7 +572,8 @@
     "NO_ANG": 42016083845,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2626,
@@ -517,7 +581,8 @@
     "NO_ANG": 12000092626,
     "DIV": "HCM & QUALITY",
     "BAG": "HCM & QUALITY",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3716,
@@ -525,7 +590,8 @@
     "NO_ANG": 12014083716,
     "DIV": "SBU SMART ENERGY",
     "BAG": "ENGINEERING",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2996,
@@ -533,7 +599,8 @@
     "NO_ANG": 12006042996,
     "DIV": "SBU BROADBAND",
     "BAG": "PROYEK BROADBAND",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1772,
@@ -541,7 +608,8 @@
     "NO_ANG": 11993081772,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "PENGADAAN DDS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2136,
@@ -549,7 +617,8 @@
     "NO_ANG": 51995092136,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1327,
@@ -557,7 +626,8 @@
     "NO_ANG": 11989041327,
     "DIV": "SBU BROADBAND",
     "BAG": "PROYEK BROADBAND",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2920,
@@ -565,7 +635,8 @@
     "NO_ANG": 42005062920,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "TATA GRAHA / OB",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2453,
@@ -573,7 +644,8 @@
     "NO_ANG": 41998102453,
     "DIV": "PENGEMUDI",
     "BAG": "PT IBP/DRIVER",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 911,
@@ -581,7 +653,8 @@
     "NO_ANG": 11985060911,
     "DIV": "LUAR BIASA",
     "BAG": "UMUM DAN PROPERTY",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3461,
@@ -589,7 +662,8 @@
     "NO_ANG": 42012013461,
     "DIV": "LUAR BIASA",
     "BAG": "HUKUM",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2392,
@@ -597,7 +671,8 @@
     "NO_ANG": 11997062392,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "SBU DEFENSE & DIGITAL SERVICE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2011,
@@ -605,7 +680,8 @@
     "NO_ANG": 11994082011,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "PRODUK MANAGEMEN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3385,
@@ -613,7 +689,8 @@
     "NO_ANG": 12011033385,
     "DIV": "SBU SMART ENERGY",
     "BAG": "COMMERCIAL SMART ENERGY",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2810,
@@ -621,7 +698,8 @@
     "NO_ANG": 42004042810,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2480,
@@ -629,7 +707,8 @@
     "NO_ANG": 51999062480,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 673,
@@ -637,7 +716,8 @@
     "NO_ANG": 11983070673,
     "DIV": "LUAR BIASA",
     "BAG": "DANG DIST",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3657,
@@ -645,7 +725,8 @@
     "NO_ANG": 12014033657,
     "DIV": "LUAR BIASA",
     "BAG": "SE",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3494,
@@ -653,7 +734,8 @@
     "NO_ANG": 12012073494,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "DEPUTI SBU DEFENSE & DDS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1606,
@@ -661,7 +743,8 @@
     "NO_ANG": 11992091606,
     "DIV": "HCM & QUALITY",
     "BAG": "MPP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3658,
@@ -669,7 +752,8 @@
     "NO_ANG": 12014033658,
     "DIV": "SBU SMART ENERGY",
     "BAG": "HCM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3800,
@@ -677,7 +761,8 @@
     "NO_ANG": 42016073800,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3848,
@@ -685,7 +770,8 @@
     "NO_ANG": 42016103848,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3766,
@@ -693,7 +779,8 @@
     "NO_ANG": 42015123766,
     "DIV": "TATAGRAHA DAHANA",
     "BAG": "PT. IBP DAHANA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2940,
@@ -701,7 +788,8 @@
     "NO_ANG": 12005082940,
     "DIV": "SBU BROADBAND",
     "BAG": "PROD KUNG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1173,
@@ -709,7 +797,8 @@
     "NO_ANG": 11987111173,
     "DIV": "CORPORATE SERVICES",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 991,
@@ -717,7 +806,8 @@
     "NO_ANG": 11985110991,
     "DIV": "CORPORATE SERVICES",
     "BAG": "PKBL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3676,
@@ -725,7 +815,8 @@
     "NO_ANG": 12014053676,
     "DIV": "SBU BROADBAND",
     "BAG": "RENDAL TITO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3433,
@@ -733,7 +824,8 @@
     "NO_ANG": 12011093433,
     "DIV": "LUAR BIASA",
     "BAG": "PAJAK",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3144,
@@ -741,7 +833,8 @@
     "NO_ANG": 52007073144,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 912,
@@ -749,7 +842,8 @@
     "NO_ANG": 11985060912,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "RO DIR",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1335,
@@ -757,7 +851,8 @@
     "NO_ANG": 11989041335,
     "DIV": "LUAR BIASA",
     "BAG": "G.TOR LAIN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3136,
@@ -765,7 +860,8 @@
     "NO_ANG": 52007073136,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2144,
@@ -773,7 +869,8 @@
     "NO_ANG": 41995102144,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3874,
@@ -781,7 +878,8 @@
     "NO_ANG": 42017013874,
     "DIV": "CORPORATE PT IBP",
     "BAG": "",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3889,
@@ -789,7 +887,8 @@
     "NO_ANG": 52017063889,
     "DIV": "OS",
     "BAG": "ADM POOL",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3600,
@@ -797,7 +896,8 @@
     "NO_ANG": 12013093600,
     "DIV": "SBU BROADBAND",
     "BAG": "RENDAL TITO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3921,
@@ -805,7 +905,8 @@
     "NO_ANG": 12018103921,
     "DIV": "SBU SMART ENERGY",
     "BAG": "SMART ENERGY",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2353,
@@ -813,7 +914,8 @@
     "NO_ANG": 11997022353,
     "DIV": "SBU BROADBAND",
     "BAG": "MAN. SERVICE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3918,
@@ -821,7 +923,8 @@
     "NO_ANG": 12018083918,
     "DIV": "PRODUKSI",
     "BAG": "PRODUKSI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3191,
@@ -829,7 +932,8 @@
     "NO_ANG": 42008053191,
     "DIV": "CORPORATE PT IBP",
     "BAG": "UMUM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3457,
@@ -837,7 +941,8 @@
     "NO_ANG": 12011123457,
     "DIV": "CORPORATE SERVICES",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2641,
@@ -845,7 +950,8 @@
     "NO_ANG": 12000102641,
     "DIV": "CORPORATE SERVICES",
     "BAG": "SISTAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3602,
@@ -853,7 +959,8 @@
     "NO_ANG": 12013093602,
     "DIV": "SBU BROADBAND",
     "BAG": "REG 1",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1020,
@@ -861,7 +968,8 @@
     "NO_ANG": 11986011020,
     "DIV": "LUAR BIASA",
     "BAG": "INFRAS TEK",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3484,
@@ -869,7 +977,8 @@
     "NO_ANG": 52012033484,
     "DIV": "CORPORATE PT IBP",
     "BAG": "TRAVEL",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1259,
@@ -877,7 +986,8 @@
     "NO_ANG": 11988061259,
     "DIV": "SBU BROADBAND",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3282,
@@ -885,7 +995,8 @@
     "NO_ANG": 62008123282,
     "DIV": "LUAR BIASA",
     "BAG": "JIT",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3037,
@@ -893,7 +1004,8 @@
     "NO_ANG": 62006093037,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3644,
@@ -901,7 +1013,8 @@
     "NO_ANG": 42014023644,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "OB",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3846,
@@ -909,7 +1022,8 @@
     "NO_ANG": 42016083846,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2197,
@@ -917,7 +1031,8 @@
     "NO_ANG": 81996032197,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3443,
@@ -925,7 +1040,8 @@
     "NO_ANG": 12011113443,
     "DIV": "SBU SMART ENERGY",
     "BAG": "SDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3677,
@@ -933,7 +1049,8 @@
     "NO_ANG": 12014053677,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "TITO REG 2",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3533,
@@ -941,7 +1058,8 @@
     "NO_ANG": 12012123533,
     "DIV": "SBU BROADBAND",
     "BAG": "TITO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2071,
@@ -949,7 +1067,8 @@
     "NO_ANG": 11995032071,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "KUNG PROD",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1206,
@@ -957,7 +1076,8 @@
     "NO_ANG": 11988021206,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2794,
@@ -965,7 +1085,8 @@
     "NO_ANG": 42004032794,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1946,
@@ -973,7 +1094,8 @@
     "NO_ANG": 11994051946,
     "DIV": "SBU BROADBAND",
     "BAG": "PROD KUNG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1113,
@@ -981,7 +1103,8 @@
     "NO_ANG": 11986101113,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1221,
@@ -989,7 +1112,8 @@
     "NO_ANG": 11988031221,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3304,
@@ -997,7 +1121,8 @@
     "NO_ANG": 42009063304,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1668,
@@ -1005,7 +1130,8 @@
     "NO_ANG": 11992111668,
     "DIV": "CORPORATE SERVICES",
     "BAG": "MANA SERV",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 969,
@@ -1013,7 +1139,8 @@
     "NO_ANG": 81985100969,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2663,
@@ -1021,7 +1148,8 @@
     "NO_ANG": 12001022663,
     "DIV": "CORPORATE FINANCE",
     "BAG": "TAN MAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1043,
@@ -1029,7 +1157,8 @@
     "NO_ANG": 11986051043,
     "DIV": "CORPORATE SERVICES",
     "BAG": "REN DAN IMP PROY 1",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 632,
@@ -1037,7 +1166,8 @@
     "NO_ANG": 11983020632,
     "DIV": "CORPORATE SERVICES",
     "BAG": "REN DAN IMP PROY 1",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3271,
@@ -1045,7 +1175,8 @@
     "NO_ANG": 42008093271,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 776,
@@ -1053,7 +1184,8 @@
     "NO_ANG": 11984120776,
     "DIV": "CORPORATE SERVICES",
     "BAG": "DAAN 3",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3514,
@@ -1061,7 +1193,8 @@
     "NO_ANG": 52012093514,
     "DIV": "CORPORATE PT IBP",
     "BAG": "UMUM&RT",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3379,
@@ -1069,7 +1202,8 @@
     "NO_ANG": 42011033379,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3129,
@@ -1077,7 +1211,8 @@
     "NO_ANG": 62007063129,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3370,
@@ -1085,7 +1220,8 @@
     "NO_ANG": 42010123370,
     "DIV": "LUAR BIASA",
     "BAG": "OUTSOURCING",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2676,
@@ -1093,7 +1229,8 @@
     "NO_ANG": 12001042676,
     "DIV": "SBU BROADBAND",
     "BAG": "SISTAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3045,
@@ -1101,7 +1238,8 @@
     "NO_ANG": 42006113045,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2597,
@@ -1109,7 +1247,8 @@
     "NO_ANG": 12000072597,
     "DIV": "SBU BROADBAND",
     "BAG": "MAN CHAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3649,
@@ -1117,7 +1256,8 @@
     "NO_ANG": 12014023649,
     "DIV": "CORPORATE FINANCE",
     "BAG": "HCM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2477,
@@ -1125,7 +1265,8 @@
     "NO_ANG": 11999052477,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1200,
@@ -1133,7 +1274,8 @@
     "NO_ANG": 11988011200,
     "DIV": "CORPORATE FINANCE",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3802,
@@ -1141,7 +1283,8 @@
     "NO_ANG": 42016073802,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1721,
@@ -1149,7 +1292,8 @@
     "NO_ANG": 11993041721,
     "DIV": "SPI",
     "BAG": "KOM HAR",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3331,
@@ -1157,7 +1301,8 @@
     "NO_ANG": 42010023331,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 666,
@@ -1165,7 +1310,8 @@
     "NO_ANG": 71983060666,
     "DIV": "LUAR BIASA",
     "BAG": "SDM",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 925,
@@ -1173,7 +1319,8 @@
     "NO_ANG": 11985070925,
     "DIV": "LUAR BIASA",
     "BAG": "JAR TAP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1019,
@@ -1181,7 +1328,8 @@
     "NO_ANG": 11986011019,
     "DIV": "LUAR BIASA",
     "BAG": "DIREKSI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 211,
@@ -1189,7 +1337,8 @@
     "NO_ANG": 11979020211,
     "DIV": "LUAR BIASA",
     "BAG": "DIT OP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3804,
@@ -1197,7 +1346,8 @@
     "NO_ANG": 42016073804,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3082,
@@ -1205,7 +1355,8 @@
     "NO_ANG": 62006013082,
     "DIV": "LUAR BIASA",
     "BAG": "SPARELOG",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3748,
@@ -1213,7 +1364,8 @@
     "NO_ANG": 12015063748,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3550,
@@ -1221,7 +1373,8 @@
     "NO_ANG": 12013013550,
     "DIV": "SBU BROADBAND",
     "BAG": "TITO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2593,
@@ -1229,7 +1382,8 @@
     "NO_ANG": 52000052593,
     "DIV": "CORPORATE PT IBP",
     "BAG": "KOP. INTI",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2915,
@@ -1237,7 +1391,8 @@
     "NO_ANG": 72005052915,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3612,
@@ -1245,7 +1400,8 @@
     "NO_ANG": 42013113612,
     "DIV": "LUAR BIASA",
     "BAG": "IBP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3453,
@@ -1253,7 +1409,8 @@
     "NO_ANG": 12011123453,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "SE. TELCO SOLUTION",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3459,
@@ -1261,7 +1418,8 @@
     "NO_ANG": 12011123459,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2734,
@@ -1269,7 +1427,8 @@
     "NO_ANG": 72003032734,
     "DIV": "LUAR BIASA",
     "BAG": "LB/INTI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2551,
@@ -1277,7 +1436,8 @@
     "NO_ANG": 12000022551,
     "DIV": "SBU BROADBAND",
     "BAG": "JAR TAP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 452,
@@ -1285,7 +1445,8 @@
     "NO_ANG": 11981010452,
     "DIV": "LUAR BIASA",
     "BAG": "MPP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1748,
@@ -1293,7 +1454,8 @@
     "NO_ANG": 11993061748,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "GAR&LAP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3273,
@@ -1301,7 +1463,8 @@
     "NO_ANG": 42008093273,
     "DIV": "LUAR BIASA",
     "BAG": "PEMASARAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3123,
@@ -1309,7 +1472,8 @@
     "NO_ANG": 12007053123,
     "DIV": "",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1805,
@@ -1317,7 +1481,8 @@
     "NO_ANG": 11993111805,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KADIV&STAF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2563,
@@ -1325,7 +1490,8 @@
     "NO_ANG": 12000022563,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2677,
@@ -1333,7 +1499,8 @@
     "NO_ANG": 12001042677,
     "DIV": "LUAR BIASA",
     "BAG": "KADIV&STAF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3137,
@@ -1341,7 +1508,8 @@
     "NO_ANG": 42007073137,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1199,
@@ -1349,7 +1517,8 @@
     "NO_ANG": 81988011199,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3429,
@@ -1357,7 +1526,8 @@
     "NO_ANG": 42011093429,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3805,
@@ -1365,7 +1535,8 @@
     "NO_ANG": 42016073805,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1909,
@@ -1373,7 +1544,8 @@
     "NO_ANG": 11994041909,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "PROD KUNG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2703,
@@ -1381,7 +1553,8 @@
     "NO_ANG": 12002032703,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3071,
@@ -1389,7 +1562,8 @@
     "NO_ANG": 62006013071,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3444,
@@ -1397,7 +1571,8 @@
     "NO_ANG": 12011123444,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "SDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1387,
@@ -1405,7 +1580,8 @@
     "NO_ANG": 11990031387,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3914,
@@ -1413,7 +1589,8 @@
     "NO_ANG": 120183914,
     "DIV": "SBU DDS",
     "BAG": "DDS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1096,
@@ -1421,7 +1598,8 @@
     "NO_ANG": 11986101096,
     "DIV": "CORPORATE SERVICES",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2746,
@@ -1429,7 +1607,8 @@
     "NO_ANG": 42003062746,
     "DIV": "PT MBIP",
     "BAG": "PT MBIP",
-    "PERS": "PT. MBIP"
+    "PERS": "PT. MBIP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2478,
@@ -1437,7 +1616,8 @@
     "NO_ANG": 11999052478,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "BANG&NIKIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1367,
@@ -1445,7 +1625,8 @@
     "NO_ANG": 81989091367,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1579,
@@ -1453,7 +1634,8 @@
     "NO_ANG": 11992071579,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "RENDAL JUAL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2049,
@@ -1461,7 +1643,8 @@
     "NO_ANG": 51994122049,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3189,
@@ -1469,7 +1652,8 @@
     "NO_ANG": 42008043189,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3806,
@@ -1477,7 +1661,8 @@
     "NO_ANG": 42016073806,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1272,
@@ -1485,7 +1670,8 @@
     "NO_ANG": 11988071272,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 735,
@@ -1493,7 +1679,8 @@
     "NO_ANG": 11984110735,
     "DIV": "SBU SMART ENERGY",
     "BAG": "DANG DIST",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2437,
@@ -1501,7 +1688,8 @@
     "NO_ANG": 11998042437,
     "DIV": "SBU SMART ENERGY",
     "BAG": "DAAN I",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2323,
@@ -1509,7 +1697,8 @@
     "NO_ANG": 11996112323,
     "DIV": "LUAR BIASA",
     "BAG": "KADIV&STAF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3736,
@@ -1517,7 +1706,8 @@
     "NO_ANG": 42015023736,
     "DIV": "PENGEMUDI",
     "BAG": "PT. IBP",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1574,
@@ -1525,7 +1715,8 @@
     "NO_ANG": 11992061574,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3699,
@@ -1533,7 +1724,8 @@
     "NO_ANG": 42014073699,
     "DIV": "CORPORATE PT IBP",
     "BAG": "SEKPER",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1146,
@@ -1541,7 +1733,8 @@
     "NO_ANG": 11987051146,
     "DIV": "CORPORATE SERVICES",
     "BAG": "BANG&NIKIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1907,
@@ -1549,7 +1742,8 @@
     "NO_ANG": 11994041907,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "RENDALPRO1",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2572,
@@ -1557,7 +1751,8 @@
     "NO_ANG": 12000022572,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "PROD KUNG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2719,
@@ -1565,7 +1760,8 @@
     "NO_ANG": 12002092719,
     "DIV": "SBU BROADBAND",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3374,
@@ -1573,7 +1769,8 @@
     "NO_ANG": 12011013374,
     "DIV": "SBU BROADBAND",
     "BAG": "ADM DAN KUNG PROY",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3509,
@@ -1581,7 +1778,8 @@
     "NO_ANG": 72012093509,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2925,
@@ -1589,7 +1787,8 @@
     "NO_ANG": 12005062925,
     "DIV": "CORPORATE FINANCE",
     "BAG": "GAR&LAP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2798,
@@ -1597,7 +1796,8 @@
     "NO_ANG": 42004032798,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 643,
@@ -1605,7 +1805,8 @@
     "NO_ANG": 11983030643,
     "DIV": "LUAR BIASA",
     "BAG": "DANG DIST",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1336,
@@ -1613,7 +1814,8 @@
     "NO_ANG": 81989041336,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3873,
@@ -1621,7 +1823,8 @@
     "NO_ANG": 12017013873,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2742,
@@ -1629,7 +1832,8 @@
     "NO_ANG": 12003052742,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KUNG MPO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3590,
@@ -1637,7 +1841,8 @@
     "NO_ANG": 42013063590,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3280,
@@ -1645,7 +1850,8 @@
     "NO_ANG": 12008113280,
     "DIV": "SBU BROADBAND",
     "BAG": "JAR TAP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3902,
@@ -1653,7 +1859,8 @@
     "NO_ANG": 12018023902,
     "DIV": "DIRUT",
     "BAG": "DIRUT",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1474,
@@ -1661,7 +1868,8 @@
     "NO_ANG": 11991071474,
     "DIV": "CORPORATE SERVICES",
     "BAG": "YAN&REMUN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2741,
@@ -1669,7 +1877,8 @@
     "NO_ANG": 72003042741,
     "DIV": "LUAR BIASA",
     "BAG": "LB/INTI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1068,
@@ -1677,7 +1886,8 @@
     "NO_ANG": 81986071068,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1354,
@@ -1685,7 +1895,8 @@
     "NO_ANG": 11989071354,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2929,
@@ -1693,7 +1904,8 @@
     "NO_ANG": 42005072929,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2699,
@@ -1701,7 +1913,8 @@
     "NO_ANG": 42001112699,
     "DIV": "DANA PENSIUN",
     "BAG": "DANA PENSIUN\\",
-    "PERS": "DP"
+    "PERS": "DP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3188,
@@ -1709,7 +1922,8 @@
     "NO_ANG": 12008043188,
     "DIV": "SBU SMART ENERGY",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2595,
@@ -1717,7 +1931,8 @@
     "NO_ANG": 12000072595,
     "DIV": "SBU SMART ENERGY",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3574,
@@ -1725,7 +1940,8 @@
     "NO_ANG": 52013033574,
     "DIV": "KOPERASI INTI",
     "BAG": "KOPERASI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3908,
@@ -1733,7 +1949,8 @@
     "NO_ANG": 42018053908,
     "DIV": "ADJUG",
     "BAG": "KEUANGAN",
-    "PERS": "PT. MBIP"
+    "PERS": "PT. MBIP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3680,
@@ -1741,7 +1958,8 @@
     "NO_ANG": 42014053680,
     "DIV": "CORPORATE PT IBP",
     "BAG": "OS",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3039,
@@ -1749,7 +1967,8 @@
     "NO_ANG": 12006093039,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1192,
@@ -1757,7 +1976,8 @@
     "NO_ANG": 11988011192,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2469,
@@ -1765,7 +1985,8 @@
     "NO_ANG": 81999012469,
     "DIV": "LUAR BIASA",
     "BAG": 0,
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2039,
@@ -1773,7 +1994,8 @@
     "NO_ANG": 11994102039,
     "DIV": "CORPORATE SERVICES",
     "BAG": "BANGSISTEK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1764,
@@ -1781,7 +2003,8 @@
     "NO_ANG": 11993081764,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3807,
@@ -1789,7 +2012,8 @@
     "NO_ANG": 42016073807,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1895,
@@ -1797,7 +2021,8 @@
     "NO_ANG": 11994041895,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3808,
@@ -1805,7 +2030,8 @@
     "NO_ANG": 42016073808,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3701,
@@ -1813,7 +2039,8 @@
     "NO_ANG": 42014073701,
     "DIV": "LUAR BIASA",
     "BAG": "SM3",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3559,
@@ -1821,7 +2048,8 @@
     "NO_ANG": 12013023559,
     "DIV": "LUAR BIASA",
     "BAG": "ACC TELCO",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3809,
@@ -1829,7 +2057,8 @@
     "NO_ANG": 42016073809,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3277,
@@ -1837,7 +2066,8 @@
     "NO_ANG": 72008103277,
     "DIV": "LUAR BIASA",
     "BAG": "PERDAGANGAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3469,
@@ -1845,7 +2075,8 @@
     "NO_ANG": 12012023469,
     "DIV": "CORPORATE FINANCE",
     "BAG": "BAG.AKUNTANSI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1902,
@@ -1853,7 +2084,8 @@
     "NO_ANG": 11994041902,
     "DIV": "CORPORATE SERVICES",
     "BAG": "GIH RIMA",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2078,
@@ -1861,7 +2093,8 @@
     "NO_ANG": 11995042078,
     "DIV": "SPI",
     "BAG": "DIT OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 985,
@@ -1869,7 +2102,8 @@
     "NO_ANG": 11985110985,
     "DIV": "SBU BROADBAND",
     "BAG": "IMPLEMENTASI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3292,
@@ -1877,7 +2111,8 @@
     "NO_ANG": 12009013292,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "JAR SEL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3465,
@@ -1885,7 +2120,8 @@
     "NO_ANG": 12012013465,
     "DIV": "CORPORATE SERVICES",
     "BAG": "OP CELCO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3735,
@@ -1893,7 +2129,8 @@
     "NO_ANG": 12015013735,
     "DIV": "CORPORATE SERVICES",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1055,
@@ -1901,7 +2138,8 @@
     "NO_ANG": 11986061055,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "G. TELKOM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2097,
@@ -1909,7 +2147,8 @@
     "NO_ANG": 41995062097,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1667,
@@ -1917,7 +2156,8 @@
     "NO_ANG": 11992111667,
     "DIV": "SBU BROADBAND",
     "BAG": "KOMSYSINT",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 996,
@@ -1925,7 +2165,8 @@
     "NO_ANG": 81985120996,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 411,
@@ -1933,7 +2174,8 @@
     "NO_ANG": 11980100411,
     "DIV": "LUAR BIASA",
     "BAG": "PKBL",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1307,
@@ -1941,7 +2183,8 @@
     "NO_ANG": 51989021307,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1459,
@@ -1949,7 +2192,8 @@
     "NO_ANG": 11991051459,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3439,
@@ -1957,7 +2201,8 @@
     "NO_ANG": 42011113439,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2613,
@@ -1965,7 +2210,8 @@
     "NO_ANG": 12000092613,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1796,
@@ -1973,7 +2219,8 @@
     "NO_ANG": 11993101796,
     "DIV": "SBU SMART ENERGY",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3810,
@@ -1981,7 +2228,8 @@
     "NO_ANG": 42016073810,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3183,
@@ -1989,7 +2237,8 @@
     "NO_ANG": 42008043183,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1129,
@@ -1997,7 +2246,8 @@
     "NO_ANG": 81987021129,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2938,
@@ -2005,7 +2255,8 @@
     "NO_ANG": 42005082938,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3687,
@@ -2013,7 +2264,8 @@
     "NO_ANG": 42014063687,
     "DIV": "LUAR BIASA",
     "BAG": "FRONT OFICE",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3534,
@@ -2021,7 +2273,8 @@
     "NO_ANG": 12012123534,
     "DIV": "SBU BROADBAND",
     "BAG": "HUKUM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 908,
@@ -2029,7 +2282,8 @@
     "NO_ANG": 11985060908,
     "DIV": "CORPORATE SERVICES",
     "BAG": "DAAN 2",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 688,
@@ -2037,7 +2291,8 @@
     "NO_ANG": 11983090688,
     "DIV": "LUAR BIASA",
     "BAG": "MPP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2710,
@@ -2045,7 +2300,8 @@
     "NO_ANG": 12002072710,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "JAR SEL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 999,
@@ -2053,7 +2309,8 @@
     "NO_ANG": 11985120999,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "MANA PERFORM",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3360,
@@ -2061,7 +2318,8 @@
     "NO_ANG": 12010073360,
     "DIV": "CORPORATE SERVICES",
     "BAG": "PENDUKUNG TEKNIK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3316,
@@ -2069,7 +2327,8 @@
     "NO_ANG": 72009093316,
     "DIV": "LUAR BIASA",
     "BAG": "LB/KOP. INTI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3811,
@@ -2077,7 +2336,8 @@
     "NO_ANG": 42016073811,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3648,
@@ -2085,7 +2345,8 @@
     "NO_ANG": 12014023648,
     "DIV": "LUAR BIASA",
     "BAG": "HCM",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3896,
@@ -2093,7 +2354,8 @@
     "NO_ANG": 42017093896,
     "DIV": "OS",
     "BAG": "OS",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3671,
@@ -2101,7 +2363,8 @@
     "NO_ANG": 42014043671,
     "DIV": "PT WBI",
     "BAG": "WBI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3812,
@@ -2109,7 +2372,8 @@
     "NO_ANG": 42016073812,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3364,
@@ -2117,7 +2381,8 @@
     "NO_ANG": 42010083364,
     "DIV": "LUAR BIASA",
     "BAG": "CME",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1101,
@@ -2125,7 +2390,8 @@
     "NO_ANG": 11986101101,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 992,
@@ -2133,7 +2399,8 @@
     "NO_ANG": 11985110992,
     "DIV": "SBU BROADBAND",
     "BAG": "REN DAN IMP PROY 1",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 361,
@@ -2141,7 +2408,8 @@
     "NO_ANG": 11980090361,
     "DIV": "LUAR BIASA",
     "BAG": "KUNG BANG",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1156,
@@ -2149,7 +2417,8 @@
     "NO_ANG": 11987081156,
     "DIV": "LUAR BIASA",
     "BAG": "KADIV&STAF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1478,
@@ -2157,7 +2426,8 @@
     "NO_ANG": 11991081478,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3299,
@@ -2165,7 +2435,8 @@
     "NO_ANG": 12009043299,
     "DIV": "SBU BROADBAND",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1050,
@@ -2173,7 +2444,8 @@
     "NO_ANG": 11986051050,
     "DIV": "CORPORATE SERVICES",
     "BAG": "UMUM DAN PROPERTY",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3424,
@@ -2181,7 +2453,8 @@
     "NO_ANG": 72011083424,
     "DIV": "LUAR BIASA",
     "BAG": "LUAR BIASA",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3309,
@@ -2189,7 +2462,8 @@
     "NO_ANG": 52009083309,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3813,
@@ -2197,7 +2471,8 @@
     "NO_ANG": 42016073813,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3575,
@@ -2205,7 +2480,8 @@
     "NO_ANG": 42013043575,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 754,
@@ -2213,7 +2489,8 @@
     "NO_ANG": 71984120754,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3361,
@@ -2221,7 +2498,8 @@
     "NO_ANG": 12010073361,
     "DIV": "LUAR BIASA",
     "BAG": "CME",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 69,
@@ -2229,7 +2507,8 @@
     "NO_ANG": 81979020069,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 629,
@@ -2237,7 +2516,8 @@
     "NO_ANG": 11983020629,
     "DIV": "LUAR BIASA",
     "BAG": "KADIV&STAF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3724,
@@ -2245,7 +2525,8 @@
     "NO_ANG": 42014113724,
     "DIV": "PT INTENS",
     "BAG": "INTEN",
-    "PERS": "INTEN"
+    "PERS": "INTEN",
+    "STATUS": 0
   },
   {
     "NO_ID": 3130,
@@ -2253,7 +2534,8 @@
     "NO_ANG": 72007063130,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1130,
@@ -2261,7 +2543,8 @@
     "NO_ANG": 81987021130,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1945,
@@ -2269,7 +2552,8 @@
     "NO_ANG": 11994051945,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "G.TOR LAIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2785,
@@ -2277,7 +2561,8 @@
     "NO_ANG": 42004032785,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3339,
@@ -2285,7 +2570,8 @@
     "NO_ANG": 12010023339,
     "DIV": "LUAR BIASA",
     "BAG": "STAFF AHLI UTAMA",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3661,
@@ -2293,7 +2579,8 @@
     "NO_ANG": 12014033661,
     "DIV": "CORPORATE FINANCE",
     "BAG": "HCM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1717,
@@ -2301,7 +2588,8 @@
     "NO_ANG": 11993041717,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "RO DIR",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2772,
@@ -2309,7 +2597,8 @@
     "NO_ANG": 42003102772,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3448,
@@ -2317,7 +2606,8 @@
     "NO_ANG": 12011123448,
     "DIV": "SBU BROADBAND",
     "BAG": "MSDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1094,
@@ -2325,7 +2615,8 @@
     "NO_ANG": 11986101094,
     "DIV": "SBU SMART ENERGY",
     "BAG": "RENDAL JUAL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3305,
@@ -2333,7 +2624,8 @@
     "NO_ANG": 72009073305,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3585,
@@ -2341,7 +2633,8 @@
     "NO_ANG": 72013063585,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2589,
@@ -2349,7 +2642,8 @@
     "NO_ANG": 12000052589,
     "DIV": "CORPORATE SERVICES",
     "BAG": "UMUM & PROPERTY",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3148,
@@ -2357,7 +2651,8 @@
     "NO_ANG": 42007083148,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "TATA GRAHA / OB",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2357,
@@ -2365,7 +2660,8 @@
     "NO_ANG": 51997032357,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1000,
@@ -2373,7 +2669,8 @@
     "NO_ANG": 11985121000,
     "DIV": "CORPORATE SERVICES",
     "BAG": "REN DAN IMP PROY 2",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1042,
@@ -2381,7 +2678,8 @@
     "NO_ANG": 81986051042,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2529,
@@ -2389,7 +2687,8 @@
     "NO_ANG": 11999122529,
     "DIV": "SBU BROADBAND",
     "BAG": "RICE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3923,
@@ -2397,7 +2696,8 @@
     "NO_ANG": 42018103923,
     "DIV": "UMUM",
     "BAG": "DRIVER",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 695,
@@ -2405,7 +2705,8 @@
     "NO_ANG": 11983100695,
     "DIV": "LUAR BIASA",
     "BAG": "IMPLEMENTASI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3911,
@@ -2413,7 +2714,8 @@
     "NO_ANG": 12018073911,
     "DIV": "SEKPER",
     "BAG": "KADIP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3030,
@@ -2421,7 +2723,8 @@
     "NO_ANG": 12006083030,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "KUNG PROD",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1873,
@@ -2429,7 +2732,8 @@
     "NO_ANG": 11994031873,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG&PURJU",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2852,
@@ -2437,7 +2741,8 @@
     "NO_ANG": 42004102852,
     "DIV": "LUAR BIASA",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2688,
@@ -2445,7 +2750,8 @@
     "NO_ANG": 12001082688,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3520,
@@ -2453,7 +2759,8 @@
     "NO_ANG": 72012093520,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2555,
@@ -2461,7 +2768,8 @@
     "NO_ANG": 12000022555,
     "DIV": "LUAR BIASA",
     "BAG": "DIKLAT",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1825,
@@ -2469,7 +2777,8 @@
     "NO_ANG": 11994011825,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "HUKUM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1299,
@@ -2477,7 +2786,8 @@
     "NO_ANG": 11989011299,
     "DIV": "CORPORATE SERVICES",
     "BAG": "TEST&COM",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3326,
@@ -2485,7 +2795,8 @@
     "NO_ANG": 52009123326,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3673,
@@ -2493,7 +2804,8 @@
     "NO_ANG": 42014043673,
     "DIV": "PT WBI",
     "BAG": "WBI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3666,
@@ -2501,7 +2813,8 @@
     "NO_ANG": 12014043666,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3604,
@@ -2509,7 +2822,8 @@
     "NO_ANG": 12013093604,
     "DIV": "SBU SMART ENERGY",
     "BAG": "PRIVATE ENTERPRISES",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3482,
@@ -2517,7 +2831,8 @@
     "NO_ANG": 12012033482,
     "DIV": "SPI",
     "BAG": "SPI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3074,
@@ -2525,7 +2840,8 @@
     "NO_ANG": 42007013074,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3264,
@@ -2533,7 +2849,8 @@
     "NO_ANG": 42008083264,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3406,
@@ -2541,7 +2858,8 @@
     "NO_ANG": 52011053406,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3814,
@@ -2549,7 +2867,8 @@
     "NO_ANG": 42016073814,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 296,
@@ -2557,7 +2876,8 @@
     "NO_ANG": 11979020296,
     "DIV": "LUAR BIASA",
     "BAG": "RENDAL LOG",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3636,
@@ -2565,7 +2885,8 @@
     "NO_ANG": 42014013636,
     "DIV": "PT IPMS",
     "BAG": "IPMS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2531,
@@ -2573,7 +2894,8 @@
     "NO_ANG": 12000012531,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3522,
@@ -2581,7 +2903,8 @@
     "NO_ANG": 42012103522,
     "DIV": "LUAR BIASA",
     "BAG": "PT. IBP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3142,
@@ -2589,7 +2912,8 @@
     "NO_ANG": 62007073142,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1868,
@@ -2597,7 +2921,8 @@
     "NO_ANG": 11994031868,
     "DIV": "LUAR BIASA",
     "BAG": "KADIV&STAF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3325,
@@ -2605,7 +2930,8 @@
     "NO_ANG": 12009123325,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "HUKUM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 647,
@@ -2613,7 +2939,8 @@
     "NO_ANG": 81983030647,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3665,
@@ -2621,7 +2948,8 @@
     "NO_ANG": 12014043665,
     "DIV": "SBU SMART ENERGY",
     "BAG": "ACC TELCO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3449,
@@ -2629,7 +2957,8 @@
     "NO_ANG": 12011123449,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "MSDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1585,
@@ -2637,7 +2966,8 @@
     "NO_ANG": 11992081585,
     "DIV": "SPI",
     "BAG": "SPARE PART",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3915,
@@ -2645,7 +2975,8 @@
     "NO_ANG": 12018083915,
     "DIV": "SBU DDS",
     "BAG": "DDS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 52,
@@ -2653,7 +2984,8 @@
     "NO_ANG": 81979020052,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1256,
@@ -2661,7 +2993,8 @@
     "NO_ANG": 11988061256,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 874,
@@ -2669,7 +3002,8 @@
     "NO_ANG": 11985050874,
     "DIV": "CORPORATE SERVICES",
     "BAG": "GIH DAN RIMA CELCO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3267,
@@ -2677,7 +3011,8 @@
     "NO_ANG": 42008093267,
     "DIV": "LUAR BIASA",
     "BAG": "UMUM/JTS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3901,
@@ -2685,7 +3020,8 @@
     "NO_ANG": 42018013901,
     "DIV": "KEUANGAN",
     "BAG": "ADMIN",
-    "PERS": "PT. MGIU"
+    "PERS": "PT. MGIU",
+    "STATUS": 0
   },
   {
     "NO_ID": 3815,
@@ -2693,7 +3029,8 @@
     "NO_ANG": 42016073815,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3313,
@@ -2701,7 +3038,8 @@
     "NO_ANG": 52009083313,
     "DIV": "CORPORATE PT IBP",
     "BAG": "KOP. INTI",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3707,
@@ -2709,7 +3047,8 @@
     "NO_ANG": 12014083707,
     "DIV": "SBU SMART ENERGY",
     "BAG": "NGUN OPS REG BARAT",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2008,
@@ -2717,7 +3056,8 @@
     "NO_ANG": 11994082008,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "BANGSISORG",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3875,
@@ -2725,7 +3065,8 @@
     "NO_ANG": 42017013875,
     "DIV": "CORPORATE PT IBP",
     "BAG": "",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3490,
@@ -2733,7 +3074,8 @@
     "NO_ANG": 12012063490,
     "DIV": "SBU SMART ENERGY",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3727,
@@ -2741,7 +3083,8 @@
     "NO_ANG": 12014123727,
     "DIV": "SBU SMART ENERGY",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3920,
@@ -2749,7 +3092,8 @@
     "NO_ANG": 12018103920,
     "DIV": "SBU SE",
     "BAG": "SMART ENERGY",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2971,
@@ -2757,7 +3101,8 @@
     "NO_ANG": 42006022971,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "KAM.INTI",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2202,
@@ -2765,7 +3110,8 @@
     "NO_ANG": 11996032202,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "HUKUM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2592,
@@ -2773,7 +3119,8 @@
     "NO_ANG": 42000052592,
     "DIV": "PENGEMUDI",
     "BAG": "PT IBP",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2953,
@@ -2781,7 +3128,8 @@
     "NO_ANG": 12005122953,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KUNG MPO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3507,
@@ -2789,7 +3137,8 @@
     "NO_ANG": 72012093507,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3368,
@@ -2797,7 +3146,8 @@
     "NO_ANG": 72010093368,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2468,
@@ -2805,7 +3155,8 @@
     "NO_ANG": 11999012468,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3369,
@@ -2813,7 +3164,8 @@
     "NO_ANG": 42010123369,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2568,
@@ -2821,7 +3173,8 @@
     "NO_ANG": 12000022568,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3789,
@@ -2829,7 +3182,8 @@
     "NO_ANG": 12016033789,
     "DIV": "CORPORATE SERVICES",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3541,
@@ -2837,7 +3191,8 @@
     "NO_ANG": 12013013541,
     "DIV": "SBU BROADBAND",
     "BAG": "BAG. SALES ENGINEERING",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1125,
@@ -2845,7 +3200,8 @@
     "NO_ANG": 11986121125,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG JUAL",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1230,
@@ -2853,7 +3209,8 @@
     "NO_ANG": 11988031230,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "GIH RIMA",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3084,
@@ -2861,7 +3218,8 @@
     "NO_ANG": 42007013084,
     "DIV": "PENGEMUDI",
     "BAG": "PT IBP/DRIVER",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2777,
@@ -2869,7 +3227,8 @@
     "NO_ANG": 12004012777,
     "DIV": "LUAR BIASA",
     "BAG": "LAP MAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1381,
@@ -2877,7 +3236,8 @@
     "NO_ANG": 11990011381,
     "DIV": "SBU BROADBAND",
     "BAG": "BANG&NIKIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3126,
@@ -2885,7 +3245,8 @@
     "NO_ANG": 12007053126,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "HUKUM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 505,
@@ -2893,7 +3254,8 @@
     "NO_ANG": 11981090505,
     "DIV": "CORPORATE FINANCE",
     "BAG": "GIH DAN RIMA TELCO",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3720,
@@ -2901,7 +3263,8 @@
     "NO_ANG": 12014093720,
     "DIV": "SBU BROADBAND",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3616,
@@ -2909,7 +3272,8 @@
     "NO_ANG": 12014013616,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "LOGISTIK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3476,
@@ -2917,7 +3281,8 @@
     "NO_ANG": 42012023476,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3352,
@@ -2925,7 +3290,8 @@
     "NO_ANG": 12010053352,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3043,
@@ -2933,7 +3299,8 @@
     "NO_ANG": 12006113043,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KOM SYSINT",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2656,
@@ -2941,7 +3308,8 @@
     "NO_ANG": 12001012656,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3421,
@@ -2949,7 +3317,8 @@
     "NO_ANG": 52011073421,
     "DIV": "CORPORATE PT IBP",
     "BAG": "KOP. INTI",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3816,
@@ -2957,7 +3326,8 @@
     "NO_ANG": 42016073816,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 791,
@@ -2965,7 +3335,8 @@
     "NO_ANG": 11984120791,
     "DIV": "LUAR BIASA",
     "BAG": "ACC PRODUK",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1848,
@@ -2973,7 +3344,8 @@
     "NO_ANG": 11994021848,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1369,
@@ -2981,7 +3353,8 @@
     "NO_ANG": 11989111369,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2878,
@@ -2989,7 +3362,8 @@
     "NO_ANG": 12005012878,
     "DIV": "LUAR BIASA",
     "BAG": "KADIV&STAF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2444,
@@ -2997,7 +3371,8 @@
     "NO_ANG": 11998072444,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "RENDAL JUAL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3886,
@@ -3005,7 +3380,8 @@
     "NO_ANG": 52017043886,
     "DIV": "KOPERASI INTI",
     "BAG": "",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1769,
@@ -3013,7 +3389,8 @@
     "NO_ANG": 11993081769,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "MAN CHAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3891,
@@ -3021,7 +3398,8 @@
     "NO_ANG": 72017063891,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3376,
@@ -3029,7 +3407,8 @@
     "NO_ANG": 52011033376,
     "DIV": "KOPERASI INTI",
     "BAG": "",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2670,
@@ -3037,7 +3416,8 @@
     "NO_ANG": 12001042670,
     "DIV": "LUAR BIASA",
     "BAG": "JAK SI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3489,
@@ -3045,7 +3425,8 @@
     "NO_ANG": 12012053489,
     "DIV": "SBU BROADBAND",
     "BAG": "SE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2570,
@@ -3053,7 +3434,8 @@
     "NO_ANG": 12000022570,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "JAR SEL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3496,
@@ -3061,7 +3443,8 @@
     "NO_ANG": 12012083496,
     "DIV": "SBU BROADBAND",
     "BAG": "MSDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3601,
@@ -3069,7 +3452,8 @@
     "NO_ANG": 12013093601,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "TITO REG 2",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2425,
@@ -3077,7 +3461,8 @@
     "NO_ANG": 11997112425,
     "DIV": "SBU SMART ENERGY",
     "BAG": "BANGSISTEK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2490,
@@ -3085,7 +3470,8 @@
     "NO_ANG": 11999072490,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3415,
@@ -3093,7 +3479,8 @@
     "NO_ANG": 42011073415,
     "DIV": "PENGEMUDI",
     "BAG": "DRIVER",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3486,
@@ -3101,7 +3488,8 @@
     "NO_ANG": 12012053486,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "MSDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1071,
@@ -3109,7 +3497,8 @@
     "NO_ANG": 11986081071,
     "DIV": "LUAR BIASA",
     "BAG": "MAN.ASSET",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1343,
@@ -3117,7 +3506,8 @@
     "NO_ANG": 81989051343,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2335,
@@ -3125,7 +3515,8 @@
     "NO_ANG": 51997012335,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1779,
@@ -3133,7 +3524,8 @@
     "NO_ANG": 81993091779,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3913,
@@ -3141,7 +3533,8 @@
     "NO_ANG": 12018083913,
     "DIV": "SBU DDS",
     "BAG": "DDS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1271,
@@ -3149,7 +3542,8 @@
     "NO_ANG": 11988071271,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KUNG JUAL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1351,
@@ -3157,7 +3551,8 @@
     "NO_ANG": 11989061351,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "PKBL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3629,
@@ -3165,7 +3560,8 @@
     "NO_ANG": 42014013629,
     "DIV": "LUAR BIASA",
     "BAG": "OS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3662,
@@ -3173,7 +3569,8 @@
     "NO_ANG": 72014033662,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1022,
@@ -3181,7 +3578,8 @@
     "NO_ANG": 11986011022,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "REN DAN IMP PROY 2",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3740,
@@ -3189,7 +3587,8 @@
     "NO_ANG": 12015033740,
     "DIV": "SBU BROADBAND",
     "BAG": "KUG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2934,
@@ -3197,7 +3596,8 @@
     "NO_ANG": 12005082934,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "JAR TAP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3759,
@@ -3205,7 +3605,8 @@
     "NO_ANG": 42015123759,
     "DIV": "KELUAR",
     "BAG": "KELUAR",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 634,
@@ -3213,7 +3614,8 @@
     "NO_ANG": 11983030634,
     "DIV": "LUAR BIASA",
     "BAG": "GAR DAN SIS LAP KUG",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3062,
@@ -3221,7 +3623,8 @@
     "NO_ANG": 52006123062,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3536,
@@ -3229,7 +3632,8 @@
     "NO_ANG": 12013013536,
     "DIV": "SBU BROADBAND",
     "BAG": "TITO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3380,
@@ -3237,7 +3641,8 @@
     "NO_ANG": 52011033380,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3596,
@@ -3245,7 +3650,8 @@
     "NO_ANG": 42013083596,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PEMASARAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3695,
@@ -3253,7 +3659,8 @@
     "NO_ANG": 42014073695,
     "DIV": "PENGEMUDI",
     "BAG": "DRIVER",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2712,
@@ -3261,7 +3668,8 @@
     "NO_ANG": 12002072712,
     "DIV": "LUAR BIASA",
     "BAG": "RENBANGDIT",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3438,
@@ -3269,7 +3677,8 @@
     "NO_ANG": 42011113438,
     "DIV": "LUAR BIASA",
     "BAG": "PT MBIP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3694,
@@ -3277,7 +3686,8 @@
     "NO_ANG": 52014063694,
     "DIV": "KOPERASI INTI",
     "BAG": "KOPERASI INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3328,
@@ -3285,7 +3695,8 @@
     "NO_ANG": 42010013328,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT. IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1913,
@@ -3293,7 +3704,8 @@
     "NO_ANG": 11994041913,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "TEST&COM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3285,
@@ -3301,7 +3713,8 @@
     "NO_ANG": 62008123285,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3746,
@@ -3309,7 +3722,8 @@
     "NO_ANG": 42015043746,
     "DIV": "PT. IPMS",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1039,
@@ -3317,7 +3731,8 @@
     "NO_ANG": 11986041039,
     "DIV": "LUAR BIASA",
     "BAG": "DANA OPS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3817,
@@ -3325,7 +3740,8 @@
     "NO_ANG": 42016073817,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3818,
@@ -3333,7 +3749,8 @@
     "NO_ANG": 42016073818,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3729,
@@ -3341,7 +3758,8 @@
     "NO_ANG": 12015013729,
     "DIV": "CORPORATE FINANCE",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3780,
@@ -3349,7 +3767,8 @@
     "NO_ANG": 42016013780,
     "DIV": "PT IPMS",
     "BAG": "IPMS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1901,
@@ -3357,7 +3776,8 @@
     "NO_ANG": 11994041901,
     "DIV": "LUAR BIASA",
     "BAG": "DIT OP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 734,
@@ -3365,7 +3785,8 @@
     "NO_ANG": 11984110734,
     "DIV": "SBU BROADBAND",
     "BAG": "PENANGANAN MAT",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 793,
@@ -3373,7 +3794,8 @@
     "NO_ANG": 11985010793,
     "DIV": "LUAR BIASA",
     "BAG": "KUNG BANG",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3473,
@@ -3381,7 +3803,8 @@
     "NO_ANG": 42012023473,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3819,
@@ -3389,7 +3812,8 @@
     "NO_ANG": 42016073819,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3903,
@@ -3397,7 +3821,8 @@
     "NO_ANG": 42018023903,
     "DIV": "ME",
     "BAG": "OB",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 415,
@@ -3405,7 +3830,8 @@
     "NO_ANG": 11980110415,
     "DIV": "SBU BROADBAND",
     "BAG": "REN DAN IMP PROY 1",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2883,
@@ -3413,7 +3839,8 @@
     "NO_ANG": 12005012883,
     "DIV": "SBU BROADBAND",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3684,
@@ -3421,7 +3848,8 @@
     "NO_ANG": 42014063684,
     "DIV": "PT IPMS",
     "BAG": "IPMS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 843,
@@ -3429,7 +3857,8 @@
     "NO_ANG": 11985030843,
     "DIV": "CORPORATE SERVICES",
     "BAG": "BANGSIS SDM DAN ORG",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2812,
@@ -3437,7 +3866,8 @@
     "NO_ANG": 42004052812,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1213,
@@ -3445,7 +3875,8 @@
     "NO_ANG": 11988021213,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "BANGSISTEK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3820,
@@ -3453,7 +3884,8 @@
     "NO_ANG": 42016073820,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3236,
@@ -3461,7 +3893,8 @@
     "NO_ANG": 62008073236,
     "DIV": "LUAR BIASA",
     "BAG": "PT IBP/OS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3410,
@@ -3469,7 +3902,8 @@
     "NO_ANG": 42011053410,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1040,
@@ -3477,7 +3911,8 @@
     "NO_ANG": 11986041040,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2651,
@@ -3485,7 +3920,8 @@
     "NO_ANG": 12000122651,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG JUAL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2511,
@@ -3493,7 +3929,8 @@
     "NO_ANG": 11999082511,
     "DIV": "CORPORATE SERVICES",
     "BAG": "BANGSISTEK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2565,
@@ -3501,7 +3938,8 @@
     "NO_ANG": 12000022565,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 941,
@@ -3509,7 +3947,8 @@
     "NO_ANG": 11985090941,
     "DIV": "SBU SMART ENERGY",
     "BAG": "PRODUKSI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1851,
@@ -3517,7 +3956,8 @@
     "NO_ANG": 11994021851,
     "DIV": "LUAR BIASA",
     "BAG": "KADIV&STAF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1583,
@@ -3525,7 +3965,8 @@
     "NO_ANG": 11992081583,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3605,
@@ -3533,7 +3974,8 @@
     "NO_ANG": 42013093605,
     "DIV": "CORPORATE PT IBP",
     "BAG": "SDM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1234,
@@ -3541,7 +3983,8 @@
     "NO_ANG": 11988031234,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2447,
@@ -3549,7 +3992,8 @@
     "NO_ANG": 51998102447,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2560,
@@ -3557,7 +4001,8 @@
     "NO_ANG": 12000022560,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "BANG&NIKIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2671,
@@ -3565,7 +4010,8 @@
     "NO_ANG": 12001042671,
     "DIV": "LUAR BIASA",
     "BAG": "KUNG MPO",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3436,
@@ -3573,7 +4019,8 @@
     "NO_ANG": 42011113436,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3042,
@@ -3581,7 +4028,8 @@
     "NO_ANG": 12006103042,
     "DIV": "LUAR BIASA",
     "BAG": "KADIV&STAF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 422,
@@ -3589,7 +4037,8 @@
     "NO_ANG": 11980120422,
     "DIV": "LUAR BIASA",
     "BAG": "REN DAL",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3609,
@@ -3597,7 +4046,8 @@
     "NO_ANG": 12013093609,
     "DIV": "SBU SMART ENERGY",
     "BAG": "SALES ENG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 787,
@@ -3605,7 +4055,8 @@
     "NO_ANG": 11984120787,
     "DIV": "CORPORATE SERVICES",
     "BAG": "UMUM DAN PROPERTY",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1316,
@@ -3613,7 +4064,8 @@
     "NO_ANG": 11989031316,
     "DIV": "CORPORATE SERVICES",
     "BAG": "BANG&NIKIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 905,
@@ -3621,7 +4073,8 @@
     "NO_ANG": 11985060905,
     "DIV": "CORPORATE SERVICES",
     "BAG": "TAN UM DAN TAN ASET",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1112,
@@ -3629,7 +4082,8 @@
     "NO_ANG": 11986101112,
     "DIV": "CORPORATE SERVICES",
     "BAG": "UMUM&RT",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1219,
@@ -3637,7 +4091,8 @@
     "NO_ANG": 11988031219,
     "DIV": "CORPORATE SERVICES",
     "BAG": "STRA DANA",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1184,
@@ -3645,7 +4100,8 @@
     "NO_ANG": 11987121184,
     "DIV": "CORPORATE SERVICES",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 762,
@@ -3653,7 +4109,8 @@
     "NO_ANG": 11984120762,
     "DIV": "SBU BROADBAND",
     "BAG": "REN DAN IMP PROY 1",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1812,
@@ -3661,7 +4118,8 @@
     "NO_ANG": 11993121812,
     "DIV": "LUAR BIASA",
     "BAG": "KUNG OP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3241,
@@ -3669,7 +4127,8 @@
     "NO_ANG": 12008073241,
     "DIV": "SBU BROADBAND",
     "BAG": "G. TELKOM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3732,
@@ -3677,7 +4136,8 @@
     "NO_ANG": 12015013732,
     "DIV": "SBU BROADBAND",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2427,
@@ -3685,7 +4145,8 @@
     "NO_ANG": 11997112427,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "JAR SEL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2585,
@@ -3693,7 +4154,8 @@
     "NO_ANG": 12000042585,
     "DIV": "SBU BROADBAND",
     "BAG": "TI&KONTEN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2665,
@@ -3701,7 +4163,8 @@
     "NO_ANG": 12001032665,
     "DIV": "LUAR BIASA",
     "BAG": "KADIV&STAF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3620,
@@ -3709,7 +4172,8 @@
     "NO_ANG": 12014013620,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "TITO REG 1",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 736,
@@ -3717,7 +4181,8 @@
     "NO_ANG": 11984110736,
     "DIV": "CORPORATE SERVICES",
     "BAG": "REPAIR",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2423,
@@ -3725,7 +4190,8 @@
     "NO_ANG": 11997112423,
     "DIV": "CORPORATE SERVICES",
     "BAG": "BANG&NIKIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3323,
@@ -3733,7 +4199,8 @@
     "NO_ANG": 12009113323,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2764,
@@ -3741,7 +4208,8 @@
     "NO_ANG": 42003082764,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3751,
@@ -3749,7 +4217,8 @@
     "NO_ANG": 12015073751,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3317,
@@ -3757,7 +4226,8 @@
     "NO_ANG": 52009103317,
     "DIV": "LUAR BIASA",
     "BAG": "PERDAGANGAN II",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3821,
@@ -3765,7 +4235,8 @@
     "NO_ANG": 42016073821,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3229,
@@ -3773,7 +4244,8 @@
     "NO_ANG": 62008073229,
     "DIV": "LUAR BIASA",
     "BAG": "JTS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3593,
@@ -3781,7 +4253,8 @@
     "NO_ANG": 42013083593,
     "DIV": "CORPORATE PT IBP",
     "BAG": "SSH",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2697,
@@ -3789,7 +4262,8 @@
     "NO_ANG": 42001112697,
     "DIV": "DANA PENSIUN",
     "BAG": "DANA PENSIUN",
-    "PERS": "DP"
+    "PERS": "DP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3924,
@@ -3797,7 +4271,8 @@
     "NO_ANG": 12019013924,
     "DIV": "BANGBISPRO",
     "BAG": "BANGBISPRO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1702,
@@ -3805,7 +4280,8 @@
     "NO_ANG": 11993031702,
     "DIV": "CORPORATE FINANCE",
     "BAG": "KUNG MPO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3822,
@@ -3813,7 +4289,8 @@
     "NO_ANG": 42016073822,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1544,
@@ -3821,7 +4298,8 @@
     "NO_ANG": 11992021544,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3708,
@@ -3829,7 +4307,8 @@
     "NO_ANG": 12014083708,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "PENG PRODUK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3386,
@@ -3837,7 +4316,8 @@
     "NO_ANG": 12011033386,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "PT. INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3753,
@@ -3845,7 +4325,8 @@
     "NO_ANG": 12015103753,
     "DIV": "CORPORATE FINANCE",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2690,
@@ -3853,7 +4334,8 @@
     "NO_ANG": 12001082690,
     "DIV": "CORPORATE SERVICES",
     "BAG": "BANG&NIKIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3258,
@@ -3861,7 +4343,8 @@
     "NO_ANG": 12008083258,
     "DIV": "LUAR BIASA",
     "BAG": "TI&KONTEN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3611,
@@ -3869,7 +4352,8 @@
     "NO_ANG": 42013113611,
     "DIV": "LUAR BIASA",
     "BAG": "OS WASPANG",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 703,
@@ -3877,7 +4361,8 @@
     "NO_ANG": 71984010703,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1734,
@@ -3885,7 +4370,8 @@
     "NO_ANG": 11993051734,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "PRODUKSI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 970,
@@ -3893,7 +4379,8 @@
     "NO_ANG": 81985100970,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3651,
@@ -3901,7 +4388,8 @@
     "NO_ANG": 72014023651,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3823,
@@ -3909,7 +4397,8 @@
     "NO_ANG": 42016073823,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3686,
@@ -3917,7 +4406,8 @@
     "NO_ANG": 12014063686,
     "DIV": "CORPORATE SERVICES",
     "BAG": "SALE OPERATION",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3556,
@@ -3925,7 +4415,8 @@
     "NO_ANG": 12013023556,
     "DIV": "SBU BROADBAND",
     "BAG": "BAG. OPERASI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1091,
@@ -3933,7 +4424,8 @@
     "NO_ANG": 11986101091,
     "DIV": "CORPORATE SERVICES",
     "BAG": "HUKUM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3824,
@@ -3941,7 +4433,8 @@
     "NO_ANG": 42016073824,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1038,
@@ -3949,7 +4442,8 @@
     "NO_ANG": 11986031038,
     "DIV": "LUAR BIASA",
     "BAG": "BANGSIS DAN TEKFO",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3529,
@@ -3957,7 +4451,8 @@
     "NO_ANG": 12012103529,
     "DIV": "LUAR BIASA",
     "BAG": "BAG. KEUANGAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3445,
@@ -3965,7 +4460,8 @@
     "NO_ANG": 12011123445,
     "DIV": "LUAR BIASA",
     "BAG": "ADMIN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3523,
@@ -3973,7 +4469,8 @@
     "NO_ANG": 42012103523,
     "DIV": "LUAR BIASA",
     "BAG": "PT IBP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1687,
@@ -3981,7 +4478,8 @@
     "NO_ANG": 11993011687,
     "DIV": "LUAR BIASA",
     "BAG": "KADIV&STAF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1179,
@@ -3989,7 +4487,8 @@
     "NO_ANG": 11987121179,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "BANGSISORG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3679,
@@ -3997,7 +4496,8 @@
     "NO_ANG": 72014053679,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2984,
@@ -4005,7 +4505,8 @@
     "NO_ANG": 42006032984,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2679,
@@ -4013,7 +4514,8 @@
     "NO_ANG": 12001052679,
     "DIV": "SBU BROADBAND",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 194,
@@ -4021,7 +4523,8 @@
     "NO_ANG": 11979020194,
     "DIV": "LUAR BIASA",
     "BAG": "MAN KUA",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3793,
@@ -4029,7 +4532,8 @@
     "NO_ANG": 42016063793,
     "DIV": "PENGEMUDI",
     "BAG": "",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2617,
@@ -4037,7 +4541,8 @@
     "NO_ANG": 12000092617,
     "DIV": "SBU BROADBAND",
     "BAG": "YAN&REMUN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2730,
@@ -4045,7 +4550,8 @@
     "NO_ANG": 82003032730,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1155,
@@ -4053,7 +4559,8 @@
     "NO_ANG": 11987081155,
     "DIV": "SBU BROADBAND",
     "BAG": "TEST&COM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3741,
@@ -4061,7 +4568,8 @@
     "NO_ANG": 52015033741,
     "DIV": "KOPERASI INTI",
     "BAG": "",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3614,
@@ -4069,7 +4577,8 @@
     "NO_ANG": 12013113614,
     "DIV": "SBU BROADBAND",
     "BAG": "PRIVATE ACCOUNT ENTERPRISES",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3917,
@@ -4077,7 +4586,8 @@
     "NO_ANG": 12018083917,
     "DIV": "SBU DDS",
     "BAG": "DDS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3788,
@@ -4085,7 +4595,8 @@
     "NO_ANG": 72016023788,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1986,
@@ -4093,7 +4604,8 @@
     "NO_ANG": 11994071986,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 637,
@@ -4101,7 +4613,8 @@
     "NO_ANG": 11983030637,
     "DIV": "LUAR BIASA",
     "BAG": "UMUM DAN PROPERTY",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3844,
@@ -4109,7 +4622,8 @@
     "NO_ANG": 42016073844,
     "DIV": "PENGEMUDI",
     "BAG": "SATPAM",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3825,
@@ -4117,7 +4631,8 @@
     "NO_ANG": 42016073825,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3076,
@@ -4125,7 +4640,8 @@
     "NO_ANG": 42007013076,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2579,
@@ -4133,7 +4649,8 @@
     "NO_ANG": 12000032579,
     "DIV": "LUAR BIASA",
     "BAG": "KUNG OP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3526,
@@ -4141,7 +4658,8 @@
     "NO_ANG": 12012103526,
     "DIV": "SBU BROADBAND",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2698,
@@ -4149,7 +4667,8 @@
     "NO_ANG": 42001112698,
     "DIV": "DANA PENSIUN",
     "BAG": "DANA PENSIUN",
-    "PERS": "DP"
+    "PERS": "DP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1157,
@@ -4157,7 +4676,8 @@
     "NO_ANG": 11987081157,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "MANA SERV",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3912,
@@ -4165,7 +4685,8 @@
     "NO_ANG": 12018083912,
     "DIV": "CORPORETE FINANCE",
     "BAG": "KEUANGAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3450,
@@ -4173,7 +4694,8 @@
     "NO_ANG": 12011123450,
     "DIV": "SBU SMART ENERGY",
     "BAG": "MAN SDM & PK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1218,
@@ -4181,7 +4703,8 @@
     "NO_ANG": 11988031218,
     "DIV": "CORPORATE SERVICES",
     "BAG": "TAN MAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3013,
@@ -4189,7 +4712,8 @@
     "NO_ANG": 12006073013,
     "DIV": "LUAR BIASA",
     "BAG": "PKBL",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2377,
@@ -4197,7 +4721,8 @@
     "NO_ANG": 11997042377,
     "DIV": "CORPORATE SERVICES",
     "BAG": "DANA OPS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2977,
@@ -4205,7 +4730,8 @@
     "NO_ANG": 42006022977,
     "DIV": "LUAR BIASA",
     "BAG": "WBI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3506,
@@ -4213,7 +4739,8 @@
     "NO_ANG": 12012093506,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "PROD PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1707,
@@ -4221,7 +4748,8 @@
     "NO_ANG": 11993041707,
     "DIV": "SPI",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3631,
@@ -4229,7 +4757,8 @@
     "NO_ANG": 12014013631,
     "DIV": "CORPORATE SERVICES",
     "BAG": "HCM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1420,
@@ -4237,7 +4766,8 @@
     "NO_ANG": 51990121420,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3428,
@@ -4245,7 +4775,8 @@
     "NO_ANG": 42011083428,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1760,
@@ -4253,7 +4784,8 @@
     "NO_ANG": 11993081760,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG MPO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1555,
@@ -4261,7 +4793,8 @@
     "NO_ANG": 11992041555,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1611,
@@ -4269,7 +4802,8 @@
     "NO_ANG": 81992091611,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 326,
@@ -4277,7 +4811,8 @@
     "NO_ANG": 81979020326,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3194,
@@ -4285,7 +4820,8 @@
     "NO_ANG": 12008053194,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 390,
@@ -4293,7 +4829,8 @@
     "NO_ANG": 11980090390,
     "DIV": "LUAR BIASA",
     "BAG": "REN DAN IMP PROY 2",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1791,
@@ -4301,7 +4838,8 @@
     "NO_ANG": 11993101791,
     "DIV": "CORPORATE SERVICES",
     "BAG": "DAL PURJU",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1237,
@@ -4309,7 +4847,8 @@
     "NO_ANG": 11988041237,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3456,
@@ -4317,7 +4856,8 @@
     "NO_ANG": 12011123456,
     "DIV": "CORPORATE SERVICES",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1365,
@@ -4325,7 +4865,8 @@
     "NO_ANG": 11989091365,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3479,
@@ -4333,7 +4874,8 @@
     "NO_ANG": 12012023479,
     "DIV": "CORPORATE SERVICES",
     "BAG": "SDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 64,
@@ -4341,7 +4883,8 @@
     "NO_ANG": 11979020064,
     "DIV": "LUAR BIASA",
     "BAG": "BANG&NIKIN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3542,
@@ -4349,7 +4892,8 @@
     "NO_ANG": 12013013542,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "BAG. SALES ENGINEERING",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1726,
@@ -4357,7 +4901,8 @@
     "NO_ANG": 11993051726,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "HUMAS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3712,
@@ -4365,7 +4910,8 @@
     "NO_ANG": 12014083712,
     "DIV": "SBU SMART ENERGY",
     "BAG": "BANG OPS REG BARAT",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1777,
@@ -4373,7 +4919,8 @@
     "NO_ANG": 81993091779,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3218,
@@ -4381,7 +4928,8 @@
     "NO_ANG": 62008063218,
     "DIV": "LUAR BIASA",
     "BAG": "JTS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2687,
@@ -4389,7 +4937,8 @@
     "NO_ANG": 12001082687,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3630,
@@ -4397,7 +4946,8 @@
     "NO_ANG": 12014013630,
     "DIV": "SPI",
     "BAG": "HCM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3560,
@@ -4405,7 +4955,8 @@
     "NO_ANG": 52013023560,
     "DIV": "CORPORATE PT IBP",
     "BAG": "KOPERASI",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3688,
@@ -4413,7 +4964,8 @@
     "NO_ANG": 42014063688,
     "DIV": "LUAR BIASA",
     "BAG": "CELCO",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1241,
@@ -4421,7 +4973,8 @@
     "NO_ANG": 11988051241,
     "DIV": "CORPORATE SERVICES",
     "BAG": "JAR TAP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2260,
@@ -4429,7 +4982,8 @@
     "NO_ANG": 11996082260,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "RO DIR",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3667,
@@ -4437,7 +4991,8 @@
     "NO_ANG": 12014043667,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "SE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2640,
@@ -4445,7 +5000,8 @@
     "NO_ANG": 12000102640,
     "DIV": "SBU BROADBAND",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2537,
@@ -4453,7 +5009,8 @@
     "NO_ANG": 12000022537,
     "DIV": "LUAR BIASA",
     "BAG": "HUKUM",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2723,
@@ -4461,7 +5018,8 @@
     "NO_ANG": 12003012723,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "RO DIR",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2751,
@@ -4469,7 +5027,8 @@
     "NO_ANG": 42003062751,
     "DIV": "LUAR BIASA",
     "BAG": "PT MBIP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3568,
@@ -4477,7 +5036,8 @@
     "NO_ANG": 42013033568,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2015,
@@ -4485,7 +5045,8 @@
     "NO_ANG": 11994092015,
     "DIV": "CORPORATE SERVICES",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3826,
@@ -4493,7 +5054,8 @@
     "NO_ANG": 42016073826,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3527,
@@ -4501,7 +5063,8 @@
     "NO_ANG": 12012103527,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "SDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3539,
@@ -4509,7 +5072,8 @@
     "NO_ANG": 12013013539,
     "DIV": "SBU BROADBAND",
     "BAG": "DM TITO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3697,
@@ -4517,7 +5081,8 @@
     "NO_ANG": 12014073697,
     "DIV": "LUAR BIASA",
     "BAG": "KUNGTEK",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3582,
@@ -4525,7 +5090,8 @@
     "NO_ANG": 42013053582,
     "DIV": "LUAR BIASA",
     "BAG": "IMPL.TITO REG 2",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 844,
@@ -4533,7 +5099,8 @@
     "NO_ANG": 11985030844,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "REN DAN IMP PROY 2",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3777,
@@ -4541,7 +5108,8 @@
     "NO_ANG": 42016013777,
     "DIV": "TATAGRAHA DAHANA",
     "BAG": "IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3493,
@@ -4549,7 +5117,8 @@
     "NO_ANG": 12012073493,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3177,
@@ -4557,7 +5126,8 @@
     "NO_ANG": 42008043177,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 428,
@@ -4565,7 +5135,8 @@
     "NO_ANG": 11981010428,
     "DIV": "LUAR BIASA",
     "BAG": "MAN KUA",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3851,
@@ -4573,7 +5144,8 @@
     "NO_ANG": 42016113851,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3718,
@@ -4581,7 +5153,8 @@
     "NO_ANG": 12014093718,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3308,
@@ -4589,7 +5162,8 @@
     "NO_ANG": 12009083308,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "PROD KUNG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3587,
@@ -4597,7 +5171,8 @@
     "NO_ANG": 42013063587,
     "DIV": "CORPORATE PT IBP",
     "BAG": "IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3344,
@@ -4605,7 +5180,8 @@
     "NO_ANG": 12010033344,
     "DIV": "SBU BROADBAND",
     "BAG": "MP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3310,
@@ -4613,7 +5189,8 @@
     "NO_ANG": 12009083310,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3645,
@@ -4621,7 +5198,8 @@
     "NO_ANG": 12014023645,
     "DIV": "SBU BROADBAND",
     "BAG": "SE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3709,
@@ -4629,7 +5207,8 @@
     "NO_ANG": 12014083709,
     "DIV": "SBU SMART ENERGY",
     "BAG": "NGUN OPS REG BARAT",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3919,
@@ -4637,7 +5216,8 @@
     "NO_ANG": 12018083919,
     "DIV": "PRODUKSI",
     "BAG": "PRODUKSI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3118,
@@ -4645,7 +5225,8 @@
     "NO_ANG": 42007053118,
     "DIV": "LUAR BIASA",
     "BAG": "JTS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3900,
@@ -4653,7 +5234,8 @@
     "NO_ANG": 42018013900,
     "DIV": "PENDUKUNG",
     "BAG": "ADMIN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3639,
@@ -4661,7 +5243,8 @@
     "NO_ANG": 12014023639,
     "DIV": "CORPORATE FINANCE",
     "BAG": "KEUANGAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1710,
@@ -4669,7 +5252,8 @@
     "NO_ANG": 11993041710,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2707,
@@ -4677,7 +5261,8 @@
     "NO_ANG": 12002042707,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3354,
@@ -4685,7 +5270,8 @@
     "NO_ANG": 12010053354,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3341,
@@ -4693,7 +5279,8 @@
     "NO_ANG": 62010023341,
     "DIV": "LUAR BIASA",
     "BAG": "PT IBP/OS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2451,
@@ -4701,7 +5288,8 @@
     "NO_ANG": 41998102451,
     "DIV": "PENGEMUDI",
     "BAG": "PENGEMUDI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 174,
@@ -4709,7 +5297,8 @@
     "NO_ANG": 11979020174,
     "DIV": "LUAR BIASA",
     "BAG": "GAR DAN SIS LAP KUG",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1450,
@@ -4717,7 +5306,8 @@
     "NO_ANG": 11991031450,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2558,
@@ -4725,7 +5315,8 @@
     "NO_ANG": 12000022558,
     "DIV": "SBU SMART ENERGY",
     "BAG": "PROD KUNG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2578,
@@ -4733,7 +5324,8 @@
     "NO_ANG": 12000032578,
     "DIV": "LUAR BIASA",
     "BAG": "MPP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1750,
@@ -4741,7 +5333,8 @@
     "NO_ANG": 11993061750,
     "DIV": "CORPORATE SERVICES",
     "BAG": "RENDALPRO2",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3669,
@@ -4749,7 +5342,8 @@
     "NO_ANG": 42014043669,
     "DIV": "LUAR BIASA",
     "BAG": "JASTEK",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3849,
@@ -4757,7 +5351,8 @@
     "NO_ANG": 42016103849,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3381,
@@ -4765,7 +5360,8 @@
     "NO_ANG": 12011033381,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "PT.  INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3538,
@@ -4773,7 +5369,8 @@
     "NO_ANG": 12013013538,
     "DIV": "LUAR BIASA",
     "BAG": "TITO",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1879,
@@ -4781,7 +5378,8 @@
     "NO_ANG": 11994031879,
     "DIV": "CORPORATE SERVICES",
     "BAG": "DANA OPS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1027,
@@ -4789,7 +5387,8 @@
     "NO_ANG": 11986021027,
     "DIV": "CORPORATE FINANCE",
     "BAG": "JAK DAN RANSI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3922,
@@ -4797,7 +5396,8 @@
     "NO_ANG": 12018103922,
     "DIV": "HCMQ",
     "BAG": "SEKPER",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3599,
@@ -4805,7 +5405,8 @@
     "NO_ANG": 42013093599,
     "DIV": "LUAR BIASA",
     "BAG": "OS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3878,
@@ -4813,7 +5414,8 @@
     "NO_ANG": 72017023878,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2610,
@@ -4821,7 +5423,8 @@
     "NO_ANG": 42000082610,
     "DIV": "PT WBI",
     "BAG": "WBI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3733,
@@ -4829,7 +5432,8 @@
     "NO_ANG": 12015013733,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3827,
@@ -4837,7 +5441,8 @@
     "NO_ANG": 42016073827,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3531,
@@ -4845,7 +5450,8 @@
     "NO_ANG": 42012113531,
     "DIV": "CORPORATE PT IBP",
     "BAG": "JAS TEK",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3618,
@@ -4853,7 +5459,8 @@
     "NO_ANG": 12014013618,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "SE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3674,
@@ -4861,7 +5468,8 @@
     "NO_ANG": 42014043674,
     "DIV": "PT WBI",
     "BAG": "WBI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3703,
@@ -4869,7 +5477,8 @@
     "NO_ANG": 42014073703,
     "DIV": "LUAR BIASA",
     "BAG": "ADM SECURITY",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3113,
@@ -4877,7 +5486,8 @@
     "NO_ANG": 62007033113,
     "DIV": "LUAR BIASA",
     "BAG": "PT.IBP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2065,
@@ -4885,7 +5495,8 @@
     "NO_ANG": 11995022065,
     "DIV": "SBU BROADBAND",
     "BAG": "KOM HAR",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1333,
@@ -4893,7 +5504,8 @@
     "NO_ANG": 11989041333,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 794,
@@ -4901,7 +5513,8 @@
     "NO_ANG": 11985010794,
     "DIV": "CORPORATE SERVICES",
     "BAG": "REN DAL",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1107,
@@ -4909,7 +5522,8 @@
     "NO_ANG": 11986101107,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3664,
@@ -4917,7 +5531,8 @@
     "NO_ANG": 12014043664,
     "DIV": "CORPORATE SERVICES",
     "BAG": "SISTEKFO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3738,
@@ -4925,7 +5540,8 @@
     "NO_ANG": 12015023738,
     "DIV": "SBU SMART ENERGY",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3678,
@@ -4933,7 +5549,8 @@
     "NO_ANG": 12014053678,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "ACCOUNT CELCO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3828,
@@ -4941,7 +5558,8 @@
     "NO_ANG": 42016073828,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3730,
@@ -4949,7 +5567,8 @@
     "NO_ANG": 12015013730,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 25,
@@ -4957,7 +5576,8 @@
     "NO_ANG": 11979020025,
     "DIV": "LUAR BIASA",
     "BAG": "KUNG PROY",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3351,
@@ -4965,7 +5585,8 @@
     "NO_ANG": 42010043351,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3487,
@@ -4973,7 +5594,8 @@
     "NO_ANG": 12012053487,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "SE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 946,
@@ -4981,7 +5603,8 @@
     "NO_ANG": 81985090946,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1806,
@@ -4989,7 +5612,8 @@
     "NO_ANG": 11993111806,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3916,
@@ -4997,7 +5621,8 @@
     "NO_ANG": 12018083916,
     "DIV": "SBU DDS",
     "BAG": "DDS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2897,
@@ -5005,7 +5630,8 @@
     "NO_ANG": 12005022897,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "TEST&COM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3829,
@@ -5013,7 +5639,8 @@
     "NO_ANG": 42016073829,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3340,
@@ -5021,7 +5648,8 @@
     "NO_ANG": 42010023340,
     "DIV": "PT INTENS",
     "BAG": "",
-    "PERS": "INTEN"
+    "PERS": "INTEN",
+    "STATUS": 0
   },
   {
     "NO_ID": 3635,
@@ -5029,7 +5657,8 @@
     "NO_ANG": 42014013635,
     "DIV": "PT IPMS",
     "BAG": "IPMS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3349,
@@ -5037,7 +5666,8 @@
     "NO_ANG": 42010043349,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3659,
@@ -5045,7 +5675,8 @@
     "NO_ANG": 42014033659,
     "DIV": "CORPORATE PT IBP",
     "BAG": "",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2607,
@@ -5053,7 +5684,8 @@
     "NO_ANG": 72000082607,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3435,
@@ -5061,7 +5693,8 @@
     "NO_ANG": 52011103435,
     "DIV": "CORPORATE PT IBP",
     "BAG": "CORPORATE",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3535,
@@ -5069,7 +5702,8 @@
     "NO_ANG": 12013013535,
     "DIV": "SBU SMART ENERGY",
     "BAG": "TITO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3442,
@@ -5077,7 +5711,8 @@
     "NO_ANG": 12011113442,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "BAG.LOGISTIK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3906,
@@ -5085,7 +5720,8 @@
     "NO_ANG": 12018043906,
     "DIV": "SBU SE",
     "BAG": "SE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 232,
@@ -5093,7 +5729,8 @@
     "NO_ANG": 11979020232,
     "DIV": "LUAR BIASA",
     "BAG": "PROD&BAIK",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2546,
@@ -5101,7 +5738,8 @@
     "NO_ANG": 12000022546,
     "DIV": "CORPORATE SERVICES",
     "BAG": "TAN MAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2644,
@@ -5109,7 +5747,8 @@
     "NO_ANG": 12000112644,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3414,
@@ -5117,7 +5756,8 @@
     "NO_ANG": 42011073414,
     "DIV": "LUAR BIASA",
     "BAG": "DRIVER",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2504,
@@ -5125,7 +5765,8 @@
     "NO_ANG": 11999072504,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1972,
@@ -5133,7 +5774,8 @@
     "NO_ANG": 11994061972,
     "DIV": "CORPORATE SERVICES",
     "BAG": "BANG&NIKIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3895,
@@ -5141,7 +5783,8 @@
     "NO_ANG": 12017083895,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3466,
@@ -5149,7 +5792,8 @@
     "NO_ANG": 42012013466,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3613,
@@ -5157,7 +5801,8 @@
     "NO_ANG": 72013113613,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3876,
@@ -5165,7 +5810,8 @@
     "NO_ANG": 42017013876,
     "DIV": "CORPORATE PT IBP",
     "BAG": "",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1411,
@@ -5173,7 +5819,8 @@
     "NO_ANG": 11990101411,
     "DIV": "SBU BROADBAND",
     "BAG": "G.NON TOR",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3830,
@@ -5181,7 +5828,8 @@
     "NO_ANG": 42016073830,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1222,
@@ -5189,7 +5837,8 @@
     "NO_ANG": 11988031222,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1485,
@@ -5197,7 +5846,8 @@
     "NO_ANG": 11991081485,
     "DIV": "SPI",
     "BAG": "SISTAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2618,
@@ -5205,7 +5855,8 @@
     "NO_ANG": 12000092618,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3510,
@@ -5213,7 +5864,8 @@
     "NO_ANG": 72012093510,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2949,
@@ -5221,7 +5873,8 @@
     "NO_ANG": 12005112949,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "JAR TAP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2951,
@@ -5229,7 +5882,8 @@
     "NO_ANG": 12005122951,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 707,
@@ -5237,7 +5891,8 @@
     "NO_ANG": 11984020707,
     "DIV": "LUAR BIASA",
     "BAG": "MPP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3405,
@@ -5245,7 +5900,8 @@
     "NO_ANG": 52011053405,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3638,
@@ -5253,7 +5909,8 @@
     "NO_ANG": 42014013638,
     "DIV": "PT IPMS",
     "BAG": "IPMS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2888,
@@ -5261,7 +5918,8 @@
     "NO_ANG": 12005012888,
     "DIV": "CORPORATE SERVICES",
     "BAG": "SIS FO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1711,
@@ -5269,7 +5927,8 @@
     "NO_ANG": 11993041711,
     "DIV": "SBU SMART ENERGY",
     "BAG": "YAN&REMUN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3315,
@@ -5277,7 +5936,8 @@
     "NO_ANG": 12009093315,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "OPS I",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3831,
@@ -5285,7 +5945,8 @@
     "NO_ANG": 42016073831,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1823,
@@ -5293,7 +5954,8 @@
     "NO_ANG": 11994011823,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3358,
@@ -5301,7 +5963,8 @@
     "NO_ANG": 42010063358,
     "DIV": "PT WBI",
     "BAG": "UMUM&RT",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1120,
@@ -5309,7 +5972,8 @@
     "NO_ANG": 11986121120,
     "DIV": "CORPORATE SERVICES",
     "BAG": "RENDAL JUAL",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3898,
@@ -5317,7 +5981,8 @@
     "NO_ANG": 42017103898,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2045,
@@ -5325,7 +5990,8 @@
     "NO_ANG": 11994112045,
     "DIV": "LUAR BIASA",
     "BAG": "KUNG PROD",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2967,
@@ -5333,7 +5999,8 @@
     "NO_ANG": 42006022967,
     "DIV": "LUAR BIASA",
     "BAG": "PT IBP/KELUAR",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3683,
@@ -5341,7 +6008,8 @@
     "NO_ANG": 42014063683,
     "DIV": "PT IPMS",
     "BAG": "IPMS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3495,
@@ -5349,7 +6017,8 @@
     "NO_ANG": 72012083495,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3088,
@@ -5357,7 +6026,8 @@
     "NO_ANG": 42007023088,
     "DIV": "SEJATI",
     "BAG": "SEJATI",
-    "PERS": "SEJATI"
+    "PERS": "SEJATI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3499,
@@ -5365,7 +6035,8 @@
     "NO_ANG": 72012083499,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3637,
@@ -5373,7 +6044,8 @@
     "NO_ANG": 42014013637,
     "DIV": "PT IPMS",
     "BAG": "IPMS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2652,
@@ -5381,7 +6053,8 @@
     "NO_ANG": 12000122652,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "HUKUM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1441,
@@ -5389,7 +6062,8 @@
     "NO_ANG": 11991021441,
     "DIV": "SBU BROADBAND",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3497,
@@ -5397,7 +6071,8 @@
     "NO_ANG": 12012083497,
     "DIV": "SBU BROADBAND",
     "BAG": "MSDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3375,
@@ -5405,7 +6080,8 @@
     "NO_ANG": 52011033375,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3251,
@@ -5413,7 +6089,8 @@
     "NO_ANG": 62008073251,
     "DIV": "LUAR BIASA",
     "BAG": "PT IBP/OS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3615,
@@ -5421,7 +6098,8 @@
     "NO_ANG": 72013123615,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3832,
@@ -5429,7 +6107,8 @@
     "NO_ANG": 42016073832,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3512,
@@ -5437,7 +6116,8 @@
     "NO_ANG": 72012093512,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1990,
@@ -5445,7 +6125,8 @@
     "NO_ANG": 11994081990,
     "DIV": "SBU SMART ENERGY",
     "BAG": "RENDALPRO1",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1081,
@@ -5453,7 +6134,8 @@
     "NO_ANG": 11986091081,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2432,
@@ -5461,7 +6143,8 @@
     "NO_ANG": 11997122432,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "HUMAS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2573,
@@ -5469,7 +6152,8 @@
     "NO_ANG": 12000022573,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2659,
@@ -5477,7 +6161,8 @@
     "NO_ANG": 12001012659,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2556,
@@ -5485,7 +6170,8 @@
     "NO_ANG": 12000022556,
     "DIV": "SBU BROADBAND",
     "BAG": "YAN&REMUN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2714,
@@ -5493,7 +6179,8 @@
     "NO_ANG": 12002072714,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "BANGSISTEK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3702,
@@ -5501,7 +6188,8 @@
     "NO_ANG": 72014073702,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2424,
@@ -5509,7 +6197,8 @@
     "NO_ANG": 11997112424,
     "DIV": "SBU SMART ENERGY",
     "BAG": "PROD KUNG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2885,
@@ -5517,7 +6206,8 @@
     "NO_ANG": 42005012885,
     "DIV": "PT WBI",
     "BAG": "WBI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1281,
@@ -5525,7 +6215,8 @@
     "NO_ANG": 11988091281,
     "DIV": "CORPORATE FINANCE",
     "BAG": "TAN KUG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2627,
@@ -5533,7 +6224,8 @@
     "NO_ANG": 12000092627,
     "DIV": "LUAR BIASA",
     "BAG": "KUNG JUAL",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1552,
@@ -5541,7 +6233,8 @@
     "NO_ANG": 41992041552,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 496,
@@ -5549,7 +6242,8 @@
     "NO_ANG": 11981090496,
     "DIV": "SBU BROADBAND",
     "BAG": "DAAN 1",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 898,
@@ -5557,7 +6251,8 @@
     "NO_ANG": 11985050898,
     "DIV": "SBU BROADBAND",
     "BAG": "MONT PERFORM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1030,
@@ -5565,7 +6260,8 @@
     "NO_ANG": 11986021030,
     "DIV": "SBU SMART ENERGY",
     "BAG": "REN DAL KONTDAN JUAL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1102,
@@ -5573,7 +6269,8 @@
     "NO_ANG": 11986101102,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG&PURJU",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3905,
@@ -5581,7 +6278,8 @@
     "NO_ANG": 12018043905,
     "DIV": "SDM",
     "BAG": "CS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3722,
@@ -5589,7 +6287,8 @@
     "NO_ANG": 12014113722,
     "DIV": "CORPORATE SERVICE",
     "BAG": "PT.INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2646,
@@ -5597,7 +6296,8 @@
     "NO_ANG": 12000112646,
     "DIV": "SBU BROADBAND",
     "BAG": "REN DAN IMP PROY 2",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1110,
@@ -5605,7 +6305,8 @@
     "NO_ANG": 11986101110,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2013,
@@ -5613,7 +6314,8 @@
     "NO_ANG": 11994092013,
     "DIV": "SBU BROADBAND",
     "BAG": "MANA SERV",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2943,
@@ -5621,7 +6323,8 @@
     "NO_ANG": 42005082943,
     "DIV": "LUAR BIASA",
     "BAG": "CORPORATE",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1973,
@@ -5629,7 +6332,8 @@
     "NO_ANG": 11994061973,
     "DIV": "SBU SMART ENERGY",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1109,
@@ -5637,7 +6341,8 @@
     "NO_ANG": 11986101109,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "RICE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3598,
@@ -5645,7 +6350,8 @@
     "NO_ANG": 42013083598,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1339,
@@ -5653,7 +6359,8 @@
     "NO_ANG": 81989051339,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1260,
@@ -5661,7 +6368,8 @@
     "NO_ANG": 11988061260,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2660,
@@ -5669,7 +6377,8 @@
     "NO_ANG": 12001012660,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2104,
@@ -5677,7 +6386,8 @@
     "NO_ANG": 11995062104,
     "DIV": "CORPORATE SERVICES",
     "BAG": "DAAN 1",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 956,
@@ -5685,7 +6395,8 @@
     "NO_ANG": 11985100956,
     "DIV": "SBU SMART ENERGY",
     "BAG": "REN DAN IMP PROY 2",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 680,
@@ -5693,7 +6404,8 @@
     "NO_ANG": 11983080680,
     "DIV": "LUAR BIASA",
     "BAG": "GIH DAN RIMA TELCO",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2481,
@@ -5701,7 +6413,8 @@
     "NO_ANG": 11999062481,
     "DIV": "LUAR BIASA",
     "BAG": "KUNG OP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1363,
@@ -5709,7 +6422,8 @@
     "NO_ANG": 11989091363,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3460,
@@ -5717,7 +6431,8 @@
     "NO_ANG": 52012013460,
     "DIV": "LUAR BIASA",
     "BAG": "KOP.INTI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2491,
@@ -5725,7 +6440,8 @@
     "NO_ANG": 11999072491,
     "DIV": "SBU BROADBAND",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3073,
@@ -5733,7 +6449,8 @@
     "NO_ANG": 42007013073,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2918,
@@ -5741,7 +6458,8 @@
     "NO_ANG": 42005062918,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1319,
@@ -5749,7 +6467,8 @@
     "NO_ANG": 11989031319,
     "DIV": "CORPORATE SERVICES",
     "BAG": "MAN SDM & REMUN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3833,
@@ -5757,7 +6476,8 @@
     "NO_ANG": 42016073833,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 396,
@@ -5765,7 +6485,8 @@
     "NO_ANG": 11980090396,
     "DIV": "LUAR BIASA",
     "BAG": "DIREKSI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 924,
@@ -5773,7 +6494,8 @@
     "NO_ANG": 51985070924,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2532,
@@ -5781,7 +6503,8 @@
     "NO_ANG": 12000012532,
     "DIV": "CORPORATE FINANCE",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1429,
@@ -5789,7 +6512,8 @@
     "NO_ANG": 11990121429,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "RICE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2624,
@@ -5797,7 +6521,8 @@
     "NO_ANG": 12000092624,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG MPO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3700,
@@ -5805,7 +6530,8 @@
     "NO_ANG": 42014073700,
     "DIV": "LUAR BIASA",
     "BAG": "OPS2",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2095,
@@ -5813,7 +6539,8 @@
     "NO_ANG": 41995062095,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3524,
@@ -5821,7 +6548,8 @@
     "NO_ANG": 72012103524,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2561,
@@ -5829,7 +6557,8 @@
     "NO_ANG": 82000092561,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3628,
@@ -5837,7 +6566,8 @@
     "NO_ANG": 42014013628,
     "DIV": "LUAR BIASA",
     "BAG": "IMPL TITO REG 1",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2102,
@@ -5845,7 +6575,8 @@
     "NO_ANG": 11995062102,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1916,
@@ -5853,7 +6584,8 @@
     "NO_ANG": 11994041916,
     "DIV": "SBU BROADBAND",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3353,
@@ -5861,7 +6593,8 @@
     "NO_ANG": 12010053353,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2637,
@@ -5869,7 +6602,8 @@
     "NO_ANG": 12000102637,
     "DIV": "SBU BROADBAND",
     "BAG": "TEST&COM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2530,
@@ -5877,7 +6611,8 @@
     "NO_ANG": 12000012530,
     "DIV": "CORPORATE FINANCE",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3834,
@@ -5885,7 +6620,8 @@
     "NO_ANG": 42016073834,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2566,
@@ -5893,7 +6629,8 @@
     "NO_ANG": 12000022566,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "PROD KUNG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2564,
@@ -5901,7 +6638,8 @@
     "NO_ANG": 12000022564,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "KUNG MPO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 378,
@@ -5909,7 +6647,8 @@
     "NO_ANG": 11980090378,
     "DIV": "LUAR BIASA",
     "BAG": "MPP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 817,
@@ -5917,7 +6656,8 @@
     "NO_ANG": 11985020817,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "MAN KUA",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3835,
@@ -5925,7 +6665,8 @@
     "NO_ANG": 42016073835,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1183,
@@ -5933,7 +6674,8 @@
     "NO_ANG": 11987121183,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2172,
@@ -5941,7 +6683,8 @@
     "NO_ANG": 71995122172,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 993,
@@ -5949,7 +6692,8 @@
     "NO_ANG": 11985110993,
     "DIV": "SBU BROADBAND",
     "BAG": "DAAN 3",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2770,
@@ -5957,7 +6701,8 @@
     "NO_ANG": 82003092770,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF/LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1613,
@@ -5965,7 +6710,8 @@
     "NO_ANG": 41992101613,
     "DIV": "CORPORATE PT IBP",
     "BAG": "CORPORATE",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3483,
@@ -5973,7 +6719,8 @@
     "NO_ANG": 12012033483,
     "DIV": "SBU BROADBAND",
     "BAG": "MSDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3836,
@@ -5981,7 +6728,8 @@
     "NO_ANG": 42016073836,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1212,
@@ -5989,7 +6737,8 @@
     "NO_ANG": 11988021212,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG MPO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3096,
@@ -5997,7 +6746,8 @@
     "NO_ANG": 42007023096,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/TATA GRAHA",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3215,
@@ -6005,7 +6755,8 @@
     "NO_ANG": 12008063215,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2488,
@@ -6013,7 +6764,8 @@
     "NO_ANG": 11999072488,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2354,
@@ -6021,7 +6773,8 @@
     "NO_ANG": 11997022354,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1357,
@@ -6029,7 +6782,8 @@
     "NO_ANG": 11989081357,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1804,
@@ -6037,7 +6791,8 @@
     "NO_ANG": 11993111804,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3327,
@@ -6045,7 +6800,8 @@
     "NO_ANG": 12010013327,
     "DIV": "CORPORATE SERVICES",
     "BAG": "BANG SDM DAN PK",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1870,
@@ -6053,7 +6809,8 @@
     "NO_ANG": 11994031870,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG MPO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 788,
@@ -6061,7 +6818,8 @@
     "NO_ANG": 81984120788,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 552,
@@ -6069,7 +6827,8 @@
     "NO_ANG": 81981120552,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1180,
@@ -6077,7 +6836,8 @@
     "NO_ANG": 11987121180,
     "DIV": "CORPORATE FINANCE",
     "BAG": "STRA DANA",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3663,
@@ -6085,7 +6845,8 @@
     "NO_ANG": 42014043663,
     "DIV": "CORPORATE PT IBP",
     "BAG": "IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2654,
@@ -6093,7 +6854,8 @@
     "NO_ANG": 12001012654,
     "DIV": "SBU SMART ENERGY",
     "BAG": "DANGS DIST",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2811,
@@ -6101,7 +6863,8 @@
     "NO_ANG": 42004052811,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1966,
@@ -6109,7 +6872,8 @@
     "NO_ANG": 11994051966,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3119,
@@ -6117,7 +6881,8 @@
     "NO_ANG": 42007053119,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3571,
@@ -6125,7 +6890,8 @@
     "NO_ANG": 42013033571,
     "DIV": "LUAR BIASA",
     "BAG": "IBP",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3367,
@@ -6133,7 +6899,8 @@
     "NO_ANG": 72010093367,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1376,
@@ -6141,7 +6908,8 @@
     "NO_ANG": 11989121376,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1240,
@@ -6149,7 +6917,8 @@
     "NO_ANG": 11988051240,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3480,
@@ -6157,7 +6926,8 @@
     "NO_ANG": 12012033480,
     "DIV": "SBU SMART ENERGY",
     "BAG": "MSDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1514,
@@ -6165,7 +6935,8 @@
     "NO_ANG": 11991111514,
     "DIV": "SBU BROADBAND",
     "BAG": "KOM HAR",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3592,
@@ -6173,7 +6944,8 @@
     "NO_ANG": 12013073592,
     "DIV": "SBU BROADBAND",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1678,
@@ -6181,7 +6953,8 @@
     "NO_ANG": 11992121678,
     "DIV": "SBU BROADBAND",
     "BAG": "BANG&NIKIN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3877,
@@ -6189,7 +6962,8 @@
     "NO_ANG": 12017023877,
     "DIV": "SBU SMART ENERGY",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 83,
@@ -6197,7 +6971,8 @@
     "NO_ANG": 71979020083,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3519,
@@ -6205,7 +6980,8 @@
     "NO_ANG": 72012093519,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3837,
@@ -6213,7 +6989,8 @@
     "NO_ANG": 42016073837,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1229,
@@ -6221,7 +6998,8 @@
     "NO_ANG": 11988031229,
     "DIV": "SBU SMART ENERGY",
     "BAG": "G. TELKOM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3307,
@@ -6229,7 +7007,8 @@
     "NO_ANG": 72009073307,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2905,
@@ -6237,7 +7016,8 @@
     "NO_ANG": 42005032905,
     "DIV": "LUAR BIASA",
     "BAG": "UMUM/BHS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3747,
@@ -6245,7 +7025,8 @@
     "NO_ANG": 12015053747,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3660,
@@ -6253,7 +7034,8 @@
     "NO_ANG": 12014033660,
     "DIV": "SBU SMART ENERGY",
     "BAG": "SE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3196,
@@ -6261,7 +7043,8 @@
     "NO_ANG": 12008053196,
     "DIV": "LUAR BIASA",
     "BAG": "KUNG MPO",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2557,
@@ -6269,7 +7052,8 @@
     "NO_ANG": 12000022557,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3690,
@@ -6277,7 +7061,8 @@
     "NO_ANG": 42014063690,
     "DIV": "PT IPMS",
     "BAG": "ENGINEERING",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3752,
@@ -6285,7 +7070,8 @@
     "NO_ANG": 42015073752,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1088,
@@ -6293,7 +7079,8 @@
     "NO_ANG": 11986101088,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1045,
@@ -6301,7 +7088,8 @@
     "NO_ANG": 11986051045,
     "DIV": "CORPORATE SERVICES",
     "BAG": "YAN SDM DAN REMUN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2788,
@@ -6309,7 +7097,8 @@
     "NO_ANG": 42004032788,
     "DIV": "CORPORATE PT IBP",
     "BAG": "OFFICE BOY",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3447,
@@ -6317,7 +7106,8 @@
     "NO_ANG": 12011123447,
     "DIV": "SBU BROADBAND",
     "BAG": "MSDM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1828,
@@ -6325,7 +7115,8 @@
     "NO_ANG": 11994011828,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1820,
@@ -6333,7 +7124,8 @@
     "NO_ANG": 11993121820,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2790,
@@ -6341,7 +7133,8 @@
     "NO_ANG": 62004032790,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3338,
@@ -6349,7 +7142,8 @@
     "NO_ANG": 42010023338,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "PT IBP/KEAMANAN",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2541,
@@ -6357,7 +7151,8 @@
     "NO_ANG": 12000022541,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2720,
@@ -6365,7 +7160,8 @@
     "NO_ANG": 12002112720,
     "DIV": "SBU BROADBAND",
     "BAG": "RENDAL LOG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2896,
@@ -6373,7 +7169,8 @@
     "NO_ANG": 12005022896,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "KUNG MPO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1827,
@@ -6381,7 +7178,8 @@
     "NO_ANG": 11994011827,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "TAN MAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1205,
@@ -6389,7 +7187,8 @@
     "NO_ANG": 11988021205,
     "DIV": "CORPORATE FINANCE",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2543,
@@ -6397,7 +7196,8 @@
     "NO_ANG": 12000022543,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 895,
@@ -6405,7 +7205,8 @@
     "NO_ANG": 11985050895,
     "DIV": "SBU BROADBAND",
     "BAG": "TEK KUA PROY",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1771,
@@ -6413,7 +7214,8 @@
     "NO_ANG": 11993081771,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3909,
@@ -6421,7 +7223,8 @@
     "NO_ANG": 42018053909,
     "DIV": "KEUANGAN",
     "BAG": "ADKUG",
-    "PERS": "PT. MBIP"
+    "PERS": "PT. MBIP",
+    "STATUS": 0
   },
   {
     "NO_ID": 207,
@@ -6429,7 +7232,8 @@
     "NO_ANG": 71979020207,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3513,
@@ -6437,7 +7241,8 @@
     "NO_ANG": 72012093513,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2666,
@@ -6445,7 +7250,8 @@
     "NO_ANG": 12001032666,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "PKBL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1167,
@@ -6453,7 +7259,8 @@
     "NO_ANG": 11987101167,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "DAAN II",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3626,
@@ -6461,7 +7268,8 @@
     "NO_ANG": 42014013626,
     "DIV": "LUAR BIASA",
     "BAG": "TITO 1",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3897,
@@ -6469,7 +7277,8 @@
     "NO_ANG": 42017103897,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2740,
@@ -6477,7 +7286,8 @@
     "NO_ANG": 12003042740,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "LAP MAN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3511,
@@ -6485,7 +7295,8 @@
     "NO_ANG": 72012093511,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3426,
@@ -6493,7 +7304,8 @@
     "NO_ANG": 42011083426,
     "DIV": "LUAR BIASA",
     "BAG": "OS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3259,
@@ -6501,7 +7313,8 @@
     "NO_ANG": 12008083259,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "HUKUM",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3786,
@@ -6509,7 +7322,8 @@
     "NO_ANG": 72016013786,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2950,
@@ -6517,7 +7331,8 @@
     "NO_ANG": 12005112950,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 786,
@@ -6525,7 +7340,8 @@
     "NO_ANG": 11984120786,
     "DIV": "SBU BROADBAND",
     "BAG": "DANG DIST",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3530,
@@ -6533,7 +7349,8 @@
     "NO_ANG": 12012113530,
     "DIV": "LUAR BIASA",
     "BAG": "BAG. BANG SDM",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1164,
@@ -6541,7 +7358,8 @@
     "NO_ANG": 11987101164,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG&PURJU",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3580,
@@ -6549,7 +7367,8 @@
     "NO_ANG": 42013053580,
     "DIV": "PENGEMUDI",
     "BAG": "KENDARAAN",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1636,
@@ -6557,7 +7376,8 @@
     "NO_ANG": 11992111636,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3850,
@@ -6565,7 +7385,8 @@
     "NO_ANG": 42016103850,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1729,
@@ -6573,7 +7394,8 @@
     "NO_ANG": 81993051729,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3334,
@@ -6581,7 +7403,8 @@
     "NO_ANG": 42010023334,
     "DIV": "LUAR BIASA",
     "BAG": "",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3838,
@@ -6589,7 +7412,8 @@
     "NO_ANG": 42016073838,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2668,
@@ -6597,7 +7421,8 @@
     "NO_ANG": 12001032668,
     "DIV": "CORPORATE SERVICES",
     "BAG": "KUNG MPO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3839,
@@ -6605,7 +7430,8 @@
     "NO_ANG": 42016073839,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3500,
@@ -6613,7 +7439,8 @@
     "NO_ANG": 72012083500,
     "DIV": "LUAR BIASA",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2895,
@@ -6621,7 +7448,8 @@
     "NO_ANG": 12005022895,
     "DIV": "SPI",
     "BAG": "CME",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3182,
@@ -6629,7 +7457,8 @@
     "NO_ANG": 12008043182,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "JAR SEL",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3881,
@@ -6637,7 +7466,8 @@
     "NO_ANG": 42017023881,
     "DIV": "PENGEMUDI",
     "BAG": "PENGEMUDI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3474,
@@ -6645,7 +7475,8 @@
     "NO_ANG": 72012023474,
     "DIV": "LUAR BIASA",
     "BAG": "LB",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3904,
@@ -6653,7 +7484,8 @@
     "NO_ANG": 42018043904,
     "DIV": "ADMIN",
     "BAG": "ADMIN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1166,
@@ -6661,7 +7493,8 @@
     "NO_ANG": 11987101166,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3319,
@@ -6669,7 +7502,8 @@
     "NO_ANG": 12009103319,
     "DIV": "LUAR BIASA",
     "BAG": "ITC",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3675,
@@ -6677,7 +7511,8 @@
     "NO_ANG": 12014043675,
     "DIV": "LUAR BIASA",
     "BAG": "IMPL TITO",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3693,
@@ -6685,7 +7520,8 @@
     "NO_ANG": 42014063693,
     "DIV": "PT IPMS",
     "BAG": "OPRASIONAL",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3619,
@@ -6693,7 +7529,8 @@
     "NO_ANG": 12014013619,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "OPS CELCO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3627,
@@ -6701,7 +7538,8 @@
     "NO_ANG": 42014013627,
     "DIV": "LUAR BIASA",
     "BAG": "IMPL TITO REG1",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3840,
@@ -6709,7 +7547,8 @@
     "NO_ANG": 42016073840,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 764,
@@ -6717,7 +7556,8 @@
     "NO_ANG": 11984120764,
     "DIV": "CORPORATE FINANCE",
     "BAG": "DANA OPS",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2765,
@@ -6725,7 +7565,8 @@
     "NO_ANG": 42003082765,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3330,
@@ -6733,7 +7574,8 @@
     "NO_ANG": 12010013330,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1846,
@@ -6741,7 +7583,8 @@
     "NO_ANG": 11994021846,
     "DIV": "CORPORATE FINANCE",
     "BAG": "TAN KUG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3841,
@@ -6749,15 +7592,8 @@
     "NO_ANG": 42016073841,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
-  },
-  {
-    "NO_ID": 0,
-    "NAMA": "xxx",
-    "NO_ANG": 0,
-    "DIV": "",
-    "BAG": "",
-    "PERS": "lb"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3842,
@@ -6765,7 +7601,8 @@
     "NO_ANG": 42016073842,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1165,
@@ -6773,7 +7610,8 @@
     "NO_ANG": 11987101165,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "DAAN I",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3070,
@@ -6781,7 +7619,8 @@
     "NO_ANG": 42007013070,
     "DIV": "KEAMANAN PT INTI",
     "BAG": "SATPAM PT. INTI",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1535,
@@ -6789,7 +7628,8 @@
     "NO_ANG": 51992021535,
     "DIV": "KOPERASI INTI",
     "BAG": "KOP. INTI",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2936,
@@ -6797,7 +7637,8 @@
     "NO_ANG": 12005082936,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "TI&KONTEN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3792,
@@ -6805,7 +7646,8 @@
     "NO_ANG": 12016043792,
     "DIV": "LUAR BIASA",
     "BAG": "PROJECT 1",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2708,
@@ -6813,7 +7655,8 @@
     "NO_ANG": 12002042708,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "CME",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3140,
@@ -6821,7 +7664,8 @@
     "NO_ANG": 52007073140,
     "DIV": "LUAR BIASA",
     "BAG": "KOP. INTI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2771,
@@ -6829,7 +7673,8 @@
     "NO_ANG": 42003102771,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 831,
@@ -6837,7 +7682,8 @@
     "NO_ANG": 11985020831,
     "DIV": "SEKRETARIS PERUSAHAAN",
     "BAG": "DANG DIST",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2766,
@@ -6845,7 +7691,8 @@
     "NO_ANG": 42003082766,
     "DIV": "CORPORATE PT IBP",
     "BAG": "CORPORATE",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1609,
@@ -6853,7 +7700,8 @@
     "NO_ANG": 11992091609,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3843,
@@ -6861,7 +7709,8 @@
     "NO_ANG": 42016073843,
     "DIV": "KEAMANAN DAHANA",
     "BAG": "SATPAM",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3757,
@@ -6869,7 +7718,8 @@
     "NO_ANG": 42015123757,
     "DIV": "LUAR BIASA",
     "BAG": "PT. IBP DAHANA",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2729,
@@ -6877,7 +7727,8 @@
     "NO_ANG": 12003032729,
     "DIV": "CORPORATE FINANCE",
     "BAG": "TAN KUG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2761,
@@ -6885,7 +7736,8 @@
     "NO_ANG": 42003072761,
     "DIV": "LUAR BIASA",
     "BAG": "PENDUKUNG",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3643,
@@ -6893,7 +7745,8 @@
     "NO_ANG": 42014023643,
     "DIV": "PENGEMUDI",
     "BAG": "KENDARAAN",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1090,
@@ -6901,7 +7754,8 @@
     "NO_ANG": 11986101090,
     "DIV": "CORPORATE FINANCE",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2884,
@@ -6909,7 +7763,8 @@
     "NO_ANG": 42005012884,
     "DIV": "PT IKE",
     "BAG": "PT IKE",
-    "PERS": "PT. IKE"
+    "PERS": "PT. IKE",
+    "STATUS": 0
   },
   {
     "NO_ID": 3561,
@@ -6917,7 +7772,8 @@
     "NO_ANG": 42013023561,
     "DIV": "PT INTENS",
     "BAG": "OS",
-    "PERS": "INTEN"
+    "PERS": "INTEN",
+    "STATUS": 0
   },
   {
     "NO_ID": 3139,
@@ -6925,7 +7781,8 @@
     "NO_ANG": 42007073139,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 2012,
@@ -6933,7 +7790,8 @@
     "NO_ANG": 11994092012,
     "DIV": "CORPORATE FINANCE",
     "BAG": "TAN KUG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2436,
@@ -6941,7 +7799,8 @@
     "NO_ANG": 11998032436,
     "DIV": "LUAR BIASA",
     "BAG": "RENDAL JUAL",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1002,
@@ -6949,7 +7808,8 @@
     "NO_ANG": 11985121002,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "PRODUKSI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2942,
@@ -6957,7 +7817,8 @@
     "NO_ANG": 12005082942,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2623,
@@ -6965,7 +7826,8 @@
     "NO_ANG": 12000092623,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "KADIV&STAF",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 610,
@@ -6973,7 +7835,8 @@
     "NO_ANG": 11983010610,
     "DIV": "SBU BROADBAND",
     "BAG": "IMPLEMENTASI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3171,
@@ -6981,7 +7844,8 @@
     "NO_ANG": 12007123171,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "KOM SYSINT",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3198,
@@ -6989,7 +7853,8 @@
     "NO_ANG": 12008053198,
     "DIV": "LUAR BIASA",
     "BAG": "TAN MAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3314,
@@ -6997,7 +7862,8 @@
     "NO_ANG": 42009083314,
     "DIV": "CORPORATE PT IBP",
     "BAG": "IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1783,
@@ -7005,7 +7871,8 @@
     "NO_ANG": 11993091783,
     "DIV": "BANGBIS & PRODUK",
     "BAG": "TI&KONTEN",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3899,
@@ -7013,7 +7880,8 @@
     "NO_ANG": 72017113899,
     "DIV": "LB",
     "BAG": "PENSIUNAN",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1195,
@@ -7021,7 +7889,8 @@
     "NO_ANG": 11988011195,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1629,
@@ -7029,7 +7898,8 @@
     "NO_ANG": 41992101629,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 689,
@@ -7037,7 +7907,8 @@
     "NO_ANG": 81983090689,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 2598,
@@ -7045,7 +7916,8 @@
     "NO_ANG": 12000072598,
     "DIV": "CORPORATE SERVICES",
     "BAG": "SIS FO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2600,
@@ -7053,7 +7925,8 @@
     "NO_ANG": 12000072600,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "JAR TAP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1119,
@@ -7061,7 +7934,8 @@
     "NO_ANG": 11986121119,
     "DIV": "SPI",
     "BAG": "DIT KUG",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3569,
@@ -7069,7 +7943,8 @@
     "NO_ANG": 42013033569,
     "DIV": "TATAGRAHA PT INTI",
     "BAG": "IBP",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 3179,
@@ -7077,7 +7952,8 @@
     "NO_ANG": 42008043179,
     "DIV": "CORPORATE PT IBP",
     "BAG": "PT IBP/PENDUKUNG",
-    "PERS": "PT. IBP"
+    "PERS": "PT. IBP",
+    "STATUS": 0
   },
   {
     "NO_ID": 1602,
@@ -7085,7 +7961,8 @@
     "NO_ANG": 11992091602,
     "DIV": "CORPORATE FINANCE",
     "BAG": "KUNG MPO",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3739,
@@ -7093,7 +7970,8 @@
     "NO_ANG": 42015023739,
     "DIV": "PENGEMUDI",
     "BAG": "IBP",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3894,
@@ -7101,7 +7979,8 @@
     "NO_ANG": 12017083894,
     "DIV": "SBU BROADBAND",
     "BAG": "INTI",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3646,
@@ -7109,7 +7988,8 @@
     "NO_ANG": 12014023646,
     "DIV": "SBU BROADBAND",
     "BAG": "SE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 3416,
@@ -7117,7 +7997,8 @@
     "NO_ANG": 42011073417,
     "DIV": "LUAR BIASA",
     "BAG": "PT IBP/OS",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 749,
@@ -7125,7 +8006,8 @@
     "NO_ANG": 71984110749,
     "DIV": "KOPERASI INTI",
     "BAG": "GIH RIMA",
-    "PERS": "KOP.INTI"
+    "PERS": "KOP.INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1930,
@@ -7133,7 +8015,8 @@
     "NO_ANG": 81994051930,
     "DIV": "LUAR BIASA",
     "BAG": "NON AKTIF",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1395,
@@ -7141,7 +8024,8 @@
     "NO_ANG": 11990061395,
     "DIV": "SBU SMART ENERGY",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 1746,
@@ -7149,7 +8033,8 @@
     "NO_ANG": 11993061746,
     "DIV": "SBU BROADBAND",
     "BAG": "KUNG OP",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 807,
@@ -7157,7 +8042,8 @@
     "NO_ANG": 11985020807,
     "DIV": "LUAR BIASA",
     "BAG": "RICE",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 3478,
@@ -7165,7 +8051,8 @@
     "NO_ANG": 12012023478,
     "DIV": "SBU DEFENSE & DIGITAL SERVICE",
     "BAG": "SE",
-    "PERS": "INTI"
+    "PERS": "INTI",
+    "STATUS": 0
   },
   {
     "NO_ID": 2527,
@@ -7173,7 +8060,8 @@
     "NO_ANG": 11999122527,
     "DIV": "LUAR BIASA",
     "BAG": "MAN ASET",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   },
   {
     "NO_ID": 1006,
@@ -7181,6 +8069,7 @@
     "NO_ANG": 51985121006,
     "DIV": "LUAR BIASA",
     "BAG": "KOP. INTI",
-    "PERS": "LB"
+    "PERS": "LB",
+    "STATUS": 0
   }
 ]

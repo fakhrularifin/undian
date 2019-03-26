@@ -44,7 +44,6 @@
             <nav class="tabs">
               <div class="container">
                 <ul id="data-pemenang">
-                  
                 </ul>
               </div>
             </nav>
@@ -80,21 +79,22 @@
                   'dataType': "json",
                   'success': function (data) {
                     json = data;
-                    window.sessionStorage
+                    window.sessionStorage.setItem('anggota_koperasi', JSON.stringify(data));
                   }
                 });
                 return json;
-              })();
-            
-           start.click(function(){
+            })();
+            var objData = JSON.parse(window.sessionStorage.getItem('anggota_koperasi'));
+            // console.log(JSON.parse(window.sessionStorage.getItem('anggota_koperasi'))['2']);
+            start.click(function(){
                 $(this).hide(); 
                 stop.show();
                 detail.hide()
                 timeout = setInterval(function(){
-                    var index = Math.floor(Math.random() * (obj.length-1));
-                    $('#nama_anggota').html(obj[index].NAMA);
-                    $('#detail_anggota').html('No Anggota : '+obj[index].NO_ANG+'<br>'+obj[index].PERS);
-                    $("#nama_anggota").attr("data-value", obj[index].NO_ANG);
+                    var index = Math.floor(Math.random() * (objData.length-1));
+                    $('#nama_anggota').html(objData[index].NAMA);
+                    $('#detail_anggota').html('No Anggota : '+objData[index].NO_ANG+'<br>'+objData[index].PERS);
+                    $("#nama_anggota").attr("data-value", index);
                 }, 50);
 
                 return false;
@@ -106,8 +106,8 @@
                 detail.show();
                 clearInterval(timeout);
                 let ul = $('#data-pemenang');
-                let no_anggota = $("#nama_anggota").attr("data-value");
-                // ul.append("<li>"+no_anggota+"</li>");
+                let id = $("#nama_anggota").attr("data-value");
+                // ul.append("<li><a>"+ objData[id].NAMA+"</a></li>");
                 
                 return false;
             });
