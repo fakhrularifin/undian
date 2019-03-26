@@ -1,1 +1,116 @@
-"Hello World" 
+<!DOCTYPE html>
+<html lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Koperasi Inti</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.css"/>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    </head>
+    <body>
+        <section class="bd-index-fullscreen is-fullheight hero is-light">
+          <div class="hero-head is-info">
+            <nav class="navbar">
+              <div class="container">
+                <div class="navbar-brand">
+                  <a class="navbar-item">
+                    <h1 class="title">Koperasi INTI</h1>
+                  </a>
+                </div>
+              </div>
+            </nav>
+          </div>
+          <div class="hero-body">
+            <div class="container has-text-centered">              
+              <h1 class="title" id="nama_anggota" data-value>
+                Nama Anggota
+              </h1>
+              <h2 class="subtitle" id="detail_anggota" style="display:none">
+                
+              </h2>
+              <div class="block">
+                <a class="button is-info is-medium" id="btnStart">Start</a>
+                <a class="button is-danger is-medium" id="btnStop" style="display:none">Stop</a>
+              </div>
+
+              <h1 class="subtitle">
+                Klik tombol start untuk mulai
+              </h1>
+            </div>
+          </div>
+          <div class="hero-foot">
+            <nav class="tabs">
+              <div class="container">
+                <ul id="data-pemenang">
+                  
+                </ul>
+              </div>
+            </nav>
+          </div>
+        </section>
+
+        <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase.js"></script>
+        <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyAMKJ65--LVDc099GYDjVoReS9IBztTvHM",
+            authDomain: "koperasi-inti.firebaseapp.com",
+            databaseURL: "https://koperasi-inti.firebaseio.com",
+            projectId: "koperasi-inti",
+            storageBucket: "koperasi-inti.appspot.com",
+            messagingSenderId: "139030232270"
+        };
+        firebase.initializeApp(config);
+        </script>
+
+        <script>
+            var timeout;
+            var stop = $('#btnStop');
+            var start = $('#btnStart');
+            var detail = $('#detail_anggota');
+
+            var obj = (function () {
+                var json = null;
+                $.ajax({
+                  'async': false,
+                  'global': false,
+                  'url': "data.json",
+                  'dataType': "json",
+                  'success': function (data) {
+                    json = data;
+                    window.sessionStorage
+                  }
+                });
+                return json;
+              })();
+            
+           start.click(function(){
+                $(this).hide(); 
+                stop.show();
+                detail.hide()
+                timeout = setInterval(function(){
+                    var index = Math.floor(Math.random() * (obj.length-1));
+                    $('#nama_anggota').html(obj[index].NAMA);
+                    $('#detail_anggota').html('No Anggota : '+obj[index].NO_ANG+'<br>'+obj[index].PERS);
+                    $("#nama_anggota").attr("data-value", obj[index].NO_ANG);
+                }, 50);
+
+                return false;
+            });
+
+            stop.click(function(){
+                start.show();
+                stop.hide();
+                detail.show();
+                clearInterval(timeout);
+                let ul = $('#data-pemenang');
+                let no_anggota = $("#nama_anggota").attr("data-value");
+                // ul.append("<li>"+no_anggota+"</li>");
+                
+                return false;
+            });
+        </script>
+    </body>
+</html>

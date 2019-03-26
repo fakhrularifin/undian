@@ -1,0 +1,7186 @@
+[
+  {
+    "NO_ID": 3501,
+    "NAMA": "A. DIMYATI",
+    "NO_ANG": 72012083501,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2107,
+    "NAMA": "A.MUTHALIB,IR",
+    "NO_ANG": 71995062107,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB/INTI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2743,
+    "NAMA": "AA. KOMAR E",
+    "NO_ANG": 12003062743,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "PAJAK & VERIFIKASI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3879,
+    "NAMA": "AAM SANUSI",
+    "NO_ANG": 42017023879,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3318,
+    "NAMA": "AAN SAEPUDIN",
+    "NO_ANG": 12009103318,
+    "DIV": "PRODUKSI",
+    "BAG": "PRODUKSI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1114,
+    "NAMA": "AANG ODANG",
+    "NO_ANG": 11986101114,
+    "DIV": "MPP",
+    "BAG": "MPP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3296,
+    "NAMA": "ABDUL AZIZ, Ir.MT",
+    "NO_ANG": 12009033296,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3749,
+    "NAMA": "ABDULLAH FAQIH",
+    "NO_ANG": 12015063749,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "ENGINEERING DDS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1756,
+    "NAMA": "ABDUROHMAN",
+    "NO_ANG": 11993071756,
+    "DIV": "SBU BROADBAND",
+    "BAG": "SERVICE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3682,
+    "NAMA": "ACE",
+    "NO_ANG": 42014063682,
+    "DIV": "PT WBI",
+    "BAG": "WBI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2512,
+    "NAMA": "ACENG MOCH. JAHRI",
+    "NO_ANG": 11999082512,
+    "DIV": "MPP",
+    "BAG": "MPP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2745,
+    "NAMA": "ACEP",
+    "NO_ANG": 42003062745,
+    "DIV": "PT IKE",
+    "BAG": "PT IKE",
+    "PERS": "PT. IKE"
+  },
+  {
+    "NO_ID": 3794,
+    "NAMA": "ACEP DADAN S.",
+    "NO_ANG": 42016073794,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 775,
+    "NAMA": "ACHMAD NISMAN",
+    "NO_ANG": 11984120775,
+    "DIV": "MPP",
+    "BAG": "MPP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3737,
+    "NAMA": "ACHMAD SUPARNO",
+    "NO_ANG": 42015023737,
+    "DIV": "PENGEMUDI",
+    "BAG": "IBP",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3419,
+    "NAMA": "ADANG JUMARNA",
+    "NO_ANG": 42011073419,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1162,
+    "NAMA": "ADANG PERMANA R.",
+    "NO_ANG": 11987091162,
+    "DIV": "MPP",
+    "BAG": "BANG&NIKIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3795,
+    "NAMA": "ADE OKI",
+    "NO_ANG": 42016073795,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 913,
+    "NAMA": "ADE ZAKARIA M.",
+    "NO_ANG": 11985060913,
+    "DIV": "LUAR BIASA",
+    "BAG": "CLTP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1692,
+    "NAMA": "ADHI SETIAWAN, SH.",
+    "NO_ANG": 11993021692,
+    "DIV": "HCM & QUALITY",
+    "BAG": "HCM &QUALITY",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3654,
+    "NAMA": "ADHI SISWANTO",
+    "NO_ANG": 42014023654,
+    "DIV": "DANA PENSIUN",
+    "BAG": "DAPEN",
+    "PERS": "DP"
+  },
+  {
+    "NO_ID": 1730,
+    "NAMA": "ADHI SUSILO, IR.",
+    "NO_ANG": 81993051730,
+    "DIV": "LUAR BIASA",
+    "BAG": 0,
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 742,
+    "NAMA": "ADHY MULYANTO",
+    "NO_ANG": 11984110742,
+    "DIV": "MPP",
+    "BAG": "TAN UM DAN TAN ASET",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1264,
+    "NAMA": "ADI BUDI SIDIN",
+    "NO_ANG": 11988061264,
+    "DIV": "SPI",
+    "BAG": "RENDAL AUDIT",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1782,
+    "NAMA": "ADIARIS, IR.",
+    "NO_ANG": 11993091782,
+    "DIV": "DIR. BISNIS",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3634,
+    "NAMA": "ADITYA DANISWARA",
+    "NO_ANG": 12014013634,
+    "DIV": "LB",
+    "BAG": "PENDANAAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1843,
+    "NAMA": "ADMINO HADI",
+    "NO_ANG": 41994021843,
+    "DIV": "PT WBI",
+    "BAG": "APOTIK",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3186,
+    "NAMA": "ADRI YANTI RIVAI",
+    "NO_ANG": 12008043186,
+    "DIV": "MPP",
+    "BAG": "MPP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 849,
+    "NAMA": "AEP DADI KARTADARMA",
+    "NO_ANG": 11985030849,
+    "DIV": "MPP",
+    "BAG": "MPP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3566,
+    "NAMA": "AEP SAEPUDIN",
+    "NO_ANG": 42013033566,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3018,
+    "NAMA": "AFRIZAL",
+    "NO_ANG": 12006073018,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "PAJAK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3797,
+    "NAMA": "AGUNG HIDAYAT",
+    "NO_ANG": 42016073797,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1438,
+    "NAMA": "AGUNG MULYADI",
+    "NO_ANG": 11991021438,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PROYEK BROADBAND",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3441,
+    "NAMA": "AGUNG PANJI BAWONO",
+    "NO_ANG": 12011113441,
+    "DIV": "LUAR BIASA",
+    "BAG": "SDM",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1099,
+    "NAMA": "AGUNG SUTRISNO",
+    "NO_ANG": 11986101099,
+    "DIV": "HCM & QUALITY",
+    "BAG": "MPP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3796,
+    "NAMA": "AGUS CASDIMAN",
+    "NO_ANG": 42016073796,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2800,
+    "NAMA": "AGUS DEDI",
+    "NO_ANG": 12004032800,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "PUBLIC RELATION",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2605,
+    "NAMA": "AGUS DEDI H",
+    "NO_ANG": 12000082605,
+    "DIV": "SBU BROADBAND",
+    "BAG": "BANG&NIKIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3143,
+    "NAMA": "AGUS DENI N",
+    "NO_ANG": 62007073143,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT IBP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1141,
+    "NAMA": "AGUS DWIYANTORO",
+    "NO_ANG": 11987041141,
+    "DIV": "PRODUKSI",
+    "BAG": "RENDAL KUAL PRODUKSI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 730,
+    "NAMA": "AGUS FATHUL BARRY",
+    "NO_ANG": 11984110730,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KELOMPOK AHLI ACCOUNT DDS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2457,
+    "NAMA": "AGUS FATUROHMAN",
+    "NO_ANG": 51998102457,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 1266,
+    "NAMA": "AGUS KOSASIH A.K",
+    "NO_ANG": 11988061266,
+    "DIV": "PRODUKSI",
+    "BAG": "RENDAL KUAL PRODUKSI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3355,
+    "NAMA": "AGUS KURNIAWAN",
+    "NO_ANG": 42010063355,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2006,
+    "NAMA": "AGUS MAHMUD YUNUS",
+    "NO_ANG": 11994082006,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "CSR/PKBL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 744,
+    "NAMA": "AGUS MULYADI",
+    "NO_ANG": 11984110744,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PROYEK BROADBAND",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2632,
+    "NAMA": "AGUS MULYADI",
+    "NO_ANG": 12000092632,
+    "DIV": "SBU BROADBAND",
+    "BAG": "ENGINEERING BROADBAND",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 42,
+    "NAMA": "AGUS PURNAMAN",
+    "NO_ANG": 11979020042,
+    "DIV": "LUAR BIASA",
+    "BAG": "MPP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3584,
+    "NAMA": "AGUS RACHMAN",
+    "NO_ANG": 42013053584,
+    "DIV": "PENGEMUDI",
+    "BAG": "IBP",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3892,
+    "NAMA": "AGUS RACHMAT",
+    "NO_ANG": 12017083892,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PROYEK BROADBAND",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2576,
+    "NAMA": "AGUS RAHMAT",
+    "NO_ANG": 12000032576,
+    "DIV": "SBU BROADBAND",
+    "BAG": "ENGINEERING BROADBAND",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2454,
+    "NAMA": "AGUS ROHENDI",
+    "NO_ANG": 41998102454,
+    "DIV": "PENGEMUDI",
+    "BAG": "PENGEMUDI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3463,
+    "NAMA": "AGUS RUSTANDI",
+    "NO_ANG": 42012013463,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3141,
+    "NAMA": "AGUS SANTOSO. IR",
+    "NO_ANG": 12007073141,
+    "DIV": "HCM & QUALITY",
+    "BAG": "HCM & QUALITY",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3798,
+    "NAMA": "AGUS SETIADI",
+    "NO_ANG": 42016073798,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1437,
+    "NAMA": "AGUS SOFYAN",
+    "NO_ANG": 11991021437,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PROYEK BROADBAND",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1153,
+    "NAMA": "AGUS SUBOWO",
+    "NO_ANG": 11987081153,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "HUMAS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2680,
+    "NAMA": "AGUS SUPARDI AS.",
+    "NO_ANG": 12001052680,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PROYEK BROADBAND",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1023,
+    "NAMA": "AGUS SUPRAYOGI",
+    "NO_ANG": 11986011023,
+    "DIV": "LUAR BIASA",
+    "BAG": "PRODUKSI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3389,
+    "NAMA": "AGUS SUPRIGIANTORO",
+    "NO_ANG": 52011033389,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2779,
+    "NAMA": "AGUS SUPRIYANTO",
+    "NO_ANG": 12004012779,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PROYEK BROADBAND",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1198,
+    "NAMA": "AGUS SURYA",
+    "NO_ANG": 11988011198,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PROYEK BROADBAND",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3799,
+    "NAMA": "AGUS SURYONO",
+    "NO_ANG": 42016073799,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3845,
+    "NAMA": "AGUS TRIANA",
+    "NO_ANG": 42016083845,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2626,
+    "NAMA": "AHMAD AJI",
+    "NO_ANG": 12000092626,
+    "DIV": "HCM & QUALITY",
+    "BAG": "HCM & QUALITY",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3716,
+    "NAMA": "AHMAD RIDWAN AL'PARUQ",
+    "NO_ANG": 12014083716,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "ENGINEERING",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2996,
+    "NAMA": "AHMAD SANTOSA",
+    "NO_ANG": 12006042996,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PROYEK BROADBAND",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1772,
+    "NAMA": "AHMAD SULAIMAN A.",
+    "NO_ANG": 11993081772,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "PENGADAAN DDS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2136,
+    "NAMA": "AHMAD SURYANA",
+    "NO_ANG": 51995092136,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 1327,
+    "NAMA": "AIF SAEFUDIN O.S",
+    "NO_ANG": 11989041327,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PROYEK BROADBAND",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2920,
+    "NAMA": "AIH PASA JUANDI",
+    "NO_ANG": 42005062920,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "TATA GRAHA / OB",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2453,
+    "NAMA": "AIM SUKANDI",
+    "NO_ANG": 41998102453,
+    "DIV": "PENGEMUDI",
+    "BAG": "PT IBP/DRIVER",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 911,
+    "NAMA": "AIM SUPENDI",
+    "NO_ANG": 11985060911,
+    "DIV": "LUAR BIASA",
+    "BAG": "UMUM DAN PROPERTY",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3461,
+    "NAMA": "AIRLANGGA GAUTAMA",
+    "NO_ANG": 42012013461,
+    "DIV": "LUAR BIASA",
+    "BAG": "HUKUM",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2392,
+    "NAMA": "AJI PRASOJO R, B.Eng",
+    "NO_ANG": 11997062392,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "SBU DEFENSE & DIGITAL SERVICE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2011,
+    "NAMA": "AKMAL",
+    "NO_ANG": 11994082011,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "PRODUK MANAGEMEN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3385,
+    "NAMA": "ALFIE HENDRAYANA",
+    "NO_ANG": 12011033385,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "COMMERCIAL SMART ENERGY",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2810,
+    "NAMA": "ALIS SUPRIATI",
+    "NO_ANG": 42004042810,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2480,
+    "NAMA": "ALIT RODIANA",
+    "NO_ANG": 51999062480,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 673,
+    "NAMA": "AMMAN WAWAN",
+    "NO_ANG": 11983070673,
+    "DIV": "LUAR BIASA",
+    "BAG": "DANG DIST",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3657,
+    "NAMA": "ANA RAHMA YUNIARTI",
+    "NO_ANG": 12014033657,
+    "DIV": "LUAR BIASA",
+    "BAG": "SE",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3494,
+    "NAMA": "ANDHI NUGROHO",
+    "NO_ANG": 12012073494,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "DEPUTI SBU DEFENSE & DDS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1606,
+    "NAMA": "ANDIK EKO K.",
+    "NO_ANG": 11992091606,
+    "DIV": "HCM & QUALITY",
+    "BAG": "MPP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3658,
+    "NAMA": "ANDINA WIDIALUKITA",
+    "NO_ANG": 12014033658,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "HCM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3800,
+    "NAMA": "ANDRES ATMAJAYA",
+    "NO_ANG": 42016073800,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3848,
+    "NAMA": "ANDRI SUDARYADI",
+    "NO_ANG": 42016103848,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3766,
+    "NAMA": "ANDRI SUNENDAR",
+    "NO_ANG": 42015123766,
+    "DIV": "TATAGRAHA DAHANA",
+    "BAG": "PT. IBP DAHANA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2940,
+    "NAMA": "ANDRIYANTO,ST",
+    "NO_ANG": 12005082940,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PROD KUNG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1173,
+    "NAMA": "ANDRIYATI",
+    "NO_ANG": 11987111173,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 991,
+    "NAMA": "ANGGA HIDAYAT",
+    "NO_ANG": 11985110991,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "PKBL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3676,
+    "NAMA": "ANGIH WANABAKTI P",
+    "NO_ANG": 12014053676,
+    "DIV": "SBU BROADBAND",
+    "BAG": "RENDAL TITO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3433,
+    "NAMA": "ANI HANIPAH",
+    "NO_ANG": 12011093433,
+    "DIV": "LUAR BIASA",
+    "BAG": "PAJAK",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3144,
+    "NAMA": "ANI OKTAVIANI",
+    "NO_ANG": 52007073144,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 912,
+    "NAMA": "ANI SETYANINGSIH",
+    "NO_ANG": 11985060912,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "RO DIR",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1335,
+    "NAMA": "ANI WIDAYANI",
+    "NO_ANG": 11989041335,
+    "DIV": "LUAR BIASA",
+    "BAG": "G.TOR LAIN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3136,
+    "NAMA": "ANNA ROHAENA",
+    "NO_ANG": 52007073136,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 2144,
+    "NAMA": "ANNI NURWINA R",
+    "NO_ANG": 41995102144,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3874,
+    "NAMA": "ANNISA LUTHFYANTI",
+    "NO_ANG": 42017013874,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3889,
+    "NAMA": "ANTON HEYDIAN",
+    "NO_ANG": 52017063889,
+    "DIV": "OS",
+    "BAG": "ADM POOL",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3600,
+    "NAMA": "ANTON PRATAMA",
+    "NO_ANG": 12013093600,
+    "DIV": "SBU BROADBAND",
+    "BAG": "RENDAL TITO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3921,
+    "NAMA": "ANUGRAH JUNDAWIJAYA",
+    "NO_ANG": 12018103921,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "SMART ENERGY",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2353,
+    "NAMA": "ANZAR AGUSTIAN",
+    "NO_ANG": 11997022353,
+    "DIV": "SBU BROADBAND",
+    "BAG": "MAN. SERVICE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3918,
+    "NAMA": "APRILIENE SIDABUTAR",
+    "NO_ANG": 12018083918,
+    "DIV": "PRODUKSI",
+    "BAG": "PRODUKSI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3191,
+    "NAMA": "ARI ANDRIANSYAH",
+    "NO_ANG": 42008053191,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "UMUM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3457,
+    "NAMA": "ARI NURTJAHYA WS",
+    "NO_ANG": 12011123457,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2641,
+    "NAMA": "ARI SUMARYANTO",
+    "NO_ANG": 12000102641,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "SISTAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3602,
+    "NAMA": "ARI TARUNA R",
+    "NO_ANG": 12013093602,
+    "DIV": "SBU BROADBAND",
+    "BAG": "REG 1",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1020,
+    "NAMA": "ARI WIDJONARKO, IR.MT.",
+    "NO_ANG": 11986011020,
+    "DIV": "LUAR BIASA",
+    "BAG": "INFRAS TEK",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3484,
+    "NAMA": "ARIEF MULYAWAN",
+    "NO_ANG": 52012033484,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "TRAVEL",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1259,
+    "NAMA": "ARIEF PRASETYO D.",
+    "NO_ANG": 11988061259,
+    "DIV": "SBU BROADBAND",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3282,
+    "NAMA": "ARIEF RACHMADI",
+    "NO_ANG": 62008123282,
+    "DIV": "LUAR BIASA",
+    "BAG": "JIT",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3037,
+    "NAMA": "ARIEF RACHMAN",
+    "NO_ANG": 62006093037,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3644,
+    "NAMA": "ARIF HIDAYAT S",
+    "NO_ANG": 42014023644,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "OB",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3846,
+    "NAMA": "ARIF JAMHARI",
+    "NO_ANG": 42016083846,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2197,
+    "NAMA": "ARIF SUKOCO",
+    "NO_ANG": 81996032197,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3443,
+    "NAMA": "ARINDA PRATIWI",
+    "NO_ANG": 12011113443,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "SDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3677,
+    "NAMA": "ARRESTY THERESIA ANGELIA",
+    "NO_ANG": 12014053677,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "TITO REG 2",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3533,
+    "NAMA": "ARYO DANURWENDO",
+    "NO_ANG": 12012123533,
+    "DIV": "SBU BROADBAND",
+    "BAG": "TITO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2071,
+    "NAMA": "ASEP AMINUDIN",
+    "NO_ANG": 11995032071,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "KUNG PROD",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1206,
+    "NAMA": "ASEP ARIFIN",
+    "NO_ANG": 11988021206,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2794,
+    "NAMA": "ASEP BENI",
+    "NO_ANG": 42004032794,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1946,
+    "NAMA": "ASEP DEDI KUSNADI",
+    "NO_ANG": 11994051946,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PROD KUNG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1113,
+    "NAMA": "ASEP GUNAWAN",
+    "NO_ANG": 11986101113,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1221,
+    "NAMA": "ASEP HANSIPUDIN",
+    "NO_ANG": 11988031221,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3304,
+    "NAMA": "ASEP HERDIAWAN",
+    "NO_ANG": 42009063304,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1668,
+    "NAMA": "ASEP IWAN SUHENDAR",
+    "NO_ANG": 11992111668,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "MANA SERV",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 969,
+    "NAMA": "ASEP JOHNI",
+    "NO_ANG": 81985100969,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2663,
+    "NAMA": "ASEP KUSMANA W.",
+    "NO_ANG": 12001022663,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "TAN MAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1043,
+    "NAMA": "ASEP MULYANA",
+    "NO_ANG": 11986051043,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "REN DAN IMP PROY 1",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 632,
+    "NAMA": "ASEP SAMSURI",
+    "NO_ANG": 11983020632,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "REN DAN IMP PROY 1",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3271,
+    "NAMA": "ASEP SUDRAJAT",
+    "NO_ANG": 42008093271,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 776,
+    "NAMA": "ASEP SUKMANA",
+    "NO_ANG": 11984120776,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "DAAN 3",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3514,
+    "NAMA": "ASEP SUPRIATNA",
+    "NO_ANG": 52012093514,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "UMUM&RT",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3379,
+    "NAMA": "ASEP SUTENDAR",
+    "NO_ANG": 42011033379,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3129,
+    "NAMA": "ASEP WAHYUDI",
+    "NO_ANG": 62007063129,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3370,
+    "NAMA": "ASEP WAWAN BASYARI",
+    "NO_ANG": 42010123370,
+    "DIV": "LUAR BIASA",
+    "BAG": "OUTSOURCING",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2676,
+    "NAMA": "ASEP WAWAN K.",
+    "NO_ANG": 12001042676,
+    "DIV": "SBU BROADBAND",
+    "BAG": "SISTAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3045,
+    "NAMA": "ASEP ZAKARIA",
+    "NO_ANG": 42006113045,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2597,
+    "NAMA": "ASTI ASWARAWATI",
+    "NO_ANG": 12000072597,
+    "DIV": "SBU BROADBAND",
+    "BAG": "MAN CHAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3649,
+    "NAMA": "ASTIRA APRILIA",
+    "NO_ANG": 12014023649,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "HCM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2477,
+    "NAMA": "ATEP KUSMAYADI HAMIM",
+    "NO_ANG": 11999052477,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1200,
+    "NAMA": "ATIK SARTIKA E.",
+    "NO_ANG": 11988011200,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3802,
+    "NAMA": "ATIN JB HERDIAN",
+    "NO_ANG": 42016073802,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1721,
+    "NAMA": "AYI DADI CIPTA GANDA",
+    "NO_ANG": 11993041721,
+    "DIV": "SPI",
+    "BAG": "KOM HAR",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3331,
+    "NAMA": "AYI SURYANA",
+    "NO_ANG": 42010023331,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 666,
+    "NAMA": "AZIS NUGROHO, IR.",
+    "NO_ANG": 71983060666,
+    "DIV": "LUAR BIASA",
+    "BAG": "SDM",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 925,
+    "NAMA": "AZWIRMAN FIRMANSYAH",
+    "NO_ANG": 11985070925,
+    "DIV": "LUAR BIASA",
+    "BAG": "JAR TAP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1019,
+    "NAMA": "BAHRUN, IR.",
+    "NO_ANG": 11986011019,
+    "DIV": "LUAR BIASA",
+    "BAG": "DIREKSI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 211,
+    "NAMA": "BAMBANG A. PRAMUDA",
+    "NO_ANG": 11979020211,
+    "DIV": "LUAR BIASA",
+    "BAG": "DIT OP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3804,
+    "NAMA": "BAMBANG ENDANG N.",
+    "NO_ANG": 42016073804,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3082,
+    "NAMA": "BAMBANG GUNAWAN",
+    "NO_ANG": 62006013082,
+    "DIV": "LUAR BIASA",
+    "BAG": "SPARELOG",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3748,
+    "NAMA": "BEBEN MOCHAMAD AKBAR PERKASA",
+    "NO_ANG": 12015063748,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3550,
+    "NAMA": "BENEDIKTUS EKA S",
+    "NO_ANG": 12013013550,
+    "DIV": "SBU BROADBAND",
+    "BAG": "TITO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2593,
+    "NAMA": "BETTY ROSMIATI",
+    "NO_ANG": 52000052593,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "KOP. INTI",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2915,
+    "NAMA": "BIGI BARNAS",
+    "NO_ANG": 72005052915,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3612,
+    "NAMA": "BOBON RUSDIANSYAH",
+    "NO_ANG": 42013113612,
+    "DIV": "LUAR BIASA",
+    "BAG": "IBP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3453,
+    "NAMA": "BONTANG PRASOJO",
+    "NO_ANG": 12011123453,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "SE. TELCO SOLUTION",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3459,
+    "NAMA": "BROTO ENDIANTO",
+    "NO_ANG": 12011123459,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2734,
+    "NAMA": "BUDHI SUDARMINTO",
+    "NO_ANG": 72003032734,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB/INTI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2551,
+    "NAMA": "BUDI DARMAWAN",
+    "NO_ANG": 12000022551,
+    "DIV": "SBU BROADBAND",
+    "BAG": "JAR TAP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 452,
+    "NAMA": "BUDI HANTORO, IR.",
+    "NO_ANG": 11981010452,
+    "DIV": "LUAR BIASA",
+    "BAG": "MPP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1748,
+    "NAMA": "BUDI RAHARDJA",
+    "NO_ANG": 11993061748,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "GAR&LAP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3273,
+    "NAMA": "BUDIANTO DARMAWAN",
+    "NO_ANG": 42008093273,
+    "DIV": "LUAR BIASA",
+    "BAG": "PEMASARAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3123,
+    "NAMA": "BUDIARTI",
+    "NO_ANG": 12007053123,
+    "DIV": "",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1805,
+    "NAMA": "BUDIARTO, DRS.",
+    "NO_ANG": 11993111805,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KADIV&STAF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2563,
+    "NAMA": "BULDANSYAH",
+    "NO_ANG": 12000022563,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2677,
+    "NAMA": "BURMAN ABADI, IR.MBA.",
+    "NO_ANG": 12001042677,
+    "DIV": "LUAR BIASA",
+    "BAG": "KADIV&STAF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3137,
+    "NAMA": "CAHYA EMEN",
+    "NO_ANG": 42007073137,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1199,
+    "NAMA": "CAHYADI",
+    "NO_ANG": 81988011199,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3429,
+    "NAMA": "CAHYONO",
+    "NO_ANG": 42011093429,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3805,
+    "NAMA": "CASMITA",
+    "NO_ANG": 42016073805,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1909,
+    "NAMA": "CECEP JAMALUDIN",
+    "NO_ANG": 11994041909,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "PROD KUNG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2703,
+    "NAMA": "CECEP SUPRIATNA",
+    "NO_ANG": 12002032703,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3071,
+    "NAMA": "CEP TILA SUNTARA",
+    "NO_ANG": 62006013071,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3444,
+    "NAMA": "CHANDRA JUNIANDO L",
+    "NO_ANG": 12011123444,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "SDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1387,
+    "NAMA": "CHANDRA SUSANTO S.",
+    "NO_ANG": 11990031387,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3914,
+    "NAMA": "CSYNTYA MEILANY PUTRI",
+    "NO_ANG": 120183914,
+    "DIV": "SBU DDS",
+    "BAG": "DDS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1096,
+    "NAMA": "CUCU JUANDA",
+    "NO_ANG": 11986101096,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2746,
+    "NAMA": "CUCU ROHAYAT",
+    "NO_ANG": 42003062746,
+    "DIV": "PT MBIP",
+    "BAG": "PT MBIP",
+    "PERS": "PT. MBIP"
+  },
+  {
+    "NO_ID": 2478,
+    "NAMA": "CUCU WACHYUDINATA",
+    "NO_ANG": 11999052478,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "BANG&NIKIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1367,
+    "NAMA": "DACHYAT IYO S",
+    "NO_ANG": 81989091367,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1579,
+    "NAMA": "DADAH JUBAEDAH",
+    "NO_ANG": 11992071579,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "RENDAL JUAL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2049,
+    "NAMA": "DADAN  SUHANDI",
+    "NO_ANG": 51994122049,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3189,
+    "NAMA": "DADAN HAMDAN",
+    "NO_ANG": 42008043189,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3806,
+    "NAMA": "DADAN HERMANSYAH",
+    "NO_ANG": 42016073806,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1272,
+    "NAMA": "DADAN HIDAYAT",
+    "NO_ANG": 11988071272,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 735,
+    "NAMA": "DADAN SUBARDAN",
+    "NO_ANG": 11984110735,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "DANG DIST",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2437,
+    "NAMA": "DADANG ACHMAD HAEDAR, ST.",
+    "NO_ANG": 11998042437,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "DAAN I",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2323,
+    "NAMA": "DADANG EDI P, IR.",
+    "NO_ANG": 11996112323,
+    "DIV": "LUAR BIASA",
+    "BAG": "KADIV&STAF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3736,
+    "NAMA": "DADANG GUNAWAN",
+    "NO_ANG": 42015023736,
+    "DIV": "PENGEMUDI",
+    "BAG": "PT. IBP",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 1574,
+    "NAMA": "DADANG HIDAYAT",
+    "NO_ANG": 11992061574,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3699,
+    "NAMA": "DADANG JAMALUDIN",
+    "NO_ANG": 42014073699,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "SEKPER",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1146,
+    "NAMA": "DADANG JUNAEDI",
+    "NO_ANG": 11987051146,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "BANG&NIKIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1907,
+    "NAMA": "DADANG MUKTI",
+    "NO_ANG": 11994041907,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "RENDALPRO1",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2572,
+    "NAMA": "DADANG MULYANA",
+    "NO_ANG": 12000022572,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "PROD KUNG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2719,
+    "NAMA": "DADANG RUKHIYATNA",
+    "NO_ANG": 12002092719,
+    "DIV": "SBU BROADBAND",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3374,
+    "NAMA": "DADANG TRESNAWAN",
+    "NO_ANG": 12011013374,
+    "DIV": "SBU BROADBAND",
+    "BAG": "ADM DAN KUNG PROY",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3509,
+    "NAMA": "DAHLAN",
+    "NO_ANG": 72012093509,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2925,
+    "NAMA": "DAHYA SAHDI",
+    "NO_ANG": 12005062925,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "GAR&LAP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2798,
+    "NAMA": "DANA RUHIATNA",
+    "NO_ANG": 42004032798,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 643,
+    "NAMA": "DANA SUTISNA RO`I",
+    "NO_ANG": 11983030643,
+    "DIV": "LUAR BIASA",
+    "BAG": "DANG DIST",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1336,
+    "NAMA": "DANI MARDANI",
+    "NO_ANG": 81989041336,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3873,
+    "NAMA": "DANI PRASETYA",
+    "NO_ANG": 12017013873,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2742,
+    "NAMA": "DANI RIDWAN",
+    "NO_ANG": 12003052742,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KUNG MPO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3590,
+    "NAMA": "DANU SENGGONO",
+    "NO_ANG": 42013063590,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3280,
+    "NAMA": "DARMA NUGRAHA",
+    "NO_ANG": 12008113280,
+    "DIV": "SBU BROADBAND",
+    "BAG": "JAR TAP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3902,
+    "NAMA": "DARMAN MAPPANGARA",
+    "NO_ANG": 12018023902,
+    "DIV": "DIRUT",
+    "BAG": "DIRUT",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1474,
+    "NAMA": "DARYA ONENG",
+    "NO_ANG": 11991071474,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "YAN&REMUN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2741,
+    "NAMA": "DAULAT",
+    "NO_ANG": 72003042741,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB/INTI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1068,
+    "NAMA": "DAYAT S",
+    "NO_ANG": 81986071068,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1354,
+    "NAMA": "DEDDY SUHENDAR K.",
+    "NO_ANG": 11989071354,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2929,
+    "NAMA": "DEDE JUNAEDI",
+    "NO_ANG": 42005072929,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2699,
+    "NAMA": "DEDE KUSWAN",
+    "NO_ANG": 42001112699,
+    "DIV": "DANA PENSIUN",
+    "BAG": "DANA PENSIUN\\",
+    "PERS": "DP"
+  },
+  {
+    "NO_ID": 3188,
+    "NAMA": "DEDE RUKMANA S",
+    "NO_ANG": 12008043188,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2595,
+    "NAMA": "DEDE SUDARMA",
+    "NO_ANG": 12000072595,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3574,
+    "NAMA": "DEDEN GALIH R",
+    "NO_ANG": 52013033574,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOPERASI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3908,
+    "NAMA": "DEDI HARYADI",
+    "NO_ANG": 42018053908,
+    "DIV": "ADJUG",
+    "BAG": "KEUANGAN",
+    "PERS": "PT. MBIP"
+  },
+  {
+    "NO_ID": 3680,
+    "NAMA": "DEDI PRIATNA",
+    "NO_ANG": 42014053680,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "OS",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3039,
+    "NAMA": "DEDI S. JAKARIA",
+    "NO_ANG": 12006093039,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1192,
+    "NAMA": "DEDI SUHENDI",
+    "NO_ANG": 11988011192,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2469,
+    "NAMA": "DEDI SUPRIADI S.",
+    "NO_ANG": 81999012469,
+    "DIV": "LUAR BIASA",
+    "BAG": 0,
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2039,
+    "NAMA": "DEDI SUPRIADI W.",
+    "NO_ANG": 11994102039,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "BANGSISTEK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1764,
+    "NAMA": "DEDI SUPRIYADI R.",
+    "NO_ANG": 11993081764,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3807,
+    "NAMA": "DEDIH",
+    "NO_ANG": 42016073807,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1895,
+    "NAMA": "DENI JATNIKA",
+    "NO_ANG": 11994041895,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3808,
+    "NAMA": "DENI SONJAYA",
+    "NO_ANG": 42016073808,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3701,
+    "NAMA": "DENI YULIUS KURNIA",
+    "NO_ANG": 42014073701,
+    "DIV": "LUAR BIASA",
+    "BAG": "SM3",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3559,
+    "NAMA": "DENNIS SIPAYUNG",
+    "NO_ANG": 12013023559,
+    "DIV": "LUAR BIASA",
+    "BAG": "ACC TELCO",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3809,
+    "NAMA": "DERITA BUDHI P.",
+    "NO_ANG": 42016073809,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3277,
+    "NAMA": "DESI DIANA SARI",
+    "NO_ANG": 72008103277,
+    "DIV": "LUAR BIASA",
+    "BAG": "PERDAGANGAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3469,
+    "NAMA": "DESI KANIAWATI RIZQI",
+    "NO_ANG": 12012023469,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "BAG.AKUNTANSI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1902,
+    "NAMA": "DESIADELIANA S.",
+    "NO_ANG": 11994041902,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "GIH RIMA",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2078,
+    "NAMA": "DHANI PURWITO",
+    "NO_ANG": 11995042078,
+    "DIV": "SPI",
+    "BAG": "DIT OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 985,
+    "NAMA": "DHANY SUTRISNA",
+    "NO_ANG": 11985110985,
+    "DIV": "SBU BROADBAND",
+    "BAG": "IMPLEMENTASI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3292,
+    "NAMA": "DHARMA HARIANDA",
+    "NO_ANG": 12009013292,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "JAR SEL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3465,
+    "NAMA": "DHONI GUMILAR D",
+    "NO_ANG": 12012013465,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "OP CELCO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3735,
+    "NAMA": "DIAH NUR KUSUMAWARDHANI",
+    "NO_ANG": 12015013735,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1055,
+    "NAMA": "DIAN MARFINI",
+    "NO_ANG": 11986061055,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "G. TELKOM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2097,
+    "NAMA": "DIAN NURHAYATI",
+    "NO_ANG": 41995062097,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1667,
+    "NAMA": "DIANA HANDARUNI",
+    "NO_ANG": 11992111667,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KOMSYSINT",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 996,
+    "NAMA": "DIDI",
+    "NO_ANG": 81985120996,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 411,
+    "NAMA": "DIDI HERYADI S.",
+    "NO_ANG": 11980100411,
+    "DIV": "LUAR BIASA",
+    "BAG": "PKBL",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1307,
+    "NAMA": "DIDI RASDI",
+    "NO_ANG": 51989021307,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 1459,
+    "NAMA": "DIDIK PEBRIANTO SH.",
+    "NO_ANG": 11991051459,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3439,
+    "NAMA": "DIDIK WIDIYANTO",
+    "NO_ANG": 42011113439,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2613,
+    "NAMA": "DIDIN KHOERUDIN",
+    "NO_ANG": 12000092613,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1796,
+    "NAMA": "DIDIN ROSYIDIN",
+    "NO_ANG": 11993101796,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3810,
+    "NAMA": "DIDIN WAHYUDIN",
+    "NO_ANG": 42016073810,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3183,
+    "NAMA": "DIDIN WARDINI",
+    "NO_ANG": 42008043183,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1129,
+    "NAMA": "DIKIN",
+    "NO_ANG": 81987021129,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2938,
+    "NAMA": "DINDIN SOMANTRI",
+    "NO_ANG": 42005082938,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3687,
+    "NAMA": "DINI NUR RAMADHANIARTI",
+    "NO_ANG": 42014063687,
+    "DIV": "LUAR BIASA",
+    "BAG": "FRONT OFICE",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3534,
+    "NAMA": "DINNY NUR PRATIWI",
+    "NO_ANG": 12012123534,
+    "DIV": "SBU BROADBAND",
+    "BAG": "HUKUM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 908,
+    "NAMA": "DJAJA SUMANTRI",
+    "NO_ANG": 11985060908,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "DAAN 2",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 688,
+    "NAMA": "DJOKO SUPRABOWO, IR.",
+    "NO_ANG": 11983090688,
+    "DIV": "LUAR BIASA",
+    "BAG": "MPP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2710,
+    "NAMA": "DJUHARTONO",
+    "NO_ANG": 12002072710,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "JAR SEL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 999,
+    "NAMA": "DODI DRADJAT, DRS.MM",
+    "NO_ANG": 11985120999,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "MANA PERFORM",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3360,
+    "NAMA": "DODI JOKOMONO",
+    "NO_ANG": 12010073360,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "PENDUKUNG TEKNIK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3316,
+    "NAMA": "DODI SUANDI",
+    "NO_ANG": 72009093316,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB/KOP. INTI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3811,
+    "NAMA": "DODY WIDIARTO",
+    "NO_ANG": 42016073811,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3648,
+    "NAMA": "DONI DAROY",
+    "NO_ANG": 12014023648,
+    "DIV": "LUAR BIASA",
+    "BAG": "HCM",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3896,
+    "NAMA": "DOYO GOGO PRAYOGO",
+    "NO_ANG": 42017093896,
+    "DIV": "OS",
+    "BAG": "OS",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3671,
+    "NAMA": "DRG. RINI LESMANAWAT",
+    "NO_ANG": 42014043671,
+    "DIV": "PT WBI",
+    "BAG": "WBI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3812,
+    "NAMA": "DUDI HERU SUTOMO",
+    "NO_ANG": 42016073812,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3364,
+    "NAMA": "DUDI SUWANDI",
+    "NO_ANG": 42010083364,
+    "DIV": "LUAR BIASA",
+    "BAG": "CME",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1101,
+    "NAMA": "DUDU BADRUZAMAN",
+    "NO_ANG": 11986101101,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 992,
+    "NAMA": "DUDUNG SAPUTRA UDI",
+    "NO_ANG": 11985110992,
+    "DIV": "SBU BROADBAND",
+    "BAG": "REN DAN IMP PROY 1",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 361,
+    "NAMA": "DULS HARRYZOND H.",
+    "NO_ANG": 11980090361,
+    "DIV": "LUAR BIASA",
+    "BAG": "KUNG BANG",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1156,
+    "NAMA": "DUMEK HARI SOERIPTO",
+    "NO_ANG": 11987081156,
+    "DIV": "LUAR BIASA",
+    "BAG": "KADIV&STAF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1478,
+    "NAMA": "DWI AKTO WIDIYONO",
+    "NO_ANG": 11991081478,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3299,
+    "NAMA": "DWI WAHJOE WIDODO",
+    "NO_ANG": 12009043299,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1050,
+    "NAMA": "DZITU SOFWAN",
+    "NO_ANG": 11986051050,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "UMUM DAN PROPERTY",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3424,
+    "NAMA": "E.SULISTYANINGSIH",
+    "NO_ANG": 72011083424,
+    "DIV": "LUAR BIASA",
+    "BAG": "LUAR BIASA",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3309,
+    "NAMA": "EDI JUNAEDI PERMANA",
+    "NO_ANG": 52009083309,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3813,
+    "NAMA": "EDI SUDRAJAT",
+    "NO_ANG": 42016073813,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3575,
+    "NAMA": "EDI SUGANDHI",
+    "NO_ANG": 42013043575,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 754,
+    "NAMA": "EDWIS YUNUS",
+    "NO_ANG": 71984120754,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3361,
+    "NAMA": "EDY SUSANTO S",
+    "NO_ANG": 12010073361,
+    "DIV": "LUAR BIASA",
+    "BAG": "CME",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 69,
+    "NAMA": "EFFENDI RUSTAM",
+    "NO_ANG": 81979020069,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 629,
+    "NAMA": "EGGY JULIANDA, IR",
+    "NO_ANG": 11983020629,
+    "DIV": "LUAR BIASA",
+    "BAG": "KADIV&STAF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3724,
+    "NAMA": "EKA PUTRA A",
+    "NO_ANG": 42014113724,
+    "DIV": "PT INTENS",
+    "BAG": "INTEN",
+    "PERS": "INTEN"
+  },
+  {
+    "NO_ID": 3130,
+    "NAMA": "EKA SASTRALAYA",
+    "NO_ANG": 72007063130,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1130,
+    "NAMA": "EKO SUPRIYATNO",
+    "NO_ANG": 81987021130,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1945,
+    "NAMA": "ELA NURLAELA",
+    "NO_ANG": 11994051945,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "G.TOR LAIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2785,
+    "NAMA": "ELAN PRIATNA",
+    "NO_ANG": 42004032785,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3339,
+    "NAMA": "ELFI MALANO",
+    "NO_ANG": 12010023339,
+    "DIV": "LUAR BIASA",
+    "BAG": "STAFF AHLI UTAMA",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3661,
+    "NAMA": "ELLEN HUTABARAT",
+    "NO_ANG": 12014033661,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "HCM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1717,
+    "NAMA": "ELLY DARSIAH",
+    "NO_ANG": 11993041717,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "RO DIR",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2772,
+    "NAMA": "ELLY NUGRAHAWATI",
+    "NO_ANG": 42003102772,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3448,
+    "NAMA": "ELSA SURAYA",
+    "NO_ANG": 12011123448,
+    "DIV": "SBU BROADBAND",
+    "BAG": "MSDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1094,
+    "NAMA": "ELVI SUWARDANI",
+    "NO_ANG": 11986101094,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "RENDAL JUAL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3305,
+    "NAMA": "ELVIRA MIRANDA",
+    "NO_ANG": 72009073305,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3585,
+    "NAMA": "ELY SETIASIH",
+    "NO_ANG": 72013063585,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2589,
+    "NAMA": "EMMA SUKANDAR",
+    "NO_ANG": 12000052589,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "UMUM & PROPERTY",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3148,
+    "NAMA": "ENANG AMAN",
+    "NO_ANG": 42007083148,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "TATA GRAHA / OB",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2357,
+    "NAMA": "ENDAH KARTIKA RAHAYU",
+    "NO_ANG": 51997032357,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 1000,
+    "NAMA": "ENDANG AJAT",
+    "NO_ANG": 11985121000,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "REN DAN IMP PROY 2",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1042,
+    "NAMA": "ENDANG MULYANA",
+    "NO_ANG": 81986051042,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2529,
+    "NAMA": "ENDANG SAVITRI DEWI",
+    "NO_ANG": 11999122529,
+    "DIV": "SBU BROADBAND",
+    "BAG": "RICE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3923,
+    "NAMA": "ENDANG SUHERMAN",
+    "NO_ANG": 42018103923,
+    "DIV": "UMUM",
+    "BAG": "DRIVER",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 695,
+    "NAMA": "ENDANG SUNARDI",
+    "NO_ANG": 11983100695,
+    "DIV": "LUAR BIASA",
+    "BAG": "IMPLEMENTASI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3911,
+    "NAMA": "ENDANG YULIAWATY",
+    "NO_ANG": 12018073911,
+    "DIV": "SEKPER",
+    "BAG": "KADIP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3030,
+    "NAMA": "ENDRI",
+    "NO_ANG": 12006083030,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "KUNG PROD",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1873,
+    "NAMA": "ENGKOS AMAN",
+    "NO_ANG": 11994031873,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG&PURJU",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2852,
+    "NAMA": "ENGKOS KOSASIH",
+    "NO_ANG": 42004102852,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2688,
+    "NAMA": "ENGKUS KUSNADI DIDI",
+    "NO_ANG": 12001082688,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3520,
+    "NAMA": "ENI ROCHAENI",
+    "NO_ANG": 72012093520,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2555,
+    "NAMA": "ENNY SULISTIANI, IR.",
+    "NO_ANG": 12000022555,
+    "DIV": "LUAR BIASA",
+    "BAG": "DIKLAT",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1825,
+    "NAMA": "ENTIN DEWI HARTINI",
+    "NO_ANG": 11994011825,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "HUKUM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1299,
+    "NAMA": "ENTIS R. DJUHARA",
+    "NO_ANG": 11989011299,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "TEST&COM",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3326,
+    "NAMA": "ENUNG RUKMINI",
+    "NO_ANG": 52009123326,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3673,
+    "NAMA": "ENY RUDI N",
+    "NO_ANG": 42014043673,
+    "DIV": "PT WBI",
+    "BAG": "WBI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3666,
+    "NAMA": "ERFAN ELFARIZA PRAMADYA",
+    "NO_ANG": 12014043666,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3604,
+    "NAMA": "ERI HERMAWAN",
+    "NO_ANG": 12013093604,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "PRIVATE ENTERPRISES",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3482,
+    "NAMA": "ERIK ARFIANSYAH",
+    "NO_ANG": 12012033482,
+    "DIV": "SPI",
+    "BAG": "SPI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3074,
+    "NAMA": "ERLAN SUHERLAN",
+    "NO_ANG": 42007013074,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3264,
+    "NAMA": "EROS ROSMIATI",
+    "NO_ANG": 42008083264,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3406,
+    "NAMA": "ERWIN FARDIANSYAH",
+    "NO_ANG": 52011053406,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3814,
+    "NAMA": "ERYCK RIYADI",
+    "NO_ANG": 42016073814,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 296,
+    "NAMA": "EUIS ERNI SURYANI",
+    "NO_ANG": 11979020296,
+    "DIV": "LUAR BIASA",
+    "BAG": "RENDAL LOG",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3636,
+    "NAMA": "EUIS ROHAYAWATI",
+    "NO_ANG": 42014013636,
+    "DIV": "PT IPMS",
+    "BAG": "IPMS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2531,
+    "NAMA": "EUIS YULIA",
+    "NO_ANG": 12000012531,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3522,
+    "NAMA": "EVA PATIMAH",
+    "NO_ANG": 42012103522,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT. IBP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3142,
+    "NAMA": "EVAN AVANDI",
+    "NO_ANG": 62007073142,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1868,
+    "NAMA": "EWALDUS BENEDICTUS",
+    "NO_ANG": 11994031868,
+    "DIV": "LUAR BIASA",
+    "BAG": "KADIV&STAF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3325,
+    "NAMA": "EZRA ANUGERAH L",
+    "NO_ANG": 12009123325,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "HUKUM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 647,
+    "NAMA": "F.X SURATMAN",
+    "NO_ANG": 81983030647,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3665,
+    "NAMA": "FAHMI ASNIA MAULIDA",
+    "NO_ANG": 12014043665,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "ACC TELCO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3449,
+    "NAMA": "FAISHAL ZULFIQAR K",
+    "NO_ANG": 12011123449,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "MSDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1585,
+    "NAMA": "FARID MANSUR",
+    "NO_ANG": 11992081585,
+    "DIV": "SPI",
+    "BAG": "SPARE PART",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3915,
+    "NAMA": "FARIDAH ZAHRA",
+    "NO_ANG": 12018083915,
+    "DIV": "SBU DDS",
+    "BAG": "DDS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 52,
+    "NAMA": "FAUZUL NURDIN",
+    "NO_ANG": 81979020052,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1256,
+    "NAMA": "FERI YANA CHANDRA I.",
+    "NO_ANG": 11988061256,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 874,
+    "NAMA": "FIFI YUSFIANTI",
+    "NO_ANG": 11985050874,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "GIH DAN RIMA CELCO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3267,
+    "NAMA": "FIJAR JANWARD",
+    "NO_ANG": 42008093267,
+    "DIV": "LUAR BIASA",
+    "BAG": "UMUM/JTS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3901,
+    "NAMA": "FILDA ARISANDI",
+    "NO_ANG": 42018013901,
+    "DIV": "KEUANGAN",
+    "BAG": "ADMIN",
+    "PERS": "PT. MGIU"
+  },
+  {
+    "NO_ID": 3815,
+    "NAMA": "FIRMANSYAH",
+    "NO_ANG": 42016073815,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3313,
+    "NAMA": "FITRIA",
+    "NO_ANG": 52009083313,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "KOP. INTI",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3707,
+    "NAMA": "FITRIANA DIAN PERMANASARI",
+    "NO_ANG": 12014083707,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "NGUN OPS REG BARAT",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2008,
+    "NAMA": "GAFRELLY MANSUR, IR.",
+    "NO_ANG": 11994082008,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "BANGSISORG",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3875,
+    "NAMA": "GEANISSA HANDARINI",
+    "NO_ANG": 42017013875,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3490,
+    "NAMA": "GEDE PANDIT A.W",
+    "NO_ANG": 12012063490,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3727,
+    "NAMA": "GEMA ALFARISI D",
+    "NO_ANG": 12014123727,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3920,
+    "NAMA": "GUGI SETIAWAN",
+    "NO_ANG": 12018103920,
+    "DIV": "SBU SE",
+    "BAG": "SMART ENERGY",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2971,
+    "NAMA": "GUGUN GUNAWAN",
+    "NO_ANG": 42006022971,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "KAM.INTI",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2202,
+    "NAMA": "GUMILAR BAYU P, SH.LLM",
+    "NO_ANG": 11996032202,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "HUKUM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2592,
+    "NAMA": "GUNAWAN",
+    "NO_ANG": 42000052592,
+    "DIV": "PENGEMUDI",
+    "BAG": "PT IBP",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 2953,
+    "NAMA": "GUPUH SARWO EDI",
+    "NO_ANG": 12005122953,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KUNG MPO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3507,
+    "NAMA": "H EFFENDY RUSTAM",
+    "NO_ANG": 72012093507,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3368,
+    "NAMA": "HALIMAH",
+    "NO_ANG": 72010093368,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2468,
+    "NAMA": "HAMDANI",
+    "NO_ANG": 11999012468,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3369,
+    "NAMA": "HAMZAH",
+    "NO_ANG": 42010123369,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2568,
+    "NAMA": "HAMZAH KARMAWAN",
+    "NO_ANG": 12000022568,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3789,
+    "NAMA": "HARAPAN MARBUN, IR.",
+    "NO_ANG": 12016033789,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3541,
+    "NAMA": "HARDI NOVIANDRI M",
+    "NO_ANG": 12013013541,
+    "DIV": "SBU BROADBAND",
+    "BAG": "BAG. SALES ENGINEERING",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1125,
+    "NAMA": "HARI SUPRIANTO",
+    "NO_ANG": 11986121125,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG JUAL",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1230,
+    "NAMA": "HARIS SUSANTO",
+    "NO_ANG": 11988031230,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "GIH RIMA",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3084,
+    "NAMA": "HARJANI",
+    "NO_ANG": 42007013084,
+    "DIV": "PENGEMUDI",
+    "BAG": "PT IBP/DRIVER",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 2777,
+    "NAMA": "HARMANA",
+    "NO_ANG": 12004012777,
+    "DIV": "LUAR BIASA",
+    "BAG": "LAP MAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1381,
+    "NAMA": "HARMEN MESTA",
+    "NO_ANG": 11990011381,
+    "DIV": "SBU BROADBAND",
+    "BAG": "BANG&NIKIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3126,
+    "NAMA": "HARRY JAUHARI",
+    "NO_ANG": 12007053126,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "HUKUM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 505,
+    "NAMA": "HARSONO ALI MAKSUM",
+    "NO_ANG": 11981090505,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "GIH DAN RIMA TELCO",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3720,
+    "NAMA": "HASAN ABDULLAH U.A",
+    "NO_ANG": 12014093720,
+    "DIV": "SBU BROADBAND",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3616,
+    "NAMA": "HELDA MERIYAM KAHAR",
+    "NO_ANG": 12014013616,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "LOGISTIK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3476,
+    "NAMA": "HENDRAWAN",
+    "NO_ANG": 42012023476,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3352,
+    "NAMA": "HENDRIX LESMANA",
+    "NO_ANG": 12010053352,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3043,
+    "NAMA": "HENGKI CANDRA BUANA",
+    "NO_ANG": 12006113043,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KOM SYSINT",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2656,
+    "NAMA": "HENHEN SUHENDI",
+    "NO_ANG": 12001012656,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3421,
+    "NAMA": "HEPI SOFYAN N",
+    "NO_ANG": 52011073421,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "KOP. INTI",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3816,
+    "NAMA": "HERDI",
+    "NO_ANG": 42016073816,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 791,
+    "NAMA": "HERI IRWANTO",
+    "NO_ANG": 11984120791,
+    "DIV": "LUAR BIASA",
+    "BAG": "ACC PRODUK",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1848,
+    "NAMA": "HERI SAPARI",
+    "NO_ANG": 11994021848,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1369,
+    "NAMA": "HERI SUHERMAN",
+    "NO_ANG": 11989111369,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2878,
+    "NAMA": "HERMAN PUJIONO",
+    "NO_ANG": 12005012878,
+    "DIV": "LUAR BIASA",
+    "BAG": "KADIV&STAF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2444,
+    "NAMA": "HERMAN SUDJANA",
+    "NO_ANG": 11998072444,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "RENDAL JUAL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3886,
+    "NAMA": "HERMANTO",
+    "NO_ANG": 52017043886,
+    "DIV": "KOPERASI INTI",
+    "BAG": "",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 1769,
+    "NAMA": "HERMAWAN BUDI",
+    "NO_ANG": 11993081769,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "MAN CHAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3891,
+    "NAMA": "HERPRASETYO",
+    "NO_ANG": 72017063891,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3376,
+    "NAMA": "HERU RIZKY AMBOINAWATY",
+    "NO_ANG": 52011033376,
+    "DIV": "KOPERASI INTI",
+    "BAG": "",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 2670,
+    "NAMA": "HERU SUDARYANTO",
+    "NO_ANG": 12001042670,
+    "DIV": "LUAR BIASA",
+    "BAG": "JAK SI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3489,
+    "NAMA": "HERWAN HERWANSYAH",
+    "NO_ANG": 12012053489,
+    "DIV": "SBU BROADBAND",
+    "BAG": "SE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2570,
+    "NAMA": "HETTY MUSTIKAWATI",
+    "NO_ANG": 12000022570,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "JAR SEL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3496,
+    "NAMA": "HILMAN RASYIDIN",
+    "NO_ANG": 12012083496,
+    "DIV": "SBU BROADBAND",
+    "BAG": "MSDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3601,
+    "NAMA": "HISNI ZAINUL M",
+    "NO_ANG": 12013093601,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "TITO REG 2",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2425,
+    "NAMA": "I MADE GELGEL, S.T.",
+    "NO_ANG": 11997112425,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "BANGSISTEK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2490,
+    "NAMA": "I NYOMAN SUDIANA",
+    "NO_ANG": 11999072490,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3415,
+    "NAMA": "IAN SUKIRMAN",
+    "NO_ANG": 42011073415,
+    "DIV": "PENGEMUDI",
+    "BAG": "DRIVER",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3486,
+    "NAMA": "ICHTIAR FACHRUDDIN",
+    "NO_ANG": 12012053486,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "MSDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1071,
+    "NAMA": "IDA SUBARNIDA",
+    "NO_ANG": 11986081071,
+    "DIV": "LUAR BIASA",
+    "BAG": "MAN.ASSET",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1343,
+    "NAMA": "IDA WIDANINGSIH",
+    "NO_ANG": 81989051343,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2335,
+    "NAMA": "IDAH",
+    "NO_ANG": 51997012335,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 1779,
+    "NAMA": "IDAY HIDAYAT",
+    "NO_ANG": 81993091779,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3913,
+    "NAMA": "IHSAN RIZKALUTHFI",
+    "NO_ANG": 12018083913,
+    "DIV": "SBU DDS",
+    "BAG": "DDS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1271,
+    "NAMA": "IIK DARMAWAN",
+    "NO_ANG": 11988071271,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KUNG JUAL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1351,
+    "NAMA": "IIS INA FARIDA",
+    "NO_ANG": 11989061351,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "PKBL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3629,
+    "NAMA": "IKA NURLELA",
+    "NO_ANG": 42014013629,
+    "DIV": "LUAR BIASA",
+    "BAG": "OS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3662,
+    "NAMA": "IKA SARTIKA",
+    "NO_ANG": 72014033662,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1022,
+    "NAMA": "IKHLAS FAUZI",
+    "NO_ANG": 11986011022,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "REN DAN IMP PROY 2",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3740,
+    "NAMA": "IKHSAN RAMDHANI",
+    "NO_ANG": 12015033740,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2934,
+    "NAMA": "ILHAM PERMADI,ST",
+    "NO_ANG": 12005082934,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "JAR TAP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3759,
+    "NAMA": "IMAS MULYANI",
+    "NO_ANG": 42015123759,
+    "DIV": "KELUAR",
+    "BAG": "KELUAR",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 634,
+    "NAMA": "IMAS RESTUNINGSIH",
+    "NO_ANG": 11983030634,
+    "DIV": "LUAR BIASA",
+    "BAG": "GAR DAN SIS LAP KUG",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3062,
+    "NAMA": "IMAS SULAENI",
+    "NO_ANG": 52006123062,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3536,
+    "NAMA": "IMELDA YULISTYA",
+    "NO_ANG": 12013013536,
+    "DIV": "SBU BROADBAND",
+    "BAG": "TITO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3380,
+    "NAMA": "INA PRASTHY",
+    "NO_ANG": 52011033380,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3596,
+    "NAMA": "INARTI MADIA N",
+    "NO_ANG": 42013083596,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PEMASARAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3695,
+    "NAMA": "INDRA BADANA",
+    "NO_ANG": 42014073695,
+    "DIV": "PENGEMUDI",
+    "BAG": "DRIVER",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 2712,
+    "NAMA": "INDRA GUNADI",
+    "NO_ANG": 12002072712,
+    "DIV": "LUAR BIASA",
+    "BAG": "RENBANGDIT",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3438,
+    "NAMA": "INDRA HADRIANA",
+    "NO_ANG": 42011113438,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT MBIP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3694,
+    "NAMA": "INDRA SUTISNA",
+    "NO_ANG": 52014063694,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOPERASI INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3328,
+    "NAMA": "INDRI HELMINA",
+    "NO_ANG": 42010013328,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT. IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1913,
+    "NAMA": "INDRIATMOKO, IR.",
+    "NO_ANG": 11994041913,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "TEST&COM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3285,
+    "NAMA": "INUGRAH RATIA PRATIWI",
+    "NO_ANG": 62008123285,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3746,
+    "NAMA": "IRFAN IRPANDI SAPUTRA",
+    "NO_ANG": 42015043746,
+    "DIV": "PT. IPMS",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1039,
+    "NAMA": "IRIANTI",
+    "NO_ANG": 11986041039,
+    "DIV": "LUAR BIASA",
+    "BAG": "DANA OPS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3817,
+    "NAMA": "IRMAN",
+    "NO_ANG": 42016073817,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3818,
+    "NAMA": "IRMAN FIRMANSYAH",
+    "NO_ANG": 42016073818,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3729,
+    "NAMA": "IRMAWAN DHEDY P",
+    "NO_ANG": 12015013729,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3780,
+    "NAMA": "IRWAN SETIAWAN",
+    "NO_ANG": 42016013780,
+    "DIV": "PT IPMS",
+    "BAG": "IPMS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1901,
+    "NAMA": "IRWIN ANGGARA, DRS.",
+    "NO_ANG": 11994041901,
+    "DIV": "LUAR BIASA",
+    "BAG": "DIT OP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 734,
+    "NAMA": "ISE SAEFULLAH",
+    "NO_ANG": 11984110734,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PENANGANAN MAT",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 793,
+    "NAMA": "ISKANDAR ALBAB",
+    "NO_ANG": 11985010793,
+    "DIV": "LUAR BIASA",
+    "BAG": "KUNG BANG",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3473,
+    "NAMA": "ISMAYANTI",
+    "NO_ANG": 42012023473,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3819,
+    "NAMA": "ITA WARSITA",
+    "NO_ANG": 42016073819,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3903,
+    "NAMA": "ITANG RUKMANA",
+    "NO_ANG": 42018023903,
+    "DIV": "ME",
+    "BAG": "OB",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 415,
+    "NAMA": "ITANG TATANG ADANG S",
+    "NO_ANG": 11980110415,
+    "DIV": "SBU BROADBAND",
+    "BAG": "REN DAN IMP PROY 1",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2883,
+    "NAMA": "ITOT WIHARTO",
+    "NO_ANG": 12005012883,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3684,
+    "NAMA": "IWAN HERMAWAN",
+    "NO_ANG": 42014063684,
+    "DIV": "PT IPMS",
+    "BAG": "IPMS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 843,
+    "NAMA": "IWAN MOCH. RIDWAN",
+    "NO_ANG": 11985030843,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "BANGSIS SDM DAN ORG",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2812,
+    "NAMA": "IWAN S. PERMANA",
+    "NO_ANG": 42004052812,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1213,
+    "NAMA": "IWAN SETIAWAN",
+    "NO_ANG": 11988021213,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "BANGSISTEK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3820,
+    "NAMA": "IWAN SURIPTO",
+    "NO_ANG": 42016073820,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3236,
+    "NAMA": "IYAN SOPIYAN",
+    "NO_ANG": 62008073236,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT IBP/OS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3410,
+    "NAMA": "IYEP SAEFULLOH",
+    "NO_ANG": 42011053410,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1040,
+    "NAMA": "IYUS RUSYANA, DRS",
+    "NO_ANG": 11986041040,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2651,
+    "NAMA": "JAJANG DARLINA",
+    "NO_ANG": 12000122651,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG JUAL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2511,
+    "NAMA": "JAJANG KOSWARA",
+    "NO_ANG": 11999082511,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "BANGSISTEK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2565,
+    "NAMA": "JAJANG MASRI",
+    "NO_ANG": 12000022565,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 941,
+    "NAMA": "JAJANG SUKANDA",
+    "NO_ANG": 11985090941,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "PRODUKSI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1851,
+    "NAMA": "JEFRI WAHYUDI, IR.MBA",
+    "NO_ANG": 11994021851,
+    "DIV": "LUAR BIASA",
+    "BAG": "KADIV&STAF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1583,
+    "NAMA": "JIANG SYARIF H.",
+    "NO_ANG": 11992081583,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3605,
+    "NAMA": "JOHAN PURBAYA",
+    "NO_ANG": 42013093605,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "SDM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1234,
+    "NAMA": "JOKO HARYONO",
+    "NO_ANG": 11988031234,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2447,
+    "NAMA": "JOKO PRAMONO",
+    "NO_ANG": 51998102447,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 2560,
+    "NAMA": "JONI WIBOWO",
+    "NO_ANG": 12000022560,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "BANG&NIKIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2671,
+    "NAMA": "JUHANA UDIN",
+    "NO_ANG": 12001042671,
+    "DIV": "LUAR BIASA",
+    "BAG": "KUNG MPO",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3436,
+    "NAMA": "JUMADI",
+    "NO_ANG": 42011113436,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3042,
+    "NAMA": "JUNIANTO,IR",
+    "NO_ANG": 12006103042,
+    "DIV": "LUAR BIASA",
+    "BAG": "KADIV&STAF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 422,
+    "NAMA": "JUSEP ZAINAL",
+    "NO_ANG": 11980120422,
+    "DIV": "LUAR BIASA",
+    "BAG": "REN DAL",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3609,
+    "NAMA": "KARINA MEYRITA D",
+    "NO_ANG": 12013093609,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "SALES ENG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 787,
+    "NAMA": "KASINO MARTOWINANGUN",
+    "NO_ANG": 11984120787,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "UMUM DAN PROPERTY",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1316,
+    "NAMA": "KASNANTA SUWITA",
+    "NO_ANG": 11989031316,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "BANG&NIKIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 905,
+    "NAMA": "KOMARIAH AGUN",
+    "NO_ANG": 11985060905,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "TAN UM DAN TAN ASET",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1112,
+    "NAMA": "KOMARUDIN A. DIMYATI",
+    "NO_ANG": 11986101112,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "UMUM&RT",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1219,
+    "NAMA": "KOMARUDIN SANUSI",
+    "NO_ANG": 11988031219,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "STRA DANA",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1184,
+    "NAMA": "KOSASIH ANO D.",
+    "NO_ANG": 11987121184,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 762,
+    "NAMA": "KOSASIH D. GANDA",
+    "NO_ANG": 11984120762,
+    "DIV": "SBU BROADBAND",
+    "BAG": "REN DAN IMP PROY 1",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1812,
+    "NAMA": "KOSASIH RUSJAN, IR.",
+    "NO_ANG": 11993121812,
+    "DIV": "LUAR BIASA",
+    "BAG": "KUNG OP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3241,
+    "NAMA": "KRESNA PERMANA",
+    "NO_ANG": 12008073241,
+    "DIV": "SBU BROADBAND",
+    "BAG": "G. TELKOM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3732,
+    "NAMA": "KRISNA YUSUP S",
+    "NO_ANG": 12015013732,
+    "DIV": "SBU BROADBAND",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2427,
+    "NAMA": "KRISTANTA RIYADI, S.T.",
+    "NO_ANG": 11997112427,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "JAR SEL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2585,
+    "NAMA": "KURAESIN",
+    "NO_ANG": 12000042585,
+    "DIV": "SBU BROADBAND",
+    "BAG": "TI&KONTEN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2665,
+    "NAMA": "KURNIA SUPANDI",
+    "NO_ANG": 12001032665,
+    "DIV": "LUAR BIASA",
+    "BAG": "KADIV&STAF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3620,
+    "NAMA": "KURNIAWAN HASMIN MARUNTA",
+    "NO_ANG": 12014013620,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "TITO REG 1",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 736,
+    "NAMA": "KUSNADI NGADIMIN",
+    "NO_ANG": 11984110736,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "REPAIR",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2423,
+    "NAMA": "KUSNO PRIJONO, S.T.",
+    "NO_ANG": 11997112423,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "BANG&NIKIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3323,
+    "NAMA": "KUSTARI DAWUD",
+    "NO_ANG": 12009113323,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2764,
+    "NAMA": "L.SUZIE BERNARDINE",
+    "NO_ANG": 42003082764,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3751,
+    "NAMA": "LASTIUR SIHOMBING",
+    "NO_ANG": 12015073751,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3317,
+    "NAMA": "LELA TIKTIK TURLAELA",
+    "NO_ANG": 52009103317,
+    "DIV": "LUAR BIASA",
+    "BAG": "PERDAGANGAN II",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3821,
+    "NAMA": "LEO HARI WIBOWO",
+    "NO_ANG": 42016073821,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3229,
+    "NAMA": "LIA DARLIAH",
+    "NO_ANG": 62008073229,
+    "DIV": "LUAR BIASA",
+    "BAG": "JTS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3593,
+    "NAMA": "LIA RAHMAWATI",
+    "NO_ANG": 42013083593,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "SSH",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2697,
+    "NAMA": "LILIS SUPIANAH",
+    "NO_ANG": 42001112697,
+    "DIV": "DANA PENSIUN",
+    "BAG": "DANA PENSIUN",
+    "PERS": "DP"
+  },
+  {
+    "NO_ID": 3924,
+    "NAMA": "LINDA RIZKI YULIANI",
+    "NO_ANG": 12019013924,
+    "DIV": "BANGBISPRO",
+    "BAG": "BANGBISPRO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1702,
+    "NAMA": "LISDA N. RACHMAWATI",
+    "NO_ANG": 11993031702,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "KUNG MPO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3822,
+    "NAMA": "LUKMAN HAKIM",
+    "NO_ANG": 42016073822,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1544,
+    "NAMA": "LUKMANUL HAKIM",
+    "NO_ANG": 11992021544,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3708,
+    "NAMA": "LUTHFY DELFTYANA MULYA",
+    "NO_ANG": 12014083708,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "PENG PRODUK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3386,
+    "NAMA": "LYSSA RATNA MEILYSSA",
+    "NO_ANG": 12011033386,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "PT. INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3753,
+    "NAMA": "M. ARSWIN GILANG P.S",
+    "NO_ANG": 12015103753,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2690,
+    "NAMA": "M. RACHMAT",
+    "NO_ANG": 12001082690,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "BANG&NIKIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3258,
+    "NAMA": "M. RACHMAT GUNAWAN ST.",
+    "NO_ANG": 12008083258,
+    "DIV": "LUAR BIASA",
+    "BAG": "TI&KONTEN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3611,
+    "NAMA": "M.AUNURROFIQ",
+    "NO_ANG": 42013113611,
+    "DIV": "LUAR BIASA",
+    "BAG": "OS WASPANG",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 703,
+    "NAMA": "MALIKOES SOEADIKO",
+    "NO_ANG": 71984010703,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1734,
+    "NAMA": "MAMAD MIRODJI",
+    "NO_ANG": 11993051734,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "PRODUKSI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 970,
+    "NAMA": "MAMAN SUHERMAN",
+    "NO_ANG": 81985100970,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3651,
+    "NAMA": "MAMAN SURYATMAN",
+    "NO_ANG": 72014023651,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3823,
+    "NAMA": "MAMAT SYARIP H.",
+    "NO_ANG": 42016073823,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3686,
+    "NAMA": "MARIATY PEBRIANA SIHOMBING",
+    "NO_ANG": 12014063686,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "SALE OPERATION",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3556,
+    "NAMA": "MARTAULI SINTA PUTRI",
+    "NO_ANG": 12013023556,
+    "DIV": "SBU BROADBAND",
+    "BAG": "BAG. OPERASI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1091,
+    "NAMA": "MARYANI",
+    "NO_ANG": 11986101091,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "HUKUM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3824,
+    "NAMA": "MASNA",
+    "NO_ANG": 42016073824,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1038,
+    "NAMA": "MASTA KRISTINA",
+    "NO_ANG": 11986031038,
+    "DIV": "LUAR BIASA",
+    "BAG": "BANGSIS DAN TEKFO",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3529,
+    "NAMA": "MAYANG ALETHEA",
+    "NO_ANG": 12012103529,
+    "DIV": "LUAR BIASA",
+    "BAG": "BAG. KEUANGAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3445,
+    "NAMA": "MEGA ANGGARA",
+    "NO_ANG": 12011123445,
+    "DIV": "LUAR BIASA",
+    "BAG": "ADMIN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3523,
+    "NAMA": "MEI DAMAYANTI",
+    "NO_ANG": 42012103523,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT IBP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1687,
+    "NAMA": "MELIA LIZA, IR.",
+    "NO_ANG": 11993011687,
+    "DIV": "LUAR BIASA",
+    "BAG": "KADIV&STAF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1179,
+    "NAMA": "MELIANI SUPARDJO",
+    "NO_ANG": 11987121179,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "BANGSISORG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3679,
+    "NAMA": "MELIARNA WIWARDHANA",
+    "NO_ANG": 72014053679,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2984,
+    "NAMA": "MOCH . ANAS",
+    "NO_ANG": 42006032984,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2679,
+    "NAMA": "MOCH. ASEP DAYAT A.",
+    "NO_ANG": 12001052679,
+    "DIV": "SBU BROADBAND",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 194,
+    "NAMA": "MOCH. DJAELANI",
+    "NO_ANG": 11979020194,
+    "DIV": "LUAR BIASA",
+    "BAG": "MAN KUA",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3793,
+    "NAMA": "MOCH. HENDRA GUNAWAN",
+    "NO_ANG": 42016063793,
+    "DIV": "PENGEMUDI",
+    "BAG": "",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 2617,
+    "NAMA": "MOCH. ISMAN SUPAMI",
+    "NO_ANG": 12000092617,
+    "DIV": "SBU BROADBAND",
+    "BAG": "YAN&REMUN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2730,
+    "NAMA": "MOCH. SYAFE'I",
+    "NO_ANG": 82003032730,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1155,
+    "NAMA": "MOH. AIF ERNALAGA",
+    "NO_ANG": 11987081155,
+    "DIV": "SBU BROADBAND",
+    "BAG": "TEST&COM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3741,
+    "NAMA": "MOH. FARID BARKAH",
+    "NO_ANG": 52015033741,
+    "DIV": "KOPERASI INTI",
+    "BAG": "",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3614,
+    "NAMA": "MOH. FARIZI",
+    "NO_ANG": 12013113614,
+    "DIV": "SBU BROADBAND",
+    "BAG": "PRIVATE ACCOUNT ENTERPRISES",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3917,
+    "NAMA": "MOH.ANDY NUGROHO",
+    "NO_ANG": 12018083917,
+    "DIV": "SBU DDS",
+    "BAG": "DDS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3788,
+    "NAMA": "MOH.KARSONO KARNO",
+    "NO_ANG": 72016023788,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1986,
+    "NAMA": "MOHAMAD ICHWAN",
+    "NO_ANG": 11994071986,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 637,
+    "NAMA": "MOHAMAD ISHAK",
+    "NO_ANG": 11983030637,
+    "DIV": "LUAR BIASA",
+    "BAG": "UMUM DAN PROPERTY",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3844,
+    "NAMA": "MOHAMMAD YANI",
+    "NO_ANG": 42016073844,
+    "DIV": "PENGEMUDI",
+    "BAG": "SATPAM",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3825,
+    "NAMA": "MOMO SUKARMO",
+    "NO_ANG": 42016073825,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3076,
+    "NAMA": "MUAMMAR QADHAFI",
+    "NO_ANG": 42007013076,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2579,
+    "NAMA": "MUBEDI",
+    "NO_ANG": 12000032579,
+    "DIV": "LUAR BIASA",
+    "BAG": "KUNG OP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3526,
+    "NAMA": "MUCHLIS",
+    "NO_ANG": 12012103526,
+    "DIV": "SBU BROADBAND",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2698,
+    "NAMA": "MUH. HUSIN",
+    "NO_ANG": 42001112698,
+    "DIV": "DANA PENSIUN",
+    "BAG": "DANA PENSIUN",
+    "PERS": "DP"
+  },
+  {
+    "NO_ID": 1157,
+    "NAMA": "MUHAMAD MULYONO",
+    "NO_ANG": 11987081157,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "MANA SERV",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3912,
+    "NAMA": "MUHAMMAD ADRI",
+    "NO_ANG": 12018083912,
+    "DIV": "CORPORETE FINANCE",
+    "BAG": "KEUANGAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3450,
+    "NAMA": "MUHAMMAD DIMAS GILANG F",
+    "NO_ANG": 12011123450,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "MAN SDM & PK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1218,
+    "NAMA": "MUHYIDDIN",
+    "NO_ANG": 11988031218,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "TAN MAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3013,
+    "NAMA": "MUIZUDDIN",
+    "NO_ANG": 12006073013,
+    "DIV": "LUAR BIASA",
+    "BAG": "PKBL",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2377,
+    "NAMA": "MULIASARI HARTANTI",
+    "NO_ANG": 11997042377,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "DANA OPS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2977,
+    "NAMA": "MULYADI",
+    "NO_ANG": 42006022977,
+    "DIV": "LUAR BIASA",
+    "BAG": "WBI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3506,
+    "NAMA": "MULYO SANYOTO",
+    "NO_ANG": 12012093506,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "PROD PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1707,
+    "NAMA": "MUSLIM AKHMADI,IR.",
+    "NO_ANG": 11993041707,
+    "DIV": "SPI",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3631,
+    "NAMA": "NADIA INDAH DEVIANTY",
+    "NO_ANG": 12014013631,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "HCM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1420,
+    "NAMA": "NANA SUPRIYATNA",
+    "NO_ANG": 51990121420,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3428,
+    "NAMA": "NANAN SUHERMAN",
+    "NO_ANG": 42011083428,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1760,
+    "NAMA": "NANANG SOLEHUDIN",
+    "NO_ANG": 11993081760,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG MPO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1555,
+    "NAMA": "NANANG SURYANA",
+    "NO_ANG": 11992041555,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1611,
+    "NAMA": "NANDANG",
+    "NO_ANG": 81992091611,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 326,
+    "NAMA": "NANDANG HERDIANA",
+    "NO_ANG": 81979020326,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3194,
+    "NAMA": "NANDANG SUNANDAR",
+    "NO_ANG": 12008053194,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 390,
+    "NAMA": "NARLI",
+    "NO_ANG": 11980090390,
+    "DIV": "LUAR BIASA",
+    "BAG": "REN DAN IMP PROY 2",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1791,
+    "NAMA": "NASRUL ENEK",
+    "NO_ANG": 11993101791,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "DAL PURJU",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1237,
+    "NAMA": "NEDI KURNIADI",
+    "NO_ANG": 11988041237,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3456,
+    "NAMA": "NELY FAUZIYAH",
+    "NO_ANG": 12011123456,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1365,
+    "NAMA": "NENDANG IRLAND",
+    "NO_ANG": 11989091365,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3479,
+    "NAMA": "NENDEN SITI AISYAH",
+    "NO_ANG": 12012023479,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "SDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 64,
+    "NAMA": "NENI SULASTRI",
+    "NO_ANG": 11979020064,
+    "DIV": "LUAR BIASA",
+    "BAG": "BANG&NIKIN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3542,
+    "NAMA": "NENI SURYANI",
+    "NO_ANG": 12013013542,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "BAG. SALES ENGINEERING",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1726,
+    "NAMA": "NIKNIK SITI MARYAM",
+    "NO_ANG": 11993051726,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "HUMAS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3712,
+    "NAMA": "NIKO ADITYA",
+    "NO_ANG": 12014083712,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "BANG OPS REG BARAT",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1777,
+    "NAMA": "NINING SARININGSIH",
+    "NO_ANG": 81993091779,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3218,
+    "NAMA": "NONI INDRIANI",
+    "NO_ANG": 62008063218,
+    "DIV": "LUAR BIASA",
+    "BAG": "JTS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2687,
+    "NAMA": "NONO SUTRISNO",
+    "NO_ANG": 12001082687,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3630,
+    "NAMA": "NORMANDIA YULIANITA",
+    "NO_ANG": 12014013630,
+    "DIV": "SPI",
+    "BAG": "HCM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3560,
+    "NAMA": "NUGRAHA",
+    "NO_ANG": 52013023560,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "KOPERASI",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3688,
+    "NAMA": "NUNI TAPRISAH",
+    "NO_ANG": 42014063688,
+    "DIV": "LUAR BIASA",
+    "BAG": "CELCO",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1241,
+    "NAMA": "NUNU JAKARIA",
+    "NO_ANG": 11988051241,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "JAR TAP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2260,
+    "NAMA": "NUNUY PURWANINGRUM",
+    "NO_ANG": 11996082260,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "RO DIR",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3667,
+    "NAMA": "NUR AFIFAH",
+    "NO_ANG": 12014043667,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "SE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2640,
+    "NAMA": "NUR RIDJANTORO, S.T.",
+    "NO_ANG": 12000102640,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2537,
+    "NAMA": "NURAINI A, SH.",
+    "NO_ANG": 12000022537,
+    "DIV": "LUAR BIASA",
+    "BAG": "HUKUM",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2723,
+    "NAMA": "NURAINY Ssos.",
+    "NO_ANG": 12003012723,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "RO DIR",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2751,
+    "NAMA": "NURAYATI DEWI",
+    "NO_ANG": 42003062751,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT MBIP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3568,
+    "NAMA": "NURDIN",
+    "NO_ANG": 42013033568,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2015,
+    "NAMA": "NURILLAH WIJAYA",
+    "NO_ANG": 11994092015,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3826,
+    "NAMA": "NURLAN NURHERLAN",
+    "NO_ANG": 42016073826,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3527,
+    "NAMA": "NURSYIFA FUJIYANTI",
+    "NO_ANG": 12012103527,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "SDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3539,
+    "NAMA": "NURTRESNA GUMILAR",
+    "NO_ANG": 12013013539,
+    "DIV": "SBU BROADBAND",
+    "BAG": "DM TITO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3697,
+    "NAMA": "NURWIDYA SAPUTRA",
+    "NO_ANG": 12014073697,
+    "DIV": "LUAR BIASA",
+    "BAG": "KUNGTEK",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3582,
+    "NAMA": "NURY MARLYANI",
+    "NO_ANG": 42013053582,
+    "DIV": "LUAR BIASA",
+    "BAG": "IMPL.TITO REG 2",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 844,
+    "NAMA": "ODIN IRON",
+    "NO_ANG": 11985030844,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "REN DAN IMP PROY 2",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3777,
+    "NAMA": "OJAT DAROJAT",
+    "NO_ANG": 42016013777,
+    "DIV": "TATAGRAHA DAHANA",
+    "BAG": "IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3493,
+    "NAMA": "OKY YUDHA SAPUTRA",
+    "NO_ANG": 12012073493,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3177,
+    "NAMA": "OMI SOFIAN",
+    "NO_ANG": 42008043177,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 428,
+    "NAMA": "ONI SUHENDAR",
+    "NO_ANG": 11981010428,
+    "DIV": "LUAR BIASA",
+    "BAG": "MAN KUA",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3851,
+    "NAMA": "OPIK APRIANDANI",
+    "NO_ANG": 42016113851,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3718,
+    "NAMA": "PARMONO RAHARJO",
+    "NO_ANG": 12014093718,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3308,
+    "NAMA": "PARWITO",
+    "NO_ANG": 12009083308,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "PROD KUNG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3587,
+    "NAMA": "PENI PERAWATI",
+    "NO_ANG": 42013063587,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3344,
+    "NAMA": "PEPEP KUSNADI",
+    "NO_ANG": 12010033344,
+    "DIV": "SBU BROADBAND",
+    "BAG": "MP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3310,
+    "NAMA": "PRABANG TIMUR EKO",
+    "NO_ANG": 12009083310,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3645,
+    "NAMA": "PRADHANA RIZA F",
+    "NO_ANG": 12014023645,
+    "DIV": "SBU BROADBAND",
+    "BAG": "SE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3709,
+    "NAMA": "PRADHONO PRIHANGGORO",
+    "NO_ANG": 12014083709,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "NGUN OPS REG BARAT",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3919,
+    "NAMA": "PRAHITNA SRI RAHAYUNINGRAT",
+    "NO_ANG": 12018083919,
+    "DIV": "PRODUKSI",
+    "BAG": "PRODUKSI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3118,
+    "NAMA": "PRAMA PARASYA ISMADI",
+    "NO_ANG": 42007053118,
+    "DIV": "LUAR BIASA",
+    "BAG": "JTS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3900,
+    "NAMA": "PRATIWI WULANDARI",
+    "NO_ANG": 42018013900,
+    "DIV": "PENDUKUNG",
+    "BAG": "ADMIN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3639,
+    "NAMA": "PRIMADI SULAEMAN",
+    "NO_ANG": 12014023639,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "KEUANGAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1710,
+    "NAMA": "PURNOMO ADJI",
+    "NO_ANG": 11993041710,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2707,
+    "NAMA": "PURWANTO KAMIN S",
+    "NO_ANG": 12002042707,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3354,
+    "NAMA": "PUTTY OCTAVIANY P.",
+    "NO_ANG": 12010053354,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3341,
+    "NAMA": "R HENDRA SETIADI",
+    "NO_ANG": 62010023341,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT IBP/OS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2451,
+    "NAMA": "R. ANA SM.",
+    "NO_ANG": 41998102451,
+    "DIV": "PENGEMUDI",
+    "BAG": "PENGEMUDI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 174,
+    "NAMA": "R. BIMO SUSETYO BUDI",
+    "NO_ANG": 11979020174,
+    "DIV": "LUAR BIASA",
+    "BAG": "GAR DAN SIS LAP KUG",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1450,
+    "NAMA": "R. BUDI SUPRIONO Ssi.",
+    "NO_ANG": 11991031450,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2558,
+    "NAMA": "R. ERIS OSMAN RIFKI, S.T.",
+    "NO_ANG": 12000022558,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "PROD KUNG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2578,
+    "NAMA": "R. HARYUNIADI",
+    "NO_ANG": 12000032578,
+    "DIV": "LUAR BIASA",
+    "BAG": "MPP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1750,
+    "NAMA": "R. JOKOMULYAWAN",
+    "NO_ANG": 11993061750,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "RENDALPRO2",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3669,
+    "NAMA": "R. UTAMI ANDRIANA",
+    "NO_ANG": 42014043669,
+    "DIV": "LUAR BIASA",
+    "BAG": "JASTEK",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3849,
+    "NAMA": "R. WANWAN HERNAWAN",
+    "NO_ANG": 42016103849,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3381,
+    "NAMA": "R.SITI SARI DEWI",
+    "NO_ANG": 12011033381,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "PT.  INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3538,
+    "NAMA": "RACHMA PUTRI A",
+    "NO_ANG": 12013013538,
+    "DIV": "LUAR BIASA",
+    "BAG": "TITO",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1879,
+    "NAMA": "RACHMAT ISKANDAR",
+    "NO_ANG": 11994031879,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "DANA OPS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1027,
+    "NAMA": "RACHMAT SUGIARTO",
+    "NO_ANG": 11986021027,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "JAK DAN RANSI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3922,
+    "NAMA": "RADEN RIZQY ANDARYSAN",
+    "NO_ANG": 12018103922,
+    "DIV": "HCMQ",
+    "BAG": "SEKPER",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3599,
+    "NAMA": "RAKHMADIPTA",
+    "NO_ANG": 42013093599,
+    "DIV": "LUAR BIASA",
+    "BAG": "OS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3878,
+    "NAMA": "RAMZUNIS BOY LATIF",
+    "NO_ANG": 72017023878,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2610,
+    "NAMA": "RANI ANGGRAENI",
+    "NO_ANG": 42000082610,
+    "DIV": "PT WBI",
+    "BAG": "WBI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3733,
+    "NAMA": "RATNA PURWITASARI",
+    "NO_ANG": 12015013733,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3827,
+    "NAMA": "REGAN RESI H.",
+    "NO_ANG": 42016073827,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3531,
+    "NAMA": "RENA NOVITASARI",
+    "NO_ANG": 42012113531,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "JAS TEK",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3618,
+    "NAMA": "RENDRA HASWARI STEVINA HANESTHI",
+    "NO_ANG": 12014013618,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "SE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3674,
+    "NAMA": "RETNO DWI K",
+    "NO_ANG": 42014043674,
+    "DIV": "PT WBI",
+    "BAG": "WBI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3703,
+    "NAMA": "REVINA APRILLIANI",
+    "NO_ANG": 42014073703,
+    "DIV": "LUAR BIASA",
+    "BAG": "ADM SECURITY",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3113,
+    "NAMA": "RIA HANDAYANI",
+    "NO_ANG": 62007033113,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT.IBP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2065,
+    "NAMA": "RIA KURNIATI",
+    "NO_ANG": 11995022065,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KOM HAR",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1333,
+    "NAMA": "RIBUT WIBOWO",
+    "NO_ANG": 11989041333,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 794,
+    "NAMA": "RIDWAN KRISNA",
+    "NO_ANG": 11985010794,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "REN DAL",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1107,
+    "NAMA": "RIDWAN YUSUF W.",
+    "NO_ANG": 11986101107,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3664,
+    "NAMA": "RIFA HENDRIANA",
+    "NO_ANG": 12014043664,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "SISTEKFO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3738,
+    "NAMA": "RIFAL AL-FARUQ",
+    "NO_ANG": 12015023738,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3678,
+    "NAMA": "RIKA FITRIA",
+    "NO_ANG": 12014053678,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "ACCOUNT CELCO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3828,
+    "NAMA": "RIKI RIADI",
+    "NO_ANG": 42016073828,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3730,
+    "NAMA": "RIKKY RIZQI R",
+    "NO_ANG": 12015013730,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 25,
+    "NAMA": "RINA MELIA",
+    "NO_ANG": 11979020025,
+    "DIV": "LUAR BIASA",
+    "BAG": "KUNG PROY",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3351,
+    "NAMA": "RINA SMS",
+    "NO_ANG": 42010043351,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3487,
+    "NAMA": "RINGGA PRATAMA",
+    "NO_ANG": 12012053487,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "SE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 946,
+    "NAMA": "RINI MURDIANI",
+    "NO_ANG": 81985090946,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1806,
+    "NAMA": "RIRI RIYADI",
+    "NO_ANG": 11993111806,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3916,
+    "NAMA": "RISKY PUTRI PERWATI",
+    "NO_ANG": 12018083916,
+    "DIV": "SBU DDS",
+    "BAG": "DDS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2897,
+    "NAMA": "RISLAN",
+    "NO_ANG": 12005022897,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "TEST&COM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3829,
+    "NAMA": "RISMAN",
+    "NO_ANG": 42016073829,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3340,
+    "NAMA": "RISNA DE SINTA",
+    "NO_ANG": 42010023340,
+    "DIV": "PT INTENS",
+    "BAG": "",
+    "PERS": "INTEN"
+  },
+  {
+    "NO_ID": 3635,
+    "NAMA": "RITA EKAWATI",
+    "NO_ANG": 42014013635,
+    "DIV": "PT IPMS",
+    "BAG": "IPMS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3349,
+    "NAMA": "RITA RATNASARI",
+    "NO_ANG": 42010043349,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3659,
+    "NAMA": "RIZKA AMELIA K",
+    "NO_ANG": 42014033659,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2607,
+    "NAMA": "RIZKA IRAWAN, IR.MBA.",
+    "NO_ANG": 72000082607,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3435,
+    "NAMA": "RIZKANOVA RUDIAWAN",
+    "NO_ANG": 52011103435,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "CORPORATE",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3535,
+    "NAMA": "RIZKY JUNITA SARI H",
+    "NO_ANG": 12013013535,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "TITO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3442,
+    "NAMA": "RIZQI AYUNDA PRATAMA",
+    "NO_ANG": 12011113442,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "BAG.LOGISTIK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3906,
+    "NAMA": "ROBBY GILANG R.T",
+    "NO_ANG": 12018043906,
+    "DIV": "SBU SE",
+    "BAG": "SE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 232,
+    "NAMA": "ROCHMAN SUHERMAN",
+    "NO_ANG": 11979020232,
+    "DIV": "LUAR BIASA",
+    "BAG": "PROD&BAIK",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2546,
+    "NAMA": "ROHAYATI",
+    "NO_ANG": 12000022546,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "TAN MAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2644,
+    "NAMA": "ROHMAN DEDE C.",
+    "NO_ANG": 12000112644,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3414,
+    "NAMA": "ROHMAN MULYANA",
+    "NO_ANG": 42011073414,
+    "DIV": "LUAR BIASA",
+    "BAG": "DRIVER",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2504,
+    "NAMA": "ROHMAN SUDIRMAN",
+    "NO_ANG": 11999072504,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1972,
+    "NAMA": "ROHMAT SAHDI",
+    "NO_ANG": 11994061972,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "BANG&NIKIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3895,
+    "NAMA": "ROSA ULINA BR MANIK",
+    "NO_ANG": 12017083895,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3466,
+    "NAMA": "ROSEP",
+    "NO_ANG": 42012013466,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3613,
+    "NAMA": "ROSITA M. H",
+    "NO_ANG": 72013113613,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3876,
+    "NAMA": "ROSSY NURFAUZI",
+    "NO_ANG": 42017013876,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1411,
+    "NAMA": "RR. ONY SUSWATI",
+    "NO_ANG": 11990101411,
+    "DIV": "SBU BROADBAND",
+    "BAG": "G.NON TOR",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3830,
+    "NAMA": "RUDI KARTONO",
+    "NO_ANG": 42016073830,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1222,
+    "NAMA": "RUDI ROSADI D.R",
+    "NO_ANG": 11988031222,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1485,
+    "NAMA": "RUDY LIZWARIL, DRS.,AK.",
+    "NO_ANG": 11991081485,
+    "DIV": "SPI",
+    "BAG": "SISTAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2618,
+    "NAMA": "RUHIYAT ENGKIM",
+    "NO_ANG": 12000092618,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3510,
+    "NAMA": "RUPINI",
+    "NO_ANG": 72012093510,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2949,
+    "NAMA": "RUSDI AMIN. H,ST",
+    "NO_ANG": 12005112949,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "JAR TAP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2951,
+    "NAMA": "RUSTAM SUMARDI",
+    "NO_ANG": 12005122951,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 707,
+    "NAMA": "RYTHME AULIA, IR.",
+    "NO_ANG": 11984020707,
+    "DIV": "LUAR BIASA",
+    "BAG": "MPP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3405,
+    "NAMA": "S. AGNE JM",
+    "NO_ANG": 52011053405,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3638,
+    "NAMA": "S. LESTARI",
+    "NO_ANG": 42014013638,
+    "DIV": "PT IPMS",
+    "BAG": "IPMS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2888,
+    "NAMA": "SAAD NOOR",
+    "NO_ANG": 12005012888,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "SIS FO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1711,
+    "NAMA": "SADNADI",
+    "NO_ANG": 11993041711,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "YAN&REMUN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3315,
+    "NAMA": "SAEFUL MUTAKIN",
+    "NO_ANG": 12009093315,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "OPS I",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3831,
+    "NAMA": "SAEPUDIN BAYU S.",
+    "NO_ANG": 42016073831,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1823,
+    "NAMA": "SAEPUDIN YUNUS",
+    "NO_ANG": 11994011823,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3358,
+    "NAMA": "SAFAAT YUDHA P",
+    "NO_ANG": 42010063358,
+    "DIV": "PT WBI",
+    "BAG": "UMUM&RT",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1120,
+    "NAMA": "SAIBUN JAMALI",
+    "NO_ANG": 11986121120,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "RENDAL JUAL",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3898,
+    "NAMA": "SAIPUL RAHMAN",
+    "NO_ANG": 42017103898,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2045,
+    "NAMA": "SALOMO K.S. IR.",
+    "NO_ANG": 11994112045,
+    "DIV": "LUAR BIASA",
+    "BAG": "KUNG PROD",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2967,
+    "NAMA": "SANDYANA TS",
+    "NO_ANG": 42006022967,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT IBP/KELUAR",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3683,
+    "NAMA": "SANTI SUSANTI",
+    "NO_ANG": 42014063683,
+    "DIV": "PT IPMS",
+    "BAG": "IPMS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3495,
+    "NAMA": "SANTOSO",
+    "NO_ANG": 72012083495,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3088,
+    "NAMA": "SARTINI",
+    "NO_ANG": 42007023088,
+    "DIV": "SEJATI",
+    "BAG": "SEJATI",
+    "PERS": "SEJATI"
+  },
+  {
+    "NO_ID": 3499,
+    "NAMA": "SATRIADI",
+    "NO_ANG": 72012083499,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3637,
+    "NAMA": "SELVIENTINA",
+    "NO_ANG": 42014013637,
+    "DIV": "PT IPMS",
+    "BAG": "IPMS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2652,
+    "NAMA": "SETIAWAN",
+    "NO_ANG": 12000122652,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "HUKUM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1441,
+    "NAMA": "SETIAWAN ABAS",
+    "NO_ANG": 11991021441,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3497,
+    "NAMA": "SETIYOWIBOWO AP",
+    "NO_ANG": 12012083497,
+    "DIV": "SBU BROADBAND",
+    "BAG": "MSDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3375,
+    "NAMA": "SINTA DARIA",
+    "NO_ANG": 52011033375,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3251,
+    "NAMA": "SITI JUBAEDAH",
+    "NO_ANG": 62008073251,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT IBP/OS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3615,
+    "NAMA": "SITI KURNIASIH",
+    "NO_ANG": 72013123615,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3832,
+    "NAMA": "SLAMET",
+    "NO_ANG": 42016073832,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3512,
+    "NAMA": "SLAMET EFENDI",
+    "NO_ANG": 72012093512,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1990,
+    "NAMA": "SOEWANDI",
+    "NO_ANG": 11994081990,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "RENDALPRO1",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1081,
+    "NAMA": "SOEWARTO WAROEDJOE",
+    "NO_ANG": 11986091081,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2432,
+    "NAMA": "SOFYAN DAVID SUBIYANTO,ST",
+    "NO_ANG": 11997122432,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "HUMAS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2573,
+    "NAMA": "SOLIHAT MAHYUDIN",
+    "NO_ANG": 12000022573,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2659,
+    "NAMA": "SONI DRADJAT R.",
+    "NO_ANG": 12001012659,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2556,
+    "NAMA": "SOPYAN BASYAR",
+    "NO_ANG": 12000022556,
+    "DIV": "SBU BROADBAND",
+    "BAG": "YAN&REMUN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2714,
+    "NAMA": "SRI DHARWIYANTI",
+    "NO_ANG": 12002072714,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "BANGSISTEK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3702,
+    "NAMA": "SRI FITRIANY",
+    "NO_ANG": 72014073702,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2424,
+    "NAMA": "SRI HARSONO,S.T.",
+    "NO_ANG": 11997112424,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "PROD KUNG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2885,
+    "NAMA": "SRI RAHAYU",
+    "NO_ANG": 42005012885,
+    "DIV": "PT WBI",
+    "BAG": "WBI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1281,
+    "NAMA": "SRI ROSFINA",
+    "NO_ANG": 11988091281,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "TAN KUG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2627,
+    "NAMA": "SRI SULASTRI",
+    "NO_ANG": 12000092627,
+    "DIV": "LUAR BIASA",
+    "BAG": "KUNG JUAL",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1552,
+    "NAMA": "SRIE SOEGIARTI",
+    "NO_ANG": 41992041552,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 496,
+    "NAMA": "SUDIRMAN WIRADIMADJA",
+    "NO_ANG": 11981090496,
+    "DIV": "SBU BROADBAND",
+    "BAG": "DAAN 1",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 898,
+    "NAMA": "SUDRADJAT ACHMAD",
+    "NO_ANG": 11985050898,
+    "DIV": "SBU BROADBAND",
+    "BAG": "MONT PERFORM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1030,
+    "NAMA": "SUDRIANTO",
+    "NO_ANG": 11986021030,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "REN DAL KONTDAN JUAL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1102,
+    "NAMA": "SUGANDI PAKIH",
+    "NO_ANG": 11986101102,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG&PURJU",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3905,
+    "NAMA": "SUGARMANA",
+    "NO_ANG": 12018043905,
+    "DIV": "SDM",
+    "BAG": "CS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3722,
+    "NAMA": "SUGARMANA",
+    "NO_ANG": 12014113722,
+    "DIV": "CORPORATE SERVICE",
+    "BAG": "PT.INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2646,
+    "NAMA": "SUGENG ABDUL K.",
+    "NO_ANG": 12000112646,
+    "DIV": "SBU BROADBAND",
+    "BAG": "REN DAN IMP PROY 2",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1110,
+    "NAMA": "SUGENG M.W",
+    "NO_ANG": 11986101110,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2013,
+    "NAMA": "SUGENG SISWANTO",
+    "NO_ANG": 11994092013,
+    "DIV": "SBU BROADBAND",
+    "BAG": "MANA SERV",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2943,
+    "NAMA": "SUGIYANTO",
+    "NO_ANG": 42005082943,
+    "DIV": "LUAR BIASA",
+    "BAG": "CORPORATE",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1973,
+    "NAMA": "SUHANDA A. SUMARYA",
+    "NO_ANG": 11994061973,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1109,
+    "NAMA": "SUHARDI HADI S.",
+    "NO_ANG": 11986101109,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "RICE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3598,
+    "NAMA": "SUHARDIMAN",
+    "NO_ANG": 42013083598,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1339,
+    "NAMA": "SUHARTO, DRS",
+    "NO_ANG": 81989051339,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1260,
+    "NAMA": "SUHENDAR SABITA",
+    "NO_ANG": 11988061260,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2660,
+    "NAMA": "SUHENDAR SUHAMAN",
+    "NO_ANG": 12001012660,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2104,
+    "NAMA": "SUHENDRA SALIM",
+    "NO_ANG": 11995062104,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "DAAN 1",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 956,
+    "NAMA": "SUHENDRIYADI S.",
+    "NO_ANG": 11985100956,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "REN DAN IMP PROY 2",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 680,
+    "NAMA": "SUKARYO",
+    "NO_ANG": 11983080680,
+    "DIV": "LUAR BIASA",
+    "BAG": "GIH DAN RIMA TELCO",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2481,
+    "NAMA": "SUKISMANNATA",
+    "NO_ANG": 11999062481,
+    "DIV": "LUAR BIASA",
+    "BAG": "KUNG OP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1363,
+    "NAMA": "SULAEMAN",
+    "NO_ANG": 11989091363,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3460,
+    "NAMA": "SULASNO",
+    "NO_ANG": 52012013460,
+    "DIV": "LUAR BIASA",
+    "BAG": "KOP.INTI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2491,
+    "NAMA": "SUMARNA",
+    "NO_ANG": 11999072491,
+    "DIV": "SBU BROADBAND",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3073,
+    "NAMA": "SUMARNO",
+    "NO_ANG": 42007013073,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2918,
+    "NAMA": "SUMARSONO",
+    "NO_ANG": 42005062918,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1319,
+    "NAMA": "SUNADI RASMIN",
+    "NO_ANG": 11989031319,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "MAN SDM & REMUN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3833,
+    "NAMA": "SUNANDAR",
+    "NO_ANG": 42016073833,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 396,
+    "NAMA": "SUPARDI",
+    "NO_ANG": 11980090396,
+    "DIV": "LUAR BIASA",
+    "BAG": "DIREKSI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 924,
+    "NAMA": "SUPARMAN HS.",
+    "NO_ANG": 51985070924,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 2532,
+    "NAMA": "SUPONO SUGENG",
+    "NO_ANG": 12000012532,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1429,
+    "NAMA": "SURYAMAN DAHLAN",
+    "NO_ANG": 11990121429,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "RICE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2624,
+    "NAMA": "SURYANA IBIN",
+    "NO_ANG": 12000092624,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG MPO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3700,
+    "NAMA": "SURYANA NURSOLIDAH",
+    "NO_ANG": 42014073700,
+    "DIV": "LUAR BIASA",
+    "BAG": "OPS2",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2095,
+    "NAMA": "SURYANI",
+    "NO_ANG": 41995062095,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3524,
+    "NAMA": "SURYATI",
+    "NO_ANG": 72012103524,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2561,
+    "NAMA": "SURYATI",
+    "NO_ANG": 82000092561,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3628,
+    "NAMA": "SUSAN NULHOVIE",
+    "NO_ANG": 42014013628,
+    "DIV": "LUAR BIASA",
+    "BAG": "IMPL TITO REG 1",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2102,
+    "NAMA": "SUSANDOKO",
+    "NO_ANG": 11995062102,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1916,
+    "NAMA": "SUSI DARMANTO, IR.",
+    "NO_ANG": 11994041916,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3353,
+    "NAMA": "SUSILO",
+    "NO_ANG": 12010053353,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2637,
+    "NAMA": "SUSILO HADI",
+    "NO_ANG": 12000102637,
+    "DIV": "SBU BROADBAND",
+    "BAG": "TEST&COM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2530,
+    "NAMA": "SUSILOWATI",
+    "NO_ANG": 12000012530,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3834,
+    "NAMA": "SUTARNO",
+    "NO_ANG": 42016073834,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2566,
+    "NAMA": "SUTRIANA JAYA",
+    "NO_ANG": 12000022566,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "PROD KUNG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2564,
+    "NAMA": "SUWANDI LASIMAN",
+    "NO_ANG": 12000022564,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "KUNG MPO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 378,
+    "NAMA": "SUWARSO",
+    "NO_ANG": 11980090378,
+    "DIV": "LUAR BIASA",
+    "BAG": "MPP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 817,
+    "NAMA": "SUYANTO SUDOMO",
+    "NO_ANG": 11985020817,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "MAN KUA",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3835,
+    "NAMA": "SUYITNO",
+    "NO_ANG": 42016073835,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1183,
+    "NAMA": "SUYUDHI",
+    "NO_ANG": 11987121183,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2172,
+    "NAMA": "SYAIFULLAH ANWAR",
+    "NO_ANG": 71995122172,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 993,
+    "NAMA": "SYAMSUL ARIFIN",
+    "NO_ANG": 11985110993,
+    "DIV": "SBU BROADBAND",
+    "BAG": "DAAN 3",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2770,
+    "NAMA": "SYAMSUL RIZAL IR",
+    "NO_ANG": 82003092770,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF/LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1613,
+    "NAMA": "TADIN SUHENDAR",
+    "NO_ANG": 41992101613,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "CORPORATE",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3483,
+    "NAMA": "TANTAN ROHIMAN",
+    "NO_ANG": 12012033483,
+    "DIV": "SBU BROADBAND",
+    "BAG": "MSDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3836,
+    "NAMA": "TANU FALALUDIN",
+    "NO_ANG": 42016073836,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1212,
+    "NAMA": "TARSONO SAHMID",
+    "NO_ANG": 11988021212,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG MPO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3096,
+    "NAMA": "TARTO",
+    "NO_ANG": 42007023096,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/TATA GRAHA",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3215,
+    "NAMA": "TATA SUKARTA",
+    "NO_ANG": 12008063215,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2488,
+    "NAMA": "TATA TASLIM UMRI",
+    "NO_ANG": 11999072488,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2354,
+    "NAMA": "TATANG A.",
+    "NO_ANG": 11997022354,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1357,
+    "NAMA": "TATANG M. IDING",
+    "NO_ANG": 11989081357,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1804,
+    "NAMA": "TATANG MUSTOPA",
+    "NO_ANG": 11993111804,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3327,
+    "NAMA": "TATANG SOLIHIN",
+    "NO_ANG": 12010013327,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "BANG SDM DAN PK",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1870,
+    "NAMA": "TATANG SUTRISNO",
+    "NO_ANG": 11994031870,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG MPO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 788,
+    "NAMA": "TATI ROHAYATI",
+    "NO_ANG": 81984120788,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 552,
+    "NAMA": "TATI ROSWATI, DRA",
+    "NO_ANG": 81981120552,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1180,
+    "NAMA": "TATI SRI HARTATI",
+    "NO_ANG": 11987121180,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "STRA DANA",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3663,
+    "NAMA": "TAUFIK ISMAIL",
+    "NO_ANG": 42014043663,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2654,
+    "NAMA": "TAVIVPUDIN ISMAIL",
+    "NO_ANG": 12001012654,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "DANGS DIST",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2811,
+    "NAMA": "TEDDY SULAKSANA",
+    "NO_ANG": 42004052811,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1966,
+    "NAMA": "TEGUH ADI S, IR.",
+    "NO_ANG": 11994051966,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3119,
+    "NAMA": "TEGUH GINANJAR",
+    "NO_ANG": 42007053119,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3571,
+    "NAMA": "TENGKU HANIFAH R",
+    "NO_ANG": 42013033571,
+    "DIV": "LUAR BIASA",
+    "BAG": "IBP",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3367,
+    "NAMA": "TETTY SAWITRI",
+    "NO_ANG": 72010093367,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1376,
+    "NAMA": "TETY SETIAWATI",
+    "NO_ANG": 11989121376,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1240,
+    "NAMA": "TETY SUPARTI",
+    "NO_ANG": 11988051240,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3480,
+    "NAMA": "TIFANI NURUL AISA",
+    "NO_ANG": 12012033480,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "MSDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1514,
+    "NAMA": "TIRTA SUMANTRI",
+    "NO_ANG": 11991111514,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KOM HAR",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3592,
+    "NAMA": "TITA KARWITA",
+    "NO_ANG": 12013073592,
+    "DIV": "SBU BROADBAND",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1678,
+    "NAMA": "TITO GEORGE L.S",
+    "NO_ANG": 11992121678,
+    "DIV": "SBU BROADBAND",
+    "BAG": "BANG&NIKIN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3877,
+    "NAMA": "TITO GUFTA PRATAMA",
+    "NO_ANG": 12017023877,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 83,
+    "NAMA": "TJUTJU ANISAH",
+    "NO_ANG": 71979020083,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3519,
+    "NAMA": "TJUTJU ROKAYAH",
+    "NO_ANG": 72012093519,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3837,
+    "NAMA": "TOHAERUDIN",
+    "NO_ANG": 42016073837,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1229,
+    "NAMA": "TONI PRAYITNO",
+    "NO_ANG": 11988031229,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "G. TELKOM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3307,
+    "NAMA": "TONY JULIANTO",
+    "NO_ANG": 72009073307,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2905,
+    "NAMA": "TONY SETIA PERMANA",
+    "NO_ANG": 42005032905,
+    "DIV": "LUAR BIASA",
+    "BAG": "UMUM/BHS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3747,
+    "NAMA": "TRESNAWATI RAHAYU NINGSIH",
+    "NO_ANG": 12015053747,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3660,
+    "NAMA": "TRI JAJANG SUJANA",
+    "NO_ANG": 12014033660,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "SE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3196,
+    "NAMA": "TRI JOKO ASTONO",
+    "NO_ANG": 12008053196,
+    "DIV": "LUAR BIASA",
+    "BAG": "KUNG MPO",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2557,
+    "NAMA": "TRI JOKO RINTIARTO",
+    "NO_ANG": 12000022557,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3690,
+    "NAMA": "TRI PANZI",
+    "NO_ANG": 42014063690,
+    "DIV": "PT IPMS",
+    "BAG": "ENGINEERING",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3752,
+    "NAMA": "TRI PURTI JUNARTO",
+    "NO_ANG": 42015073752,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1088,
+    "NAMA": "TRI SUGIHARTO",
+    "NO_ANG": 11986101088,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1045,
+    "NAMA": "TRIA SUSIAWATI",
+    "NO_ANG": 11986051045,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "YAN SDM DAN REMUN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2788,
+    "NAMA": "TUBAGUS G. IMANSYAH",
+    "NO_ANG": 42004032788,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "OFFICE BOY",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3447,
+    "NAMA": "TUMINAH",
+    "NO_ANG": 12011123447,
+    "DIV": "SBU BROADBAND",
+    "BAG": "MSDM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1828,
+    "NAMA": "UCU SAPRUDIN",
+    "NO_ANG": 11994011828,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1820,
+    "NAMA": "UJANG KRISNO, IR.",
+    "NO_ANG": 11993121820,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2790,
+    "NAMA": "UJANG ROSID",
+    "NO_ANG": 62004032790,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3338,
+    "NAMA": "UJANG SAEPUDIN",
+    "NO_ANG": 42010023338,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "PT IBP/KEAMANAN",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2541,
+    "NAMA": "UJANG SOBARI",
+    "NO_ANG": 12000022541,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2720,
+    "NAMA": "UJANG SUPRIATNA",
+    "NO_ANG": 12002112720,
+    "DIV": "SBU BROADBAND",
+    "BAG": "RENDAL LOG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2896,
+    "NAMA": "UJANG TATANG",
+    "NO_ANG": 12005022896,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "KUNG MPO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1827,
+    "NAMA": "UMI MASLIKAH, DRA.",
+    "NO_ANG": 11994011827,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "TAN MAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1205,
+    "NAMA": "UNAENAH",
+    "NO_ANG": 11988021205,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2543,
+    "NAMA": "UNDANG HADIYAT",
+    "NO_ANG": 12000022543,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 895,
+    "NAMA": "UNDANG R. SAFARI",
+    "NO_ANG": 11985050895,
+    "DIV": "SBU BROADBAND",
+    "BAG": "TEK KUA PROY",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1771,
+    "NAMA": "UNDANG SURYANA S.",
+    "NO_ANG": 11993081771,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3909,
+    "NAMA": "UPAR SAEPUL JALAL",
+    "NO_ANG": 42018053909,
+    "DIV": "KEUANGAN",
+    "BAG": "ADKUG",
+    "PERS": "PT. MBIP"
+  },
+  {
+    "NO_ID": 207,
+    "NAMA": "USMAN RACHMAN",
+    "NO_ANG": 71979020207,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3513,
+    "NAMA": "UUN SUNANDAR",
+    "NO_ANG": 72012093513,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2666,
+    "NAMA": "UUS LUKMAN",
+    "NO_ANG": 12001032666,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "PKBL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1167,
+    "NAMA": "UUS SUHAEDI",
+    "NO_ANG": 11987101167,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "DAAN II",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3626,
+    "NAMA": "VERISA RIANTI",
+    "NO_ANG": 42014013626,
+    "DIV": "LUAR BIASA",
+    "BAG": "TITO 1",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3897,
+    "NAMA": "VINI PRADINI",
+    "NO_ANG": 42017103897,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2740,
+    "NAMA": "WAGIYATI",
+    "NO_ANG": 12003042740,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "LAP MAN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3511,
+    "NAMA": "WAHAB SIREGAR",
+    "NO_ANG": 72012093511,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3426,
+    "NAMA": "WAHYU KURNIAWAN",
+    "NO_ANG": 42011083426,
+    "DIV": "LUAR BIASA",
+    "BAG": "OS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3259,
+    "NAMA": "WAHYU NURHADIAH",
+    "NO_ANG": 12008083259,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "HUKUM",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3786,
+    "NAMA": "WAHYUDIN",
+    "NO_ANG": 72016013786,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2950,
+    "NAMA": "WALUYO KUSMANA",
+    "NO_ANG": 12005112950,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 786,
+    "NAMA": "WARJO OHIM",
+    "NO_ANG": 11984120786,
+    "DIV": "SBU BROADBAND",
+    "BAG": "DANG DIST",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3530,
+    "NAMA": "WASIS BINTORO",
+    "NO_ANG": 12012113530,
+    "DIV": "LUAR BIASA",
+    "BAG": "BAG. BANG SDM",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1164,
+    "NAMA": "WASONO",
+    "NO_ANG": 11987101164,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG&PURJU",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3580,
+    "NAMA": "WAWAN DARMAWAN",
+    "NO_ANG": 42013053580,
+    "DIV": "PENGEMUDI",
+    "BAG": "KENDARAAN",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 1636,
+    "NAMA": "WAWAN ERNAWAN U.W",
+    "NO_ANG": 11992111636,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3850,
+    "NAMA": "WAWAN HERAWAN",
+    "NO_ANG": 42016103850,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1729,
+    "NAMA": "WAWAN KUSTIAWAN",
+    "NO_ANG": 81993051729,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3334,
+    "NAMA": "WAWAN SETIAWAN",
+    "NO_ANG": 42010023334,
+    "DIV": "LUAR BIASA",
+    "BAG": "",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3838,
+    "NAMA": "WAWAN SETIAWAN",
+    "NO_ANG": 42016073838,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2668,
+    "NAMA": "WAWAN SOWANDI",
+    "NO_ANG": 12001032668,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "KUNG MPO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3839,
+    "NAMA": "WAWAN SUHERMAN",
+    "NO_ANG": 42016073839,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3500,
+    "NAMA": "WELTY MULYONO",
+    "NO_ANG": 72012083500,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2895,
+    "NAMA": "WIDI SULISTYONO",
+    "NO_ANG": 12005022895,
+    "DIV": "SPI",
+    "BAG": "CME",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3182,
+    "NAMA": "WIDI UTAMI P",
+    "NO_ANG": 12008043182,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "JAR SEL",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3881,
+    "NAMA": "WIDIATMAKA",
+    "NO_ANG": 42017023881,
+    "DIV": "PENGEMUDI",
+    "BAG": "PENGEMUDI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3474,
+    "NAMA": "WIDIYANTO",
+    "NO_ANG": 72012023474,
+    "DIV": "LUAR BIASA",
+    "BAG": "LB",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3904,
+    "NAMA": "WIDYA ARIANTI",
+    "NO_ANG": 42018043904,
+    "DIV": "ADMIN",
+    "BAG": "ADMIN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1166,
+    "NAMA": "WIJI PURWITO",
+    "NO_ANG": 11987101166,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3319,
+    "NAMA": "WIJONARKO",
+    "NO_ANG": 12009103319,
+    "DIV": "LUAR BIASA",
+    "BAG": "ITC",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3675,
+    "NAMA": "WILDAN CAHYA RAKHMADI",
+    "NO_ANG": 12014043675,
+    "DIV": "LUAR BIASA",
+    "BAG": "IMPL TITO",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3693,
+    "NAMA": "WILDAN S",
+    "NO_ANG": 42014063693,
+    "DIV": "PT IPMS",
+    "BAG": "OPRASIONAL",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3619,
+    "NAMA": "WINDA MAYA FRESTIKAWATI",
+    "NO_ANG": 12014013619,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "OPS CELCO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3627,
+    "NAMA": "WINDY SHINTA MAHARANY",
+    "NO_ANG": 42014013627,
+    "DIV": "LUAR BIASA",
+    "BAG": "IMPL TITO REG1",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3840,
+    "NAMA": "WINTO HARIYADI",
+    "NO_ANG": 42016073840,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 764,
+    "NAMA": "WIWI HARYATI K.",
+    "NO_ANG": 11984120764,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "DANA OPS",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2765,
+    "NAMA": "WIWIN WINDAJANI",
+    "NO_ANG": 42003082765,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3330,
+    "NAMA": "WOELAN OCTAVIANA",
+    "NO_ANG": 12010013330,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1846,
+    "NAMA": "WORO UTAMI, DRA.",
+    "NO_ANG": 11994021846,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "TAN KUG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3841,
+    "NAMA": "WOYO SISWOYO",
+    "NO_ANG": 42016073841,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 0,
+    "NAMA": "xxx",
+    "NO_ANG": 0,
+    "DIV": "",
+    "BAG": "",
+    "PERS": "lb"
+  },
+  {
+    "NO_ID": 3842,
+    "NAMA": "YADI TARYADI",
+    "NO_ANG": 42016073842,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1165,
+    "NAMA": "YAHMAN MULYANA",
+    "NO_ANG": 11987101165,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "DAAN I",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3070,
+    "NAMA": "YAKUB SUPRAPTO",
+    "NO_ANG": 42007013070,
+    "DIV": "KEAMANAN PT INTI",
+    "BAG": "SATPAM PT. INTI",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1535,
+    "NAMA": "YANA SURYANA",
+    "NO_ANG": 51992021535,
+    "DIV": "KOPERASI INTI",
+    "BAG": "KOP. INTI",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 2936,
+    "NAMA": "YANARDIAN AGRIANTO,ST",
+    "NO_ANG": 12005082936,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "TI&KONTEN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3792,
+    "NAMA": "YANDI OKTAVIANA",
+    "NO_ANG": 12016043792,
+    "DIV": "LUAR BIASA",
+    "BAG": "PROJECT 1",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2708,
+    "NAMA": "YANI GUSTIANA",
+    "NO_ANG": 12002042708,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "CME",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3140,
+    "NAMA": "YANI RATNAWATI",
+    "NO_ANG": 52007073140,
+    "DIV": "LUAR BIASA",
+    "BAG": "KOP. INTI",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2771,
+    "NAMA": "YANI SURYANI",
+    "NO_ANG": 42003102771,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 831,
+    "NAMA": "YAYA SUHARYA",
+    "NO_ANG": 11985020831,
+    "DIV": "SEKRETARIS PERUSAHAAN",
+    "BAG": "DANG DIST",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2766,
+    "NAMA": "YAYAH SULASIAH",
+    "NO_ANG": 42003082766,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "CORPORATE",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1609,
+    "NAMA": "YAYAT",
+    "NO_ANG": 11992091609,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3843,
+    "NAMA": "YAYAT HIDAYAT",
+    "NO_ANG": 42016073843,
+    "DIV": "KEAMANAN DAHANA",
+    "BAG": "SATPAM",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3757,
+    "NAMA": "YAYAT HIDAYAT",
+    "NO_ANG": 42015123757,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT. IBP DAHANA",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2729,
+    "NAMA": "YAYAT RUHIYAT",
+    "NO_ANG": 12003032729,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "TAN KUG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2761,
+    "NAMA": "YAYAT SUPRIATNA",
+    "NO_ANG": 42003072761,
+    "DIV": "LUAR BIASA",
+    "BAG": "PENDUKUNG",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3643,
+    "NAMA": "YEDI FIRMANSYAH",
+    "NO_ANG": 42014023643,
+    "DIV": "PENGEMUDI",
+    "BAG": "KENDARAAN",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 1090,
+    "NAMA": "YENNY MARYANI",
+    "NO_ANG": 11986101090,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2884,
+    "NAMA": "YENNY RACHMAWATI",
+    "NO_ANG": 42005012884,
+    "DIV": "PT IKE",
+    "BAG": "PT IKE",
+    "PERS": "PT. IKE"
+  },
+  {
+    "NO_ID": 3561,
+    "NAMA": "YESI VERLINA",
+    "NO_ANG": 42013023561,
+    "DIV": "PT INTENS",
+    "BAG": "OS",
+    "PERS": "INTEN"
+  },
+  {
+    "NO_ID": 3139,
+    "NAMA": "YESSI ANDRIANI",
+    "NO_ANG": 42007073139,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 2012,
+    "NAMA": "YETTI HARNELIS",
+    "NO_ANG": 11994092012,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "TAN KUG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2436,
+    "NAMA": "YOES ROOSSENO, S.T.",
+    "NO_ANG": 11998032436,
+    "DIV": "LUAR BIASA",
+    "BAG": "RENDAL JUAL",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1002,
+    "NAMA": "YONO SANTIO",
+    "NO_ANG": 11985121002,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "PRODUKSI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2942,
+    "NAMA": "YOYO ARYANTO",
+    "NO_ANG": 12005082942,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2623,
+    "NAMA": "YOYO S, IR.",
+    "NO_ANG": 12000092623,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "KADIV&STAF",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 610,
+    "NAMA": "YOYO SUMANTOYO",
+    "NO_ANG": 11983010610,
+    "DIV": "SBU BROADBAND",
+    "BAG": "IMPLEMENTASI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3171,
+    "NAMA": "YUANOVITA HAPSARI",
+    "NO_ANG": 12007123171,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "KOM SYSINT",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3198,
+    "NAMA": "YUDHA DWI SUSANTO",
+    "NO_ANG": 12008053198,
+    "DIV": "LUAR BIASA",
+    "BAG": "TAN MAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3314,
+    "NAMA": "YUDI",
+    "NO_ANG": 42009083314,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1783,
+    "NAMA": "YUDI LIMBAR YASIK IR.,MSc",
+    "NO_ANG": 11993091783,
+    "DIV": "BANGBIS & PRODUK",
+    "BAG": "TI&KONTEN",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3899,
+    "NAMA": "YUDI SAPTIAWAN",
+    "NO_ANG": 72017113899,
+    "DIV": "LB",
+    "BAG": "PENSIUNAN",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1195,
+    "NAMA": "YUDI SUPRIADI",
+    "NO_ANG": 11988011195,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1629,
+    "NAMA": "YULIANTI",
+    "NO_ANG": 41992101629,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 689,
+    "NAMA": "YULIARTO EDY, IR",
+    "NO_ANG": 81983090689,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 2598,
+    "NAMA": "YULIATNO RAWOSI",
+    "NO_ANG": 12000072598,
+    "DIV": "CORPORATE SERVICES",
+    "BAG": "SIS FO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2600,
+    "NAMA": "YULIUS RIYANTO",
+    "NO_ANG": 12000072600,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "JAR TAP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1119,
+    "NAMA": "YULIZAR",
+    "NO_ANG": 11986121119,
+    "DIV": "SPI",
+    "BAG": "DIT KUG",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3569,
+    "NAMA": "YUNI KHAIRUNNISA",
+    "NO_ANG": 42013033569,
+    "DIV": "TATAGRAHA PT INTI",
+    "BAG": "IBP",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 3179,
+    "NAMA": "YUNI SETIAWATI",
+    "NO_ANG": 42008043179,
+    "DIV": "CORPORATE PT IBP",
+    "BAG": "PT IBP/PENDUKUNG",
+    "PERS": "PT. IBP"
+  },
+  {
+    "NO_ID": 1602,
+    "NAMA": "YUNIARTO, DRS",
+    "NO_ANG": 11992091602,
+    "DIV": "CORPORATE FINANCE",
+    "BAG": "KUNG MPO",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3739,
+    "NAMA": "YUNIZAR",
+    "NO_ANG": 42015023739,
+    "DIV": "PENGEMUDI",
+    "BAG": "IBP",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 3894,
+    "NAMA": "YURIZKA ANINDITA",
+    "NO_ANG": 12017083894,
+    "DIV": "SBU BROADBAND",
+    "BAG": "INTI",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3646,
+    "NAMA": "YUSDIANTI SAPUTRI",
+    "NO_ANG": 12014023646,
+    "DIV": "SBU BROADBAND",
+    "BAG": "SE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 3416,
+    "NAMA": "YUSI WIDI R.Y",
+    "NO_ANG": 42011073417,
+    "DIV": "LUAR BIASA",
+    "BAG": "PT IBP/OS",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 749,
+    "NAMA": "YUSTINE KUSMINTARSIH",
+    "NO_ANG": 71984110749,
+    "DIV": "KOPERASI INTI",
+    "BAG": "GIH RIMA",
+    "PERS": "KOP.INTI"
+  },
+  {
+    "NO_ID": 1930,
+    "NAMA": "YUYUS SUTISNA",
+    "NO_ANG": 81994051930,
+    "DIV": "LUAR BIASA",
+    "BAG": "NON AKTIF",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1395,
+    "NAMA": "ZAENAL MUTAQIN",
+    "NO_ANG": 11990061395,
+    "DIV": "SBU SMART ENERGY",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 1746,
+    "NAMA": "ZAINAL ARIPIN",
+    "NO_ANG": 11993061746,
+    "DIV": "SBU BROADBAND",
+    "BAG": "KUNG OP",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 807,
+    "NAMA": "ZAINISWAR ZAIN",
+    "NO_ANG": 11985020807,
+    "DIV": "LUAR BIASA",
+    "BAG": "RICE",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 3478,
+    "NAMA": "ZAKI RAMDHON A",
+    "NO_ANG": 12012023478,
+    "DIV": "SBU DEFENSE & DIGITAL SERVICE",
+    "BAG": "SE",
+    "PERS": "INTI"
+  },
+  {
+    "NO_ID": 2527,
+    "NAMA": "ZAMZAMI M. FADHIL",
+    "NO_ANG": 11999122527,
+    "DIV": "LUAR BIASA",
+    "BAG": "MAN ASET",
+    "PERS": "LB"
+  },
+  {
+    "NO_ID": 1006,
+    "NAMA": "ZULJASMI MALAY",
+    "NO_ANG": 51985121006,
+    "DIV": "LUAR BIASA",
+    "BAG": "KOP. INTI",
+    "PERS": "LB"
+  }
+]
