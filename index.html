@@ -66,10 +66,19 @@
 
         <script>
             var timeout;
+            var winner = new Array();
             var stop = $('#btnStop');
             var start = $('#btnStart');
             var detail = $('#detail_anggota');
 
+            var random = (function (){
+              var index = Math.floor(Math.random() * (objData.length - 1));
+              $('#nama_anggota').html(objData[index].NAMA);
+              $('#detail_anggota').html('No Anggota : ' + objData[index].NO_ANG + '<br>' + objData[index].PERS);
+              $("#nama_anggota").attr("data-value", index);
+            });
+
+            window.sessionStorage.removeItem('list_pemenang');
             var obj = (function () {
                 var json = null;
                 $.ajax({
@@ -84,30 +93,36 @@
                 });
                 return json;
             })();
+
             var objData = JSON.parse(window.sessionStorage.getItem('anggota_koperasi'));
-            // console.log(JSON.parse(window.sessionStorage.getItem('anggota_koperasi'))['2']);
+
             start.click(function(){
-                $(this).hide(); 
+                start.hide(); 
                 stop.show();
                 detail.hide()
                 timeout = setInterval(function(){
-                    var index = Math.floor(Math.random() * (objData.length-1));
-                    $('#nama_anggota').html(objData[index].NAMA);
-                    $('#detail_anggota').html('No Anggota : '+objData[index].NO_ANG+'<br>'+objData[index].PERS);
-                    $("#nama_anggota").attr("data-value", index);
+                  random();
                 }, 50);
 
                 return false;
             });
 
             stop.click(function(){
+              let id = $("#nama_anggota").attr("data-value");
+
+              if(winner.indexOf(id) > -1){ // Jika pemenang sudah pernah menang
+                random();
+                
+                winner.push(index);
+              }else{
+                winner.push(id);
+              }
+
+                clearInterval(timeout);
+                window.sessionStorage.setItem('list_pemenang', JSON.stringify(winner));
                 start.show();
                 stop.hide();
                 detail.show();
-                clearInterval(timeout);
-                let ul = $('#data-pemenang');
-                let id = $("#nama_anggota").attr("data-value");
-                // ul.append("<li><a>"+ objData[id].NAMA+"</a></li>");
                 
                 return false;
             });
