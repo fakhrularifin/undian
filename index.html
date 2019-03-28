@@ -9,22 +9,24 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.css"/>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <style>
+          
+          .hero-head{
+            height: 15rem;
+            background-image: url("assets/img/bg-header.png");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+          }
+         
+        </style>
     </head>
     <body>
-        <section class="bd-index-fullscreen is-fullheight hero is-light">
-          <div class="hero-head is-info">
-            <nav class="navbar">
-              <div class="container">
-                <div class="navbar-brand">
-                  <a class="navbar-item">
-                    <h1 class="title">Koperasi INTI</h1>
-                  </a>
-                </div>
-              </div>
-            </nav>
+        <section class="is-fullheight hero is-light">
+          <div class="hero-head">
           </div>
           <div class="hero-body">
-            <div class="container has-text-centered">              
+            <div class="container has-text-centered">
               <h1 class="title" id="nama_anggota" data-value>
                 Nama Anggota
               </h1>
@@ -41,14 +43,7 @@
               </h1>
             </div>
           </div>
-          <div class="hero-foot">
-            <nav class="tabs">
-              <div class="container">
-                <ul id="data-pemenang">
-                </ul>
-              </div>
-            </nav>
-          </div>
+          
         </section>
 
         <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase.js"></script>
@@ -103,7 +98,7 @@
                 detail.hide()
                 timeout = setInterval(function(){
                   random();
-                }, 50);
+                }, 5);
 
                 return false;
             });
